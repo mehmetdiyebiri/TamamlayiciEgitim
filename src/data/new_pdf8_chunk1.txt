@@ -1,0 +1,725 @@
+TEST 2
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde birçok insan, bilgiye ulaşmanın geçmişe göre çok daha kolay olduğunu 
+düşünüyor. Gerçekten de internet sayesinde birkaç saniye içinde milyonlarca kaynağa 
+erişilebiliyor. Ancak eğitim uzmanları, bilgiye kolay ulaşmanın her zaman doğru bilgiye 
+ulaşmak anlamına gelmediğini belirtiyor. Çünkü dijital ortamda yayımlanan her içerik 
+bilimsel araştırmalara dayanmıyor; bazıları eksik, bazıları ise tamamen yanlış bilgiler 
+içerebiliyor. Bu nedenle araştırma yaparken yalnızca ilk karşılaşılan kaynağa güvenmek 
+yerine farklı kaynakları karşılaştırmak ve bilgilerin doğruluğunu sorgulamak büyük önem 
+taşıyor.
+Uzmanlara göre dijital okuryazarlığın temelinde de bu beceri yer alıyor. Dijital okuryazar 
+bireyler yalnızca teknolojiyi kullanabilen kişiler değildir; aynı zamanda ulaştıkları bilgiyi 
+analiz eden, kaynağını sorgulayan ve gerektiğinde doğruluğunu farklı verilerle test eden 
+kişilerdir. Özellikle sosyal medyada çok kısa sürede yayılan haberler, doğrulanmadan 
+paylaşıldığında yanlış bilgilerin binlerce kişiye ulaşmasına neden olabiliyor. Bu nedenle 
+birçok ülkede öğrencilerin erken yaşlardan itibaren medya okuryazarlığı eğitimi almaları 
+teşvik edilmektedir.
+Bununla birlikte uzmanlar, teknolojiyi tamamen zararlı olarak değerlendirmenin de doğru 
+olmadığını ifade ediyor. Çünkü doğru kullanıldığında dijital araçlar; öğrenmeyi destekleyen 
+videolar, sanal laboratuvarlar, çevrim içi kütüphaneler ve etkileşimli uygulamalar sayesinde 
+eğitim sürecini zenginleştirebiliyor. Önemli olan teknolojiye sınırsız güvenmek ya da onu 
+tamamen reddetmek değil; bilinçli ve eleştirel bir bakış açısıyla kullanabilmektir. Böylece 
+bireyler hem bilgi kirliliğinden korunabilir hem de teknolojinin sunduğu imkânlardan en 
+verimli şekilde yararlanabilir.
+1.
+Bu metinde asıl vurgulanmak istenen aşağıdakilerden hangisidir?
+A) Teknoloji eğitimden tamamen çıkarılmalıdır.
+B) İnternetteki bütün bilgiler güvenilirdir.
+C) Teknoloji, eleştirel düşünmeyle birlikte kullanıldığında yararlı olur.
+D) Sosyal medya kullanılmamalıdır.
+2.
+Metne göre aşağıdakilerden hangisi dijital okuryazar bir bireyin davranışıdır?
+A) İnternette karşılaştığı ilk bilgiyi sorgulamadan paylaşmak
+B) Bilgileri farklı kaynaklarla karşılaştırarak doğruluğunu araştırmak
+C) Sosyal medyada gördüğü her haberi doğru kabul etmek
+D) Yalnızca basılı kaynaklardan yararlanmak
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Teknoloji doğru kullanıldığında öğrenmeyi destekleyebilir.
+B) Bilgilerin doğruluğu farklı kaynaklardan kontrol edilmelidir.
+C) Medya okuryazarlığı eğitimi bazı ülkelerde desteklenmektedir.
+D) Basılı kitaplarda hiçbir zaman yanlış bilgi bulunmaz.
+4.
+Bir okulda düzenlenen "Bilim Şenliği"ne katılan öğrenciler dört farklı atölyeye katılmıştır.
+Atölye Katılan Öğrenci Proje Tamamlayan Derece Alan
+Robotik 48 42 12
+Yazılım 36 35 14
+Tasarım 40 30 9
+Astronomi 26 24 10
+Tablodaki verilere göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Dereceye girme oranı en yüksek olan atölye Yazılım Atölyesi'dir.
+B) En fazla öğrenci Robotik Atölyesi'nde derece almıştır.
+C) Proje tamamlayan her öğrenci dereceye girmiştir.
+D) Astronomi Atölyesi'nde dereceye giren öğrenci sayısı en azdır.
+5.
+Bir yayınevi, son dört yılda bastığı kitap sayılarını ve e-kitap indirilme sayılarını aşağıdaki 
+tabloda vermiştir.
+Yıl Basılı Kitap E-kitap İndirme (bin)
+2022 180 90
+2023 210 140
+2024 195 210
+2025 240 260
+Bu verilere göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Basılı kitap sayısı her yıl düzenli olarak artmıştır.
+B) E-kitap indirilme sayısı her yıl artmıştır.
+C) 2024 yılında e-kitap indirme sayısı basılı kitap sayısını aşmıştır.
+D) En fazla basılı kitap 2025 yılında yayımlanmıştır.
+Devamında (6–10. sorular): Haber analizi, iki çok koşullu mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Yağmur Bahçeleri" Projesi Başladı
+Bir büyükşehir belediyesi, ani yağışlarda oluşan su birikintilerini azaltmak ve yağmur sularını 
+değerlendirmek amacıyla "Yağmur Bahçeleri" projesini uygulamaya koydu. Kaldırımların 
+belirli bölümlerine oluşturulan özel bitki alanları, yağmur suyunun toprağa süzülmesini 
+sağlayarak hem sel riskini azaltıyor hem de yer altı su kaynaklarının beslenmesine katkıda 
+bulunuyor. Projenin ilk etabında 18 farklı noktada uygulama yapılırken önümüzdeki yıl bu 
+sayının iki katına çıkarılması planlanıyor. Çevre mühendisleri, bu uygulamanın tek başına sel 
+sorununu çözmeyeceğini ancak sürdürülebilir şehircilik açısından önemli bir adım olduğunu 
+belirtiyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Yağmur bahçelerinin temel amacı park sayısını artırmaktır.
+B) Uygulamanın yaygınlaştırılması planlanmaktadır.
+C) Yağmur sularının toprağa karışması hedeflenmektedir.
+D) Uzmanlara göre proje tek başına yeterli değildir.
+7.
+Bir okulun STEM festivalinde Arduino, Yapay Zekâ, Robotik, 3B Tasarım ve Siber 
+Güvenlik atölyeleri yan yana beş standa yerleştirilecektir.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Arduino standının hemen sağındadır.
+• Yapay Zekâ standı en solda değildir.
+• Siber Güvenlik standı, 3B Tasarım standının solundadır.
+• Arduino standı üçüncü sırada değildir.
+• 3B Tasarım standı en sağda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) Yapay Zekâ – Arduino – Robotik – Siber Güvenlik – 3B Tasarım
+B) Arduino – Robotik – Yapay Zekâ – Siber Güvenlik – 3B Tasarım
+C) Yapay Zekâ – Siber Güvenlik – 3B Tasarım – Arduino – Robotik
+D) Siber Güvenlik – 3B Tasarım – Yapay Zekâ – Arduino – Robotik
+8.
+Beş öğrenci (Ali, Burak, Cem, Deniz ve Ece) okul temsilcisi seçiminde konuşma yapacaktır.
+Bilinenler şunlardır:
+• Ali, Cem'den önce konuşacaktır.
+• Burak ilk ya da son sırada değildir.
+• Deniz, Ali'den hemen sonra konuşacaktır.
+• Ece, Burak'tan sonra konuşacaktır.
+• Cem son sırada değildir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Deniz, Ali'den sonraki sırada konuşacaktır.
+B) Burak üçüncü sırada konuşacaktır.
+C) Ece son sırada konuşacaktır.
+D) Cem ikinci sırada konuşacaktır.
+9.
+Aşağıdaki buluşlardan hangisi, Johannes Gutenberg'in geliştirdiği hareketli metal harf 
+sistemi sayesinde yaygınlaşmıştır?
+A) Buhar makinesi
+B) Matbaa
+C) Telgraf
+D) Pusula
+   Biliyor muydun?
+Gutenberg'in 15. yüzyılda geliştirdiği hareketli metal harf sistemi, kitapların çok daha hızlı 
+çoğaltılmasını sağladı. Bu gelişme; bilimsel bilginin yayılmasını hızlandırdı ve Rönesans ile 
+Reform hareketlerinin etkisini artıran önemli gelişmelerden biri olarak kabul edilir.
+10.
+Aşağıdaki kurumlardan hangisinin temel görevi, Türkiye'nin tarihî ve kültürel mirasını 
+korumak, kazı çalışmalarını desteklemek ve müzeleri yönetmektir?
+A) TÜBİTAK
+B) Türk Dil Kurumu
+C) Kültür ve Turizm Bakanlığı
+D) Devlet Arşivleri Başkanlığı
+   Biliyor muydun?
+Türkiye'de "MüzeKart" uygulaması sayesinde birçok müze ve ören yeri tek kartla ziyaret 
+edilebilmektedir. Anadolu, dünyanın en zengin arkeolojik miraslarından birine sahip olduğu 
+için her yıl çok sayıda bilimsel kazı çalışması yürütülmektedir.
+Cevap Anahtarı (Test 2)
+1. C
+2. B
+3. D
+4. A
+5. A
+6. A
+7. A
+8. A
+9. B
+10. C
+
+TEST 3
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilimsel araştırmalar, insanların bir olayla ilgili ilk izlenimlerinin kararlarını beklediklerinden 
+daha fazla etkilediğini göstermektedir. Bir kişiyle ilk kez tanışırken, bir kitabın kapağına 
+bakarken ya da bir haber başlığını okurken oluşan ilk düşünce, daha sonra edinilen bilgilerin 
+değerlendirilme biçimini değiştirebilir. Psikologlar bu durumu "ilk izlenim etkisi" olarak 
+adlandırmaktadır. Ancak ilk izlenimler her zaman doğru sonuçlar vermez. Çünkü insanlar 
+çoğu zaman sınırlı bilgiyle hızlı karar verme eğilimindedir.
+Bu nedenle uzmanlar, özellikle önemli kararlar alınırken ilk izlenimle yetinilmemesi 
+gerektiğini vurgulamaktadır. Bir ürün satın almadan önce kullanıcı yorumlarını incelemek, bir 
+haberin farklı kaynaklarda nasıl aktarıldığını karşılaştırmak veya bir kişi hakkında hüküm 
+vermeden önce onu daha yakından tanımaya çalışmak daha sağlıklı sonuçlar doğurabilir. 
+Araştırmalar, farklı bakış açılarını değerlendiren kişilerin daha isabetli kararlar alabildiğini 
+ortaya koymaktadır.
+Öte yandan ilk izlenimlerin tamamen önemsiz olduğu da söylenemez. Çünkü insanlar günlük 
+yaşamda çok sayıda karar vermek zorundadır ve her konu için uzun süre araştırma yapmaları 
+mümkün değildir. Bu nedenle ilk izlenimler zaman kazandırabilir. Ancak bu izlenimlerin 
+kesin doğru olarak kabul edilmesi yerine, yeni bilgiler elde edildikçe gözden geçirilmesi 
+gerekir. Eleştirel düşünmenin temelinde de bireyin kendi düşüncelerini sorgulayabilmesi ve 
+gerektiğinde değiştirebilmesi yer almaktadır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) İlk izlenimler hiçbir zaman doğru değildir.
+B) İnsanlar yalnızca ilk izlenimlerine göre hareket etmelidir.
+C) İlk izlenimler yararlı olabilir ancak yeni bilgiler ışığında yeniden değerlendirilmelidir.
+D) Eleştirel düşünme yalnızca bilim insanları için gereklidir.
+2.
+Aşağıdakilerden hangisi metindeki düşünceyi destekleyen bir örnektir?
+A) Bir filmi yalnızca afişini beğendiği için izlemeden çok başarılı olduğunu söylemek.
+B) Bir haberin doğruluğunu farklı kaynaklardan araştırdıktan sonra değerlendirmek.
+C) Bir kitabı kapağına bakarak satın almak.
+D) Bir kişiyi ilk görüşte tanıdığına inanmak.
+3.
+Metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Eleştirel düşünme, gerektiğinde düşüncelerini değiştirebilmeyi gerektirir.
+B) İlk izlenimler bazı durumlarda zaman kazandırabilir.
+C) İnsanlar her konuda ayrıntılı araştırma yapabilir.
+D) Önemli kararlar alınırken farklı görüşlerden yararlanmak yararlı olabilir.
+4.
+Bir okulda dört farklı spor kulübünün dönem sonu etkinliklerine ait veriler aşağıdaki tabloda 
+verilmiştir.
+Kulüp Üye Sayısı Turnuvaya Katılan Madalya Kazanan Katılım Oranı
+Satranç 40 32 12 %80
+Atletizm 30 27 15 %90
+Masa Tenisi 36 24 10 %67
+Okçuluk 24 18 9 %75
+Bu tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) Turnuvaya katılanların yarısından fazlası Atletizm Kulübünden madalya kazanmıştır.
+B) Madalya kazanma oranı (Madalya / Turnuvaya Katılan) en yüksek olan kulüp Atletizm 
+Kulübüdür.
+C) Üye sayısı en az olan kulüp, katılım oranı en yüksek olan kulüptür.
+D) Satranç Kulübü, hem üye sayısında hem de madalya sayısında ilk sıradadır.
+5.
+Bir belediye, şehirdeki ulaşım türlerinin son iki yıldaki kullanım oranlarını aşağıdaki tabloda 
+paylaşmıştır.
+Ulaşım Türü 2024 2025
+Otobüs %42 %38
+Metro %24 %31
+Bisiklet %8 %12
+Özel Araç %26 %19
+Belediye raporunda şu değerlendirmeler yer almaktadır:
+I. Toplu taşıma kullanım oranı artmıştır.
+II. Özel araç kullanım oranı azalmıştır.
+III. Metro kullanımındaki artış, bisiklet kullanımındaki artıştan fazladır.
+IV. Otobüs kullanımındaki azalma kadar metro kullanımında artış olmuştur.
+Buna göre değerlendirmelerden hangileri doğrudur?
+A) I ve II
+B) I, II ve III
+C) II, III ve IV
+D) I, II, III ve IV
+6.
+Aşağıdaki haber metnini okuyunuz.
+Sessiz Kütüphane Uygulaması Başladı
+Bir üniversite kütüphanesi, sınav dönemlerinde öğrencilerin daha verimli çalışabilmesi 
+amacıyla "Sessiz Kütüphane" uygulamasını başlattı. Uygulama kapsamında belirli salonlarda 
+telefonla konuşmak, yüksek sesle tartışmak ve grup çalışması yapmak yasaklandı. Bunun 
+yanında grup çalışması yapmak isteyen öğrenciler için ses yalıtımlı özel odalar oluşturuldu. 
+Üniversite yönetimi, uygulamanın ilk ayında kütüphaneyi kullanan öğrenci sayısının %18 
+arttığını açıkladı. Bazı öğrenciler sessiz ortamın dikkatlerini artırdığını belirtirken bazıları ise 
+grup çalışma alanlarının sayısının artırılması gerektiğini ifade etti.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sessiz çalışma alanlarının oluşturulmasının temel amacı öğrencilerin daha verimli 
+çalışmasını sağlamaktır.
+B) Grup çalışması tamamen yasaklanmıştır.
+C) Uygulamadan sonra kütüphaneyi kullanan öğrenci sayısı artmıştır.
+D) Bazı öğrenciler mevcut düzenlemelerin geliştirilmesini istemektedir.
+7.
+Bir bilim merkezinde Astronomi, Robotik, Yazılım, Matematik ve Tasarım atölyeleri art 
+arda sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik Atölyesi, Astronomi Atölyesi'nin hemen sağındadır.
+• Matematik Atölyesi en solda değildir.
+• Yazılım Atölyesi, Tasarım Atölyesi'nin solundadır.
+• Astronomi Atölyesi üçüncü sırada değildir.
+• Tasarım Atölyesi en sağda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) Matematik – Astronomi – Robotik – Yazılım – Tasarım
+B) Astronomi – Robotik – Matematik – Yazılım – Tasarım
+C) Matematik – Yazılım – Tasarım – Astronomi – Robotik
+D) Yazılım – Tasarım – Matematik – Astronomi – Robotik
+8.
+Beş öğrenci (Ayşe, Berk, Ceren, Deniz ve Eren), okul gazetesine röportaj yapmak üzere hafta 
+içine dağıtılmıştır.
+Bilinenler şunlardır:
+• Ayşe, Berk'ten önce röportaj yapacaktır.
+• Ceren, Deniz'den hemen sonra röportaj yapacaktır.
+• Berk salı günü röportaj yapmayacaktır.
+• Eren, Ceren'den sonra röportaj yapacaktır.
+• Deniz cuma günü röportaj yapmayacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Ceren, Deniz'den hemen sonra röportaj yapacaktır.
+B) Berk pazartesi günü röportaj yapmıştır.
+C) Ayşe çarşamba günü röportaj yapmıştır.
+D) Eren cuma günü röportaj yapmıştır.
+9.
+Aşağıdaki bilim insanlarından hangisi, Dünya'nın Güneş etrafında döndüğünü bilimsel olarak 
+ortaya koyan Güneş merkezli evren modelini geliştirmiştir?
+A) Galileo Galilei
+B) Nicolaus Copernicus
+C) Johannes Kepler
+D) Isaac Newton
+   Biliyor muydun?
+1543 yılında yayımlanan "Göksel Kürelerin Devinimleri Üzerine" adlı eserinde 
+Copernicus, Dünya'nın Güneş etrafında döndüğünü savundu. Bu görüş, bilim tarihinde önemli 
+bir dönüm noktası kabul edilir ve modern astronominin gelişmesine büyük katkı sağlamıştır.
+10.
+Aşağıdaki doğal miras alanlarından hangisi, UNESCO Dünya Miras Listesi'nde hem doğal 
+hem de kültürel özellikleriyle yer alan Türkiye'deki alanlardan biridir?
+A) Kapadokya
+B) Uzungöl
+C) Salda Gölü
+D) Abant Gölü
+   Biliyor muydun?
+Göreme Millî Parkı ve Kapadokya, volkanik tüflerin milyonlarca yıl boyunca aşınmasıyla 
+oluşan benzersiz peribacalarıyla tanınır. Aynı zamanda kayalara oyulmuş kiliseleri ve yer altı 
+şehirleri sayesinde hem doğal hem de kültürel miras özelliği taşır.
+Cevap Anahtarı (Test 3)
+1. C
+2. B
+3. C
+4. B
+5. D
+6. B
+7. B
+8. A
+9. B
+10. A
+
+TEST 4
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları, insanların yalnızca yeni bilgiler öğrenerek değil, unutarak da daha verimli 
+düşünebildiğini ifade etmektedir. İlk bakışta şaşırtıcı görünen bu durumun nedeni, beynin 
+gereksiz ayrıntıları zamanla ayıklamasıdır. Eğer insan zihni karşılaştığı her ayrıntıyı eksiksiz 
+biçimde hatırlasaydı, yeni bilgiler için yer açmakta zorlanır ve karar verme süreçleri 
+yavaşlardı. Bu nedenle unutma, çoğu zaman bir eksiklik değil; beynin bilgi düzenleme 
+yöntemlerinden biri olarak değerlendirilmektedir.
+Ancak bu durum, öğrenilen bilgilerin zamanla kendiliğinden kalıcı olacağı anlamına gelmez. 
+Araştırmalar, belirli aralıklarla tekrar edilen bilgilerin çok daha uzun süre hatırlandığını 
+göstermektedir. Özellikle unutulmaya başlanan bir bilginin yeniden gözden geçirilmesi, 
+öğrenmenin kalıcılığını önemli ölçüde artırmaktadır. Eğitim bilimciler bu yöntemi "aralıklı 
+tekrar" olarak adlandırmaktadır.
+Öte yandan her bilginin aynı hızda unutulmadığı da bilinmektedir. Günlük yaşamda sık 
+kullanılan bilgiler uzun süre hafızada kalabilirken kullanılmayan bilgiler zamanla 
+silikleşebilmektedir. Bu nedenle yalnızca sınavdan önce yoğun çalışmak yerine öğrenilen 
+bilgileri belirli aralıklarla kullanmak ve farklı durumlarda uygulamak daha etkili sonuçlar 
+vermektedir. Kalıcı öğrenme; ezberlemekten çok bilgiyi doğru zamanda hatırlayabilmekle 
+ilgilidir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Unutma, her zaman başarısızlığın göstergesidir.
+B) Kalıcı öğrenme için bilgilerin belirli aralıklarla tekrar edilmesi ve kullanılması önemlidir.
+C) İnsan beyni bütün bilgileri ömür boyu saklar.
+D) Sınavlardan önce yoğun çalışmak en etkili öğrenme yöntemidir.
+2.
+Metne göre aşağıdakilerden hangisi kalıcı öğrenmeyi destekleyen bir uygulamadır?
+A) Bir konuyu yalnızca sınavdan önce çalışmak.
+B) Öğrenilen bilgileri günlük yaşamda kullanmak ve belirli aralıklarla tekrar etmek.
+C) Aynı bilgiyi bir günde onlarca kez okuyup daha sonra hiç tekrar etmemek.
+D) Sadece ezber yaparak öğrenmeye çalışmak.
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Beyin zamanla bazı gereksiz bilgileri ayıklayabilir.
+B) Aralıklı tekrar öğrenmenin kalıcılığını artırabilir.
+C) Günlük hayatta kullanılan bilgiler daha uzun süre hatırlanabilir.
+D) Unutmanın temel nedeni insanların yeterince zeki olmamasıdır.
+4.
+Bir okulda düzenlenen "Enerji Tasarrufu Kampanyası" kapsamında dört sınıfın bir aylık 
+elektrik tüketimindeki değişim aşağıdaki tabloda verilmiştir.
+Sınıf Kampanya Öncesi (kWh) Kampanya Sonrası (kWh) Azalma (%)
+5-A 480 408 15
+6-A 520 442 15
+7-A 450 360 20
+8-A 600 510 15
+Tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En fazla elektrik tasarrufunu yüzdesel olarak 7-A sınıfı sağlamıştır.
+B) En az elektrik tüketen sınıf 8-A'dır.
+C) 6-A sınıfı, tüketimini 100 kWh'tan fazla azaltmıştır.
+D) Kampanya sonrasında bütün sınıflar aynı miktarda elektrik tüketmiştir.
+5.
+Bir kütüphanede dört farklı yaş grubunun kitap ödünç alma verileri aşağıdaki grafikte 
+özetlenmiştir.
+Yaş Grubu Üye Sayısı Ödünç Alınan Kitap
+7–10 120 720
+11–14 180 1.260
+15–18 150 900
+19+ 100 500
+Bu verilere göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Kişi başına ortalama en fazla kitap ödünç alan grup 11–14 yaş grubudur.
+B) 15–18 yaş grubunun kişi başına kitap ortalaması, 7–10 yaş grubuyla aynıdır.
+C) Toplam kitap sayısı en fazla olan grup aynı zamanda üye sayısı en fazla olan gruptur.
+D) 19+ yaş grubunda kişi başına düşen kitap ortalaması 15–18 yaş grubundan düşüktür.
+6.
+Aşağıdaki haber metnini okuyunuz.
+Okullarda "Yaşayan Kütüphane" Projesi Başladı
+Millî Eğitim Müdürlüğü tarafından yürütülen "Yaşayan Kütüphane" projesi kapsamında 
+öğrenciler, yalnızca kitap okumakla kalmayacak; farklı meslek gruplarından davet edilen 
+konuklarla da bir araya gelecek. Projenin ilk uygulamalarında doktor, mühendis, sporcu ve 
+yazarlar öğrencilerle buluşarak meslek deneyimlerini paylaştı. Yetkililer, projenin temel 
+amacının öğrencilerin kariyer farkındalığını artırmak ve kitaplarda edindikleri bilgileri gerçek 
+yaşam deneyimleriyle ilişkilendirmelerini sağlamak olduğunu belirtti. Öğrencilerden alınan 
+ilk geri bildirimlerde, etkinliklerin özellikle meslek seçimi konusunda düşünmelerini sağladığı 
+ifade edildi. Projenin gelecek yıl ilçedeki tüm ortaokullarda uygulanması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Projenin yalnızca kitap okuma alışkanlığını artırması hedeflenmektedir.
+B) Öğrencilerin farklı meslekleri yakından tanımaları amaçlanmaktadır.
+C) Projenin kapsamının gelecek yıl genişletilmesi planlanmaktadır.
+D) Etkinliklerin öğrencilerin meslek seçimine ilişkin düşüncelerini etkilediği anlaşılmaktadır.
+7.
+Bir teknoloji festivalinde Yapay Zekâ (Y), Robotik (R), Siber Güvenlik (S), Yazılım (Yz), 
+3B Tasarım (T) ve Elektronik (E) stantları soldan sağa doğru yan yana dizilecektir.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen sağındadır.
+• Elektronik standı en solda ya da en sağda değildir.
+• Siber Güvenlik standı, Yazılım standının solundadır.
+• 3B Tasarım standı, Robotik standının sağındadır.
+• Yapay Zekâ standı dördüncü sırada değildir.
+• Yazılım standı, Elektronik standının hemen solunda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) Y – R – E – S – T – Yz
+B) S – Y – R – T – Yz – E
+C) Yz – S – Y – R – E – T
+D) E – Y – R – T – S – Yz
+8.
+Altı öğrenci (Ali, Buse, Cem, Deniz, Ece ve Furkan) bir sunum yarışmasında 1'den 6'ya 
+kadar farklı sıralarda sunum yapacaktır.
+Bilinenler şunlardır:
+• Ali, Buse'den önce sunum yapacaktır.
+• Cem, Deniz'den hemen sonra sunum yapacaktır.
+• Ece ilk ya da son sırada değildir.
+• Furkan, Ali'den sonra fakat Deniz'den önce sunum yapacaktır.
+• Buse, Ece'den sonradır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Cem, Deniz'den hemen sonra sunum yapacaktır.
+B) Ali birinci sırada sunum yapmıştır.
+C) Furkan dördüncü sırada sunum yapmıştır.
+D) Buse son sırada sunum yapmıştır.
+9.
+Aşağıdaki yapılardan hangisi, Mimar Sinan'ın "ustalık eserim" olarak nitelendirdiği 
+yapıdır?
+A) Süleymaniye Camii
+B) Şehzade Camii
+C) Selimiye Camii
+D) Rüstem Paşa Camii
+   Biliyor muydun?
+Mimar Sinan, meslek hayatındaki eserlerini çıraklık, kalfalık ve ustalık dönemi olarak 
+sınıflandırmıştır. Şehzade Camii'ni "çıraklık", Süleymaniye Camii'ni "kalfalık", Edirne'deki 
+Selimiye Camii'ni ise "ustalık eserim" sözleriyle tanımlamıştır.
+10.
+Aşağıdaki doğal oluşumlardan hangisi, travertenleri ile tanınır ve UNESCO Dünya Miras 
+Listesi'nde yer alır?
+A) Kapadokya
+B) Pamukkale
+C) Nemrut Dağı
+D) Uludağ
+   Biliyor muydun?
+Pamukkale'deki beyaz travertenler, yer altından çıkan kalsiyum bakımından zengin sıcak 
+suyun yüzeye ulaştıktan sonra zamanla çökelmesiyle oluşmuştur. Aynı bölgede bulunan 
+Hierapolis Antik Kenti ile birlikte UNESCO Dünya Miras Listesi'nde yer almaktadır.
+Cevap Anahtarı (Test 4)
+1. B
+2. B
+3. D
+4. A
+5. A
+6. A
+7. D
+8. A
+9. C
+10. B
+
+TEST 5
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde birçok kurum, bir ürün ya da hizmet geliştirirken yalnızca teknik özelliklere 
+odaklanmıyor; kullanıcıların beklenti ve ihtiyaçlarını da ayrıntılı biçimde analiz ediyor. 
+Çünkü aynı işlevi yerine getiren iki üründen biri daha kolay kullanılabiliyorsa insanlar çoğu 
+zaman onu tercih ediyor. Bu nedenle tasarım sürecinde estetik görünüm kadar kullanım 
+kolaylığı da önem kazanıyor. Mühendisler ve tasarımcılar, bir ürünü geliştirmeden önce 
+kullanıcıların karşılaşabileceği sorunları belirlemek için gözlem yapıyor, anket düzenliyor ve 
+farklı yaş gruplarından geri bildirim topluyor.
+Bu yaklaşım yalnızca teknolojik ürünlerde değil, kamu hizmetlerinde de uygulanıyor. Örneğin 
+bazı belediyeler, parkları yeniden düzenlemeden önce çocukların, yaşlıların ve engelli 
+bireylerin alanı nasıl kullandığını inceliyor. Böylece yalnızca güzel görünen değil, gerçekten 
+ihtiyaçlara cevap veren yaşam alanları oluşturulabiliyor. Benzer şekilde okullarda yapılan 
+düzenlemelerde de öğrencilerin görüşlerinin alınması, alınan kararların daha verimli sonuçlar 
+vermesine katkı sağlayabiliyor.
+Uzmanlara göre başarılı bir tasarımın temelinde empati kurabilmek yer alıyor. Bir ürünü 
+kullanacak kişinin yaşını, alışkanlıklarını ve ihtiyaçlarını dikkate almadan yapılan çalışmalar 
+çoğu zaman beklenen etkiyi oluşturmuyor. Bu nedenle tasarım odaklı düşünme anlayışında 
+doğru çözümü bulmaktan önce doğru problemi belirlemek gerektiği vurgulanıyor. Çünkü 
+yanlış belirlenen bir probleme sunulan mükemmel çözüm bile gerçek ihtiyacı 
+karşılamayabilir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bir tasarımın başarılı olabilmesi için kullanıcı ihtiyaçlarının doğru belirlenmesi gerekir.
+B) Teknolojik ürünlerde estetik görünüm hiçbir önem taşımaz.
+C) Belediyeler yalnızca çocuklar için park yapmaktadır.
+D) Tasarım sürecinde teknik özellikler dikkate alınmamalıdır.
+2.
+Metne göre aşağıdakilerden hangisi tasarım odaklı düşünme anlayışıyla örtüşmektedir?
+A) Bir okul sırası tasarlanırken öğrencilerin görüşlerini almadan üretime geçmek
+B) Yeni bir mobil uygulamayı kullanıcıların geri bildirimlerine göre geliştirmek
+C) Bir parkı yalnızca mimarın kişisel beğenisine göre düzenlemek
+D) Ürünün yalnızca dış görünüşüne önem vermek
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Kullanıcı geri bildirimleri tasarım sürecine katkı sağlayabilir.
+B) Doğru problemi belirlemek çözüm üretmenin önemli bir aşamasıdır.
+C) Empati kurmak başarılı tasarımlarda etkili olabilir.
+D) En pahalı ürünler her zaman en kullanışlı ürünlerdir.
+4.
+Bir okulda dört farklı sınıfın yıl boyunca gerçekleştirdiği kitap okuma etkinliklerine ait veriler 
+aşağıdaki tabloda verilmiştir.
+Sınıf Öğrenci Sayısı Okunan Kitap Kitap Sunumu Yapan Kütüphaneyi Düzenli Kullanan
+5. Sınıf 32 384 24 20
+6. Sınıf 30 450 27 24
+7. Sınıf 28 420 18 22
+8. Sınıf 25 400 20 21
+Tablodaki verilere göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) Öğrenci başına düşen ortalama kitap sayısı en yüksek olan sınıf 6. sınıftır.
+B) En fazla kitap okuyan sınıf, kitap sunumu yapan öğrenci sayısında da ilk sıradadır.
+C) Kütüphaneyi düzenli kullanan öğrencilerin tamamı kitap sunumu yapmıştır.
+D) 5 ve 8. sınıfların toplam kitap sayısı, 6 ve 7. sınıfların toplam kitap sayısından fazladır.
+5.
+Bir belediye, şehirdeki ulaşım alışkanlıklarını incelemek amacıyla hafta içi ve hafta sonu 
+yapılan yolculuk sayılarını aşağıdaki tabloda yayımlamıştır.
+Ulaşım Türü Hafta İçi Hafta Sonu
+Otobüs 48.000 32.000
+Metro 36.000 30.000
+Bisiklet 8.000 14.000
+Yürüyüş 12.000 18.000
+Bu verilere göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Hafta sonunda bisiklet ve yürüyüş tercihinde artış görülmektedir.
+B) Metro, hem hafta içi hem hafta sonunda otobüsten daha fazla kullanılmaktadır.
+C) Otobüs kullanımında hafta sonunda azalma görülmektedir.
+D) Bisiklet kullanımındaki artış, yürüyüş kullanımındaki artıştan fazladır.
+6.
+Aşağıdaki haber metnini okuyunuz.
+Okullarda "Enerji Dostu Bina" Dönemi
+Bir ilde pilot olarak başlatılan "Enerji Dostu Okullar" projesi kapsamında 20 okulun çatısına 
+güneş panelleri yerleştirildi. Okullarda ayrıca yağmur suyu depolama sistemleri kuruldu ve 
+sınıflardaki aydınlatmalar LED lambalarla değiştirildi. İl Millî Eğitim Müdürlüğü yetkilileri, 
+uygulamanın hem enerji tüketimini azaltmayı hem de öğrencilerde çevre bilinci oluşturmayı 
+amaçladığını belirtti. İlk altı aylık verilere göre projeye dâhil edilen okulların elektrik 
+tüketiminde ortalama %28 azalma sağlandı. Yetkililer, uygulamanın başarılı olması hâlinde 
+gelecek yıl il genelindeki diğer okullara da yaygınlaştırılacağını açıkladı.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Proje yalnızca elektrik giderlerini azaltmak amacıyla hazırlanmıştır.
+B) Projenin çevre bilinci kazandırmaya yönelik bir yönü de bulunmaktadır.
+C) Uygulamanın kapsamının genişletilmesi planlanmaktadır.
+D) Pilot uygulamaya katılan okullarda enerji tüketimi azalmıştır.
+7.
+Bir bilim fuarında Robotik (R), Yapay Zekâ (Y), Uzay Teknolojileri (U), Biyoteknoloji 
+(B), Yenilenebilir Enerji (E) ve Siber Güvenlik (S) stantları soldan sağa doğru 
+sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Uzay Teknolojileri standı en solda değildir.
+• Yenilenebilir Enerji standı, Siber Güvenlik standının sağındadır.
+• Biyoteknoloji standı, Robotik standının sağındadır.
+• Yapay Zekâ standı dördüncü sırada değildir.
+• Siber Güvenlik standı en sağda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) U – R – Y – B – S – E
+B) S – E – U – R – Y – B
+C) U – S – E – R – Y – B
+D) R – Y – U – B – S – E
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan), bir münazara yarışmasında 1'den 6'ya 
+kadar farklı sıralarda konuşacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'den sonra fakat Furkan'dan önce konuşacaktır.
+• Buse ilk sırada değildir.
+• Furkan son sırada değildir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Ali birinci sırada konuşmuştur.
+C) Furkan üçüncü sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki gelişmelerden hangisi Sanayi Devrimi'nin üretim anlayışı üzerindeki en önemli 
+etkilerinden biridir?
+A) El işçiliğinin tamamen ortadan kalkması
+B) Üretimin büyük ölçüde makineleşmesi ve fabrikaların yaygınlaşması
+C) Tarımsal faaliyetlerin sona ermesi
+D) Ticaretin yalnızca deniz yoluyla yapılması
+   Biliyor muydun?
+18. yüzyılda İngiltere'de başlayan Sanayi Devrimi, buhar gücüyle çalışan makinelerin 
+yaygınlaşmasını sağladı. Seri üretim sayesinde üretim miktarı arttı; ulaşım, ticaret ve 
+şehirleşme büyük ölçüde değişti.
+10.
+Aşağıdaki kurumlardan hangisinin temel görevi, hava olaylarını gözlemlemek, tahminlerde 
+bulunmak ve meteorolojik uyarılar yayımlamaktır?
+A) TÜİK
+B) AFAD
+C) Meteoroloji Genel Müdürlüğü
+D) MTA
+   Biliyor muydun?
+Meteoroloji Genel Müdürlüğü; sıcaklık, yağış, rüzgâr ve fırtına gibi hava olaylarını takip 
+ederek tarım, havacılık, denizcilik ve günlük yaşam için tahminler hazırlar. Erken uyarı 
+sistemleri sayesinde birçok doğal afetin olumsuz etkisi azaltılabilmektedir.
+Cevap Anahtarı (Test 5)
+1. A
+2. B
+3. D
+4. A
+5. B
+6. A
+7. D
+8. A
+9. B
+10. C
+
+TEST 6
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Son yıllarda yapılan araştırmalar, insanların karar verirken çoğu zaman farkında olmadan 
+çeşitli zihinsel kestirme yollar kullandığını göstermektedir. Beyin, karşılaştığı her bilgiyi 
+ayrıntılı biçimde incelemek yerine daha önceki deneyimlerinden yararlanarak hızlı sonuçlara 
+ulaşmaya çalışır. Bu durum günlük yaşamda zaman kazandırsa da bazı hatalı yargıların 
+oluşmasına neden olabilir. Örneğin bir kişinin yalnızca dış görünüşüne bakarak onun karakteri 
+hakkında kesin yargılara varmak ya da sosyal medyada çok paylaşılan bir bilginin doğru 
+olduğuna inanmak bu duruma örnek gösterilebilir.
+Araştırmacılar, özellikle önemli kararlar alınırken bu eğilimin farkında olunması gerektiğini 
+belirtmektedir. Bir ürün satın alırken yalnızca reklamlara güvenmek yerine kullanıcı 
+deneyimlerini incelemek, bir haberin doğruluğunu farklı kaynaklardan kontrol etmek ya da bir 
+kişinin davranışlarını tek bir olaya göre değerlendirmemek daha sağlıklı sonuçlar 
+doğurmaktadır. Çünkü ilk edinilen bilgi her zaman gerçeği tam olarak yansıtmayabilir.
+Bununla birlikte hızlı karar vermenin tamamen yanlış olduğu da söylenemez. Günlük 
+yaşamda karşılaşılan birçok basit durumda insanlar ayrıntılı analiz yapmadan da doğru 
+kararlar verebilir. Ancak kararın sonucu önemliyse acele etmek yerine kanıtları 
+değerlendirmek, farklı görüşleri dinlemek ve yeni bilgiler ışığında düşüncelerini gözden 
+geçirmek daha doğru bir yaklaşım olacaktır. Eleştirel düşünme becerisi de bireyin yalnızca 
+başkalarının düşüncelerini değil, kendi yargılarını da sorgulayabilmesini gerektirir.
+1.
+Bu metinden çıkarılabilecek en kapsamlı yargı aşağıdakilerden hangisidir?
+A) İnsanlar karar verirken her zaman hata yapar.
+B) Hızlı karar vermek hiçbir zaman doğru değildir.
+C) Önemli kararlar alınırken kanıtları değerlendirmek ve farklı bakış açılarını dikkate almak 
+gerekir.
+D) Sosyal medyada yer alan bilgilerin tamamı yanlıştır.
+2.
+Metne göre aşağıdakilerden hangisi eleştirel düşünme becerisine örnek gösterilebilir?
+A) İlk okuduğu haberi doğruluğunu araştırmadan paylaşmak
+B) Bir ürünü yalnızca reklamını beğendiği için satın almak
+C) Bir arkadaşı hakkında tek bir olaya bakarak kesin yargıya varmak
+D) Aynı konuyu farklı kaynaklardan inceleyerek değerlendirme yapmak
+3.
+Metinde aşağıdakilerden hangisi vurgulanmaktadır?
+A) İlk bilgiler her zaman doğrudur.
+B) Hızlı kararlar yalnızca bilim insanları tarafından verilir.
+C) Karar verirken yalnızca sezgilere güvenmek yeterlidir.
+D) Kararın önemine göre değerlendirme sürecinin değişmesi gerekebilir.
+4.
+Aşağıdaki tabloda bir okulun **"Bilim, Sanat ve Spor Kulüpleri"**ne ait dönem sonu verileri 
+yer almaktadır.
+Kulüp Üye Sayısı Düzenlenen Etkinlik Katılım (%) Ödül Alan Öğrenci
+Bilim 36 12 %92 14
+Spor 48 18 %75 16
+Müzik 30 10 %90 11
+Resim 24 8 %95 9
+Tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) Katılım oranı en yüksek olan kulüp, en fazla etkinlik düzenleyen kulüptür.
+B) Bilim Kulübünde ödül alan öğrenci sayısı, Müzik ve Resim kulüplerinin toplamından 
+fazladır.
+C) Spor Kulübü hem üye sayısı hem etkinlik sayısı bakımından ilk sıradadır.
+D) Etkinlik sayısı arttıkça katılım oranı da artmıştır.
+5.
+Bir belediyenin hazırladığı raporda şehirdeki kütüphanelerin yıllık ziyaretçi sayıları 
+verilmiştir.
+Kütüphane Öğrenci Yetişkin Toplam
+A 12.500 7.500 20.000
+B 15.000 6.000 21.000
+C 10.000 12.000 22.000
+Kütüphane Öğrenci Yetişkin Toplam
+D 8.000 9.000 17.000
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) En fazla ziyaret edilen kütüphane C Kütüphanesidir.
+B) Öğrenci ziyaretçi sayısı en fazla olan kütüphane B'dir.
+C) Yetişkin ziyaretçi sayısı bakımından A Kütüphanesi ilk sıradadır.
+D) D Kütüphanesinde yetişkin ziyaretçi sayısı öğrenci ziyaretçi sayısından fazladır.
+6.
+Aşağıdaki haber metnini okuyunuz.
+Dijital Kütüphane Projesi Yaygınlaşıyor
+Kültür ve Turizm Bakanlığı tarafından yürütülen "Dijital Kütüphane" projesi kapsamında, 
+Türkiye genelindeki halk kütüphanelerinde bulunan binlerce eser dijital ortama aktarılıyor. 
+Projeyle özellikle yıpranma riski taşıyan nadir eserlerin korunması ve araştırmacıların bu 
+eserlere uzaktan erişebilmesi amaçlanıyor. Yetkililer, dijital kopyaların hazırlanmasının basılı 
+eserlerin önemini azaltmayacağını; aksine kültürel mirasın korunmasına katkı sağlayacağını 
+belirtti. Projenin ikinci aşamasında, görme engelli bireyler için sesli kitap arşivinin de 
+genişletileceği açıklandı.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Dijital ortama aktarılan eserlerin asılları tamamen ortadan kaldırılacaktır.
+B) Proje, kültürel mirasın korunmasına katkı sağlamayı amaçlamaktadır.
+C) Araştırmacıların eserlere erişiminin kolaylaştırılması hedeflenmektedir.
+D) Projenin ilerleyen aşamalarında erişilebilirlik çalışmalarına da yer verilecektir.
+7.
+Bir teknoloji fuarında Robotik (R), Yapay Zekâ (Y), Uzay (U), Siber Güvenlik (S), 
+Yazılım (Yz) ve Biyoteknoloji (B) stantları soldan sağa doğru sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Siber Güvenlik standı, Yazılım standının sağındadır.
+• Uzay standı ilk sırada değildir.
+• Biyoteknoloji standı, Robotik standının sağındadır.
+• Yapay Zekâ standı son sırada değildir.
+• Yazılım standı, Uzay standının hemen sağında değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) U – R – Y – B – Yz – S
+B) R – Y – U – B – Yz – S
+C) Yz – U – R – Y – B – S
+D) U – Yz – R – Y – S – B
+8.
+Altı öğrenci (Ayşe, Berk, Ceren, Deniz, Efe ve Funda) bir sunum yarışmasında 1'den 6'ya 
+kadar farklı sıralarda sunum yapacaktır.
+Bilinenler şunlardır:
+• Ayşe, Berk'ten önce sunum yapacaktır.
+• Ceren, Deniz'den hemen sonra sunum yapacaktır.
+• Funda, Ayşe'den sonra fakat Berk'ten önce sunum yapacaktır.
+• Efe ilk sırada değildir.
+• Berk son sırada değildir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Ceren, Deniz'den hemen sonra sunum yapacaktır.
+B) Ayşe birinci sırada sunum yapmıştır.
+C) Berk dördüncü sırada sunum yapmıştır.
+D) Efe altıncı sırada sunum yapmıştır.
+9.
+Aşağıdaki bilim insanlarından hangisi, geliştirdiği periyodik tablo ile elementlerin 
+sınıflandırılmasına önemli katkı sağlamıştır?
+A) Albert Einstein
+B) Dmitri Mendeleyev
+C) Gregor Mendel
+D) James Watt
+   Biliyor muydun?
+Dmitri Mendeleyev, 1869 yılında hazırladığı periyodik tabloda henüz keşfedilmemiş 
+elementler için boşluklar bırakmış ve bu elementlerin özelliklerini önceden tahmin etmiştir. 
+Daha sonra bulunan birçok element, onun öngördüğü özelliklerle büyük ölçüde uyuşmuştur.
+10.
+Aşağıdaki doğal olaylardan hangisi, Ay'ın Dünya ile Güneş arasına girmesi sonucu
+meydana gelir?
+A) Ay tutulması
+B) Güneş tutulması
+C) Gelgit
+D) Mevsimlerin oluşumu
+   Biliyor muydun?
+Güneş tutulması, Dünya'nın her yerinden aynı anda görülemez. Bunun nedeni, Ay'ın 
+gölgesinin Dünya üzerinde oldukça dar bir alan oluşturmasıdır. Bu yüzden tam Güneş 
+tutulmaları belirli bölgelerden izlenebilir.
+Cevap Anahtarı (Test 6)
+1. C
+2. D
+3. D
+4. C
+5. C
+6. A
+7. B
+8. A
+9. B
+10. B
+

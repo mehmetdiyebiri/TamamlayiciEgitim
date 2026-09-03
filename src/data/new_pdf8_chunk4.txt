@@ -1,0 +1,1259 @@
+TEST 18
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Geçmişte birçok insan, bilgiyi yalnızca kitaplardan veya okullardan edinebileceklerini 
+düşünüyordu. Ancak günümüzde dijital teknolojilerin gelişmesiyle birlikte öğrenme süreçleri 
+de büyük bir değişime uğramıştır. İnternet sayesinde dünyanın farklı yerlerindeki 
+kütüphanelere, çevrim içi kurslara ve bilimsel makalelere anında ulaşmak mümkün hâle 
+gelmiştir. Bu durum, bireylerin ilgi duydukları alanlarda kendilerini geliştirmeleri için eşsiz 
+bir fırsat sunmaktadır.
+Bununla birlikte, bilgiye kolay ulaşmak tek başına yeterli değildir. Elde edilen bilgilerin 
+güvenilirliğini değerlendirmek, doğru kaynakları seçebilmek ve öğrenilenleri günlük yaşama 
+aktarabilmek de aynı derecede önemlidir. Örneğin bir sağlık sorunu hakkında internetten 
+araştırma yapan biri, karşılaştığı her bilgiye inanmak yerine uzman görüşlerine ve bilimsel 
+kaynaklara başvurmalıdır. Aksi hâlde yanlış bilgiler, ciddi sorunlara yol açabilir.
+E�itim uzmanları, dijital çağda öğrenmenin yaşam boyu devam eden bir süreç olduğunu 
+vurgulamaktadır. Çünkü teknoloji sürekli yenilenmekte ve yeni meslek alanları ortaya 
+çıkmaktadır. Bu nedenle bireylerin yalnızca okulda öğrendikleriyle yetinmeyip araştırma, 
+sorgulama ve kendini yenileme becerilerini geliştirmeleri gerekmektedir. Gelecekte başarılı 
+olacak kişiler, bilgiye ulaşanlar değil; bilgiyi doğru kullanmayı öğrenenler olacaktır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bilgiye ulaşmak geçmişte daha kolaydı.
+B) İnternetteki bütün bilgiler güvenilirdir.
+C) Bilgiye ulaşmak kadar, onu doğru değerlendirmek ve kullanmak da önemlidir.
+D) Yaşam boyu öğrenme yalnızca okulda gerçekleşir.
+2.
+Metne göre aşağıdakilerden hangisi dijital çağın getirdiği fırsatlardan biri değildir?
+A) Farklı kaynaklara hızlı erişim
+B) Öğrenme sürecinin kolaylaşması
+C) Bütün bilgilerin doğruluğunun kesin olması
+D) Bireylerin kendilerini geliştirebilmesi
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Doğru kaynakları seçebilmek önemlidir.
+B) Teknolojik gelişmeler yeni mesleklerin ortaya çıkmasına neden olmaktadır.
+C) Öğrenme, okul hayatıyla sınırlı kalmamalıdır.
+D) Bireylerin yalnızca kendi uzmanlık alanlarında araştırma yapması yeterlidir.
+4.
+Bir okulun "Tasarım ve Yenilik Projesi" kapsamında dört gruba ait değerlendirme sonuçları 
+aşağıdaki tabloda verilmiştir.
+Grup Yaratıcılık İşlevsellik Uygulanabilirlik Toplam Puan
+A 30 28 32 90
+B 35 25 31 91
+C 28 34 26 88
+D 32 30 27 89
+Tablodaki verilere göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Yaratıcılık puanı en yüksek olan grup yarışmayı kazanmıştır.
+B) İşlevsellik puanı en yüksek olan grubun toplam puanı da en yüksektir.
+C) Uygulanabilirlik puanı en yüksek olan grup, yaratıcılık puanında da ilk sıradadır.
+D) Toplam puanı en yüksek olan grubun bütün puanları diğer gruplardan yüksektir.
+5.
+Bir araştırmada dört farklı tarım uygulamasının çevreye etkisi incelenmiştir.
+Uygulama Su Tüketimi Karbon Salımı Kimyasal Kullanımı
+Geleneksel Tarım Yüksek Yüksek Evet
+Organik Tarım Orta Düşük Hayır
+Topraksız Tarım Çok Düşük Orta Hayır
+Akıllı Tarım Düşük Düşük Çok Az
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Topraksız tarım, su tüketimi en düşük olan yöntemdir.
+B) Organik tarım ve topraksız tarımda kimyasal gübre kullanılmamaktadır.
+C) Geleneksel tarımın hem karbon salımı hem de su tüketimi yüksektir.
+D) Akıllı tarım yönteminde su tüketimi organik tarımdan daha fazladır.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Rüzgâr Enerjisi Yatırımları Hız Kazanıyor
+Enerji ve Tabii Kaynaklar Bakanlığı tarafından yayımlanan rapora göre, son beş yılda kurulan 
+rüzgâr enerjisi santralleri sayesinde elektrik üretiminde yenilenebilir kaynakların payı %18 
+oranında arttı. Rüzgâr türbinlerinin özellikle kıyı kesimlerinde ve yüksek bölgelerde 
+kurulmasıyla elde edilen enerji, binlerce hanenin elektrik ihtiyacını karşılıyor. Yetkililer, 
+rüzgâr enerjisinin fosil yakıtlara olan bağımlılığı azaltmanın yanı sıra karbon salımını 
+düşürerek iklim değişikliğiyle mücadelede de önemli bir rol oynadığını belirtti. Yeni teşvik 
+programları sayesinde önümüzdeki yıllarda bu yatırımların daha da artması ve farklı 
+bölgelerde yeni rüzgâr santrallerinin kurulması hedefleniyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Rüzgâr enerjisi yatırımları sayesinde karbon salımında azalma sağlanmaktadır.
+B) Rüzgâr türbinlerinin kurulumu belirli coğrafi özelliklere sahip alanlarda 
+yapılmaktadır.
+C) Bütün elektrik ihtiyacı yalnızca rüzgâr enerjisiyle karşılanmaktadır.
+D) Yenilenebilir enerji yatırımlarının artırılmasına yönelik planlar bulunmaktadır.
+7.
+Bir kitabevinde yeni çıkan altı roman aynı rafa soldan sağa doğru dizilecektir.
+Kitaplar şunlardır:
+• Macera (M)
+• Polisiye (P)
+• Bilim Kurgu (B)
+• Tarih (T)
+• Fantastik (F)
+• Psikolojik (Y)
+Diziliş kuralları şöyledir:
+• Macera kitabı, Polisiye kitabının hemen solundadır.
+• Tarih kitabı, Bilim Kurgu kitabının hemen sağındadır.
+• Fantastik kitap ilk sırada değildir.
+• Psikolojik roman, Polisiye kitabının sağındadır.
+• Bilim Kurgu kitabı, Macera kitabının solundadır.
+• Macera kitabı son iki sıradan birinde değildir.
+• Fantastik kitap ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim Kurgu kitabı dördüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – M – P – F – Y
+B) F – B – T – M – P – Y
+C) B – T – F – M – P – Y
+D) F – M – P – B – T – Y
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) bir yarışmada sunum yapacaktır.
+Bilinenler şunlardır:
+• Buse, Can'dan hemen sonra sunum yapacaktır.
+• Ali, Ece'den önce sunum yapacaktır.
+• Deniz, Buse'den sonra sunum yapacaktır.
+• Furkan, Ali'den hemen sonra sunum yapacaktır.
+• Ece ilk sırada değildir.
+• Can son sırada değildir.
+• Ali ile Deniz arasında iki öğrenci bulunmaktadır.
+• Furkan, Buse'den önce sunum yapacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Buse, Can'dan hemen sonra sunum yapacaktır.
+B) Furkan üçüncü sırada sunum yapmıştır.
+C) Ali ikinci sırada sunum yapmıştır.
+D) Deniz son sırada sunum yapmıştır.
+9.
+Aşağıdaki bilim insanlarından hangisi, radyoaktivite üzerine yaptığı çalışmalarla iki farklı 
+bilim dalında (Fizik ve Kimya) Nobel Ödülü kazanan ilk kişi olmuştur?
+A) Albert Einstein
+B) Marie Curie
+C) Isaac Newton
+D) Max Planck
+   Biliyor muydun?
+Marie Curie, polonyum ve radyum elementlerini keşfederek modern fiziğin ve kimyanın 
+gelişmesine büyük katkı sağlamıştır. Aynı zamanda radyolojinin tıpta kullanılmasına öncülük 
+etmiş ve I. Dünya Savaşı'nda seyyar röntgen cihazlarıyla binlerce yaralının tedavi edilmesine 
+yardımcı olmuştur.
+10.
+Aşağıdaki doğal oluşumlardan hangisi, akarsuların yataklarını derine aşındırması 
+sonucu oluşan ve genellikle dik yamaçlara sahip olan vadilerdir?
+A) Delta
+B) Fiyort
+C) Kanyon
+D) Plato
+   Biliyor muydun?
+Türkiye'deki Ihlara Vadisi ve ABD'deki Büyük Kanyon, akarsuların milyonlarca yıl boyunca 
+kayaları aşındırmasıyla oluşmuş kanyon örnekleridir. Kanyonlar aynı zamanda jeolojik 
+süreçlerin izlenebildiği önemli doğal alanlar olarak kabul edilir.
+Cevap Anahtarı (Test 18)
+1. C
+2. C
+3. D
+4. A
+5. D
+6. C
+7. D
+8. A
+9. B
+10. C
+
+TEST 19
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Zaman yönetimi, başarılı olmanın en önemli anahtarlarından biri olarak kabul edilir. Ancak 
+birçok insan zamanı yönetmenin, sadece bir çalışma programı hazırlayıp buna harfi harfine 
+uymak olduğunu düşünür. Oysa gerçek zaman yönetimi, yapılan işlerin öncelik sırasını 
+belirlemek ve dikkat dağıtıcı unsurları en aza indirmekle mümkündür. Çünkü insanın enerjisi 
+ve odaklanma süresi sınırlıdır. Önemli olan, bu enerjiyi en verimli şekilde kullanabilmektir.
+Zaman yönetiminde sıkça kullanılan yöntemlerden biri "önceliklendirme"dir. Bu yönteme 
+göre işler acil ve önemli, acil değil ama önemli, acil ama önemli değil, ne acil ne de önemli 
+olmak üzere dört gruba ayrılır. Başarılı insanlar genellikle zamanlarının büyük bölümünü 
+"acil olmayan ancak önemli" olan işlere ayırır. Örneğin yeni bir beceri öğrenmek veya 
+uzun vadeli bir proje planlamak hemen sonuç vermese de gelecekteki başarıyı doğrudan 
+etkiler. Buna karşılık, sürekli anlık ve önemsiz işlerle uğraşmak, kişinin asıl hedeflerinden 
+uzaklaşmasına neden olabilir.
+Bununla birlikte etkili bir zaman yönetiminde dinlenmeye ve sosyal aktivitelere de mutlaka 
+yer ayrılmalıdır. Zihni sürekli çalışmaya zorlamak bir süre sonra verimliliğin düşmesine ve 
+tükenmişlik hissine yol açabilir. Bu nedenle uzmanlar, zamanı yönetmenin sadece daha 
+fazla çalışmak değil, aynı zamanda daha akıllıca çalışmak anlamına geldiğini 
+vurgulamaktadır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Başarılı olmak için hazırlanan çalışma programına kesinlikle uyulmalıdır.
+B) Zaman yönetimi yalnızca çok çalışmakla sağlanır.
+C) Etkili zaman yönetimi; önceliklerin belirlenmesini, enerjinin verimli kullanılmasını 
+ve dinlenmeyi içerir.
+D) Dinlenmeye ayrılan zaman, verimliliği düşürür.
+2.
+Metne göre aşağıdakilerden hangisi "acil olmayan ancak önemli" bir işe örnek 
+gösterilebilir?
+A) Uzun süredir planlanan bir yabancı dili öğrenmeye başlamak
+B) Arkadaşın gönderdiği eğlenceli bir videoyu hemen izlemek
+C) Çalan telefona hemen cevap vermek
+D) Bir gün sonra teslim edilmesi gereken ödevi son anda tamamlamak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) İnsanın odaklanma süresi ve enerjisi sınırsız değildir.
+B) Anlık ve önemsiz işlerle sürekli uğraşmak hedeflere ulaşmayı zorlaştırabilir.
+C) Zaman yönetiminde işleri gruplara ayırmak faydalı bir yöntemdir.
+D) Başarılı insanlar zamanlarının çoğunu acil ve önemsiz işlere ayırır.
+4.
+Bir okulun yürüttüğü "Atık Pil Toplama Kampanyası" verileri aşağıdaki tabloda verilmiştir.
+Sınıf Öğrenci Sayısı Toplanan Pil (Adet) Katılım Oranı (%)
+5-A 25 350 84
+6-A 28 420 90
+7-A 30 380 78
+8-A 24 390 92
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) En fazla pil toplayan sınıfın öğrenci sayısı da en fazladır.
+B) Öğrenci başına düşen ortalama pil sayısının en yüksek olduğu sınıf 8-A'dır.
+C) Katılım oranı en düşük olan sınıf en az pil toplayan sınıftır.
+D) Katılım oranı arttıkça toplanan pil miktarı her zaman artmıştır.
+5.
+Bir araştırmada dört farklı tarım ürününün yetiştirilme sürecindeki su tüketimi 
+karşılaştırılmıştır.
+Ürün Ortalama Su Tüketimi
+(Litre/kg) İklim İsteği
+Mısır 1.200 Sıcak ve nemli
+Buğday 900 Ilıman, kurak
+Pirinç 2.500 Çok sulak ve sıcak
+Nohut 400 Kurak, sıcak
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Bir kilogram ürün elde etmek için en fazla su pirinç yetiştiriciliğinde kullanılır.
+B) Su kaynaklarının kısıtlı olduğu kurak bölgelerde nohut yetiştirmek daha uygundur.
+C) Buğdayın su tüketimi mısırdan daha düşüktür.
+D) Bütün ürünlerin iklim isteği ve su tüketimi birbirinin aynıdır.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Sera Uygulamaları Tarımda Verimi Artırıyor
+Tarım ve Orman Bakanlığı tarafından desteklenen akıllı sera projesi kapsamında 
+seralara yerleştirilen sensörler; sıcaklık, nem, ışık ve toprak değerlerini anlık olarak ölçüyor. 
+Elde edilen veriler doğrultusunda sulama, havalandırma ve gübreleme işlemleri otomatik 
+olarak gerçekleştiriliyor. İlk hasat sonuçlarına göre projeye dâhil olan seralarda ürün veriminin 
+%30 arttığı, su tüketiminin ise %25 oranında azaldığı belirlendi. Yetkililer, bu sistemin bitki 
+hastalıklarını önceden tahmin ederek gereksiz ilaç kullanımının da önüne geçtiğini ifade etti. 
+Projenin gelecek yıl farklı bölgelerde yaygınlaştırılması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Akıllı sera sistemi su tasarrufu sağlamaktadır.
+B) Uygulama sayesinde tarımsal üretim miktarında artış görülmüştür.
+C) Tarımda insan gücüne duyulan ihtiyaç tamamen ortadan kalkmıştır.
+D) Sistem, gereksiz kimyasal ilaç kullanımını azaltmaya katkı sağlamaktadır.
+7.
+Bir yayınevi, yeni yayımlayacağı altı kitabı rafa soldan sağa doğru dizecektir.
+Kitaplar şunlardır:
+• Roman (R)
+• Şiir (Ş)
+• Bilim (B)
+• Tarih (T)
+• Biyografi (Y)
+• Gezi (G)
+Diziliş kuralları şöyledir:
+• Roman, Şiir kitabının hemen solundadır.
+• Tarih kitabı, Bilim kitabının hemen sağındadır.
+• Gezi kitabı ilk sırada değildir.
+• Biyografi kitabı, Şiir kitabının sağındadır.
+• Bilim kitabı, Roman'ın solundadır.
+• Roman son iki sıradan birinde değildir.
+• Gezi kitabı ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim kitabı üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – R – Ş – G – Y
+B) G – B – T – R – Ş – Y
+C) B – T – G – R – Ş – Y
+D) G – R – Ş – B – T – Y
+8.
+Altı öğrenci (Aslı, Berk, Canan, Deniz, Efe ve Fırat) okulda şiir okuyacaktır.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Canan'dan hemen sonra şiir okuyacaktır.
+• Aslı, Efe'den önce şiir okuyacaktır.
+• Deniz, Berk'ten sonra şiir okuyacaktır.
+• Fırat, Aslı'dan hemen sonra şiir okuyacaktır.
+• Efe ilk sırada değildir.
+• Canan son sırada değildir.
+• Aslı ile Deniz arasında iki öğrenci bulunmaktadır.
+• Fırat, Berk'ten önce şiir okuyacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Canan'dan hemen sonra şiir okuyacaktır.
+B) Fırat üçüncü sırada şiir okumuştur.
+C) Aslı ikinci sırada şiir okumuştur.
+D) Deniz son sırada şiir okumuştur.
+9.
+Aşağıdaki bilim insanlarından hangisi, evrenin genişlemekte olduğunu kanıtlayan 
+gözlemleriyle astronomi tarihinde yeni bir çağın başlamasına öncülük etmiştir?
+A) Galileo Galilei
+B) Edwin Hubble
+C) Johannes Kepler
+D) Stephen Hawking
+   Biliyor muydun?
+Edwin Hubble'ın 1929'da yaptığı gözlemler, galaksilerin birbirinden uzaklaştığını ve 
+dolayısıyla evrenin sürekli genişlediğini ortaya koydu. Bu buluş, daha sonra "Büyük Patlama 
+(Big Bang)" teorisinin en önemli kanıtlarından biri olarak kabul edildi.
+10.
+Aşağıdaki sanat dallarından hangisi, su yüzeyinde özel boyalarla oluşturulan desenlerin 
+kâğıda aktarılmasıyla yapılan geleneksel bir Türk süsleme sanatıdır?
+A) Hat
+B) Tezhip
+C) Ebru
+D) Minyatür
+   Biliyor muydun?
+Ebru sanatı, yoğunlaştırılmış su üzerine öd katılmış boyaların serpilmesiyle yapılır. Her ebru 
+eseri tek ve benzersizdir; çünkü suyun üzerindeki desen kâğıda aktarıldıktan sonra aynı 
+desenin tekrar edilmesi mümkün değildir.
+Cevap Anahtarı (Test 19)
+1. C
+2. A
+3. D
+4. B
+5. D
+6. C
+7. D
+8. A
+9. B
+10. C
+
+TEST 20
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+İnsan beyni, öğrenme süreci sırasında nöroplastisite adı verilen benzersiz bir yeteneğe 
+sahiptir. Bu kavram, beynin yeni deneyimler, bilgiler ve beceriler karşısında kendi yapısını 
+değiştirebilme ve yeni sinirsel bağlar kurabilme özelliğini ifade eder. Eskiden bilim 
+insanları beynin gelişiminin çocukluk döneminde tamamlandığına inanırdı. Ancak güncel 
+araştırmalar, beynin yaşam boyunca değişmeye ve gelişmeye devam ettiğini ortaya 
+koymuştur.
+Bir kişi yeni bir dil öğrendiğinde, bir müzik aleti çalmaya başladığında veya karmaşık bir 
+problemi çözdüğünde beynindeki sinir hücreleri (nöronlar) arasında yeni yollar oluşur. Bu 
+yollar, söz konusu beceri tekrar edildikçe güçlenir ve kalıcı hâle gelir. Buna karşılık, 
+kullanılmayan bilgiler ve becerilerle ilgili sinirsel bağlantılar zamanla zayıflar. Bu durum 
+genellikle "kullan ya da kaybet" prensibiyle açıklanır. Bu nedenle öğrenmeyi sürdürmek, 
+yalnızca yeni bilgiler edinmek için değil; aynı zamanda zihinsel sağlığı korumak için de son 
+derece önemlidir.
+Uzmanlar, beynin bu özelliğini en verimli şekilde kullanabilmek için ezbere dayalı 
+öğrenmeden kaçınılması gerektiğini vurgulamaktadır. Yeni bilgileri daha önce öğrenilenlerle 
+ilişkilendirmek, hatalardan ders çıkarmak ve karşılaşılan problemlere farklı çözüm yolları 
+aramak nöroplastisiteyi destekleyen en önemli etkenlerdendir. Sonuç olarak zekâ değişmez bir 
+özellik değildir; çaba, deneyim ve doğru öğrenme yöntemleriyle yaşam boyu geliştirilebilir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Zekâ doğuştan gelir ve yaşam boyu değişmez.
+B) Beyin yalnızca çocukluk döneminde gelişimini tamamlar.
+C) Beyin yeni deneyimler ve öğrenmelerle yaşam boyu yapısını değiştirebilir ve 
+gelişebilir.
+D) Kullanılmayan bilgiler zamanla daha da güçlenir.
+2.
+Metne göre aşağıdakilerden hangisi beynin "nöroplastisite" özelliğini destekleyen bir 
+davranış değildir?
+A) Yeni bir müzik aleti çalmayı öğrenmek
+B) Sürekli aynı konuları ezberleyerek tekrar etmek
+C) Karşılaşılan sorunlara farklı çözümler üretmeye çalışmak
+D) Yeni öğrenilen bilgileri günlük yaşamla ilişkilendirmek
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Bilgilerin tekrar edilmemesi sinirsel bağlantıların zayıflamasına neden olabilir.
+B) Öğrenmeyi sürdürmek zihinsel sağlığa katkıda bulunur.
+C) Geçmişteki bazı bilimsel inanışlar güncel araştırmalarla değişmiştir.
+D) Yeni bir dil öğrenmek, yalnızca genç yaşlarda gerçekleştirilebilecek bir beceridir.
+4.
+Bir okulun "Sağlıklı Yaşam Kulübü" verilerine göre öğrencilerin günlük su tüketimi (litre) ile 
+haftalık egzersiz süreleri (saat) arasındaki ilişki aşağıdaki tabloda verilmiştir.
+Öğrenci Grubu Günlük Su Tüketimi (Litre) Haftalık Egzersiz (Saat)
+Grup 1 1,5 2
+Grup 2 2,2 5
+Grup 3 2,5 7
+Grup 4 1,8 3
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Su tüketimi en yüksek olan grubun haftalık egzersiz süresi de en yüksektir.
+B) Egzersiz süresi arttıkça su tüketimi düzenli olarak azalmıştır.
+C) Grup 2'nin su tüketimi Grup 4'ten düşüktür.
+D) En az su tüketen grup haftada 3 saat egzersiz yapmaktadır.
+5.
+Bir araştırmada dört farklı ülkenin elektrik üretiminde kullandığı enerji kaynaklarının oranları 
+(%) verilmiştir.
+Ülke Yenilenebilir Nükleer Fosil Yakıt
+K Ülkesi %65 %10 %25
+L Ülkesi %20 %15 %65
+M Ülkesi %40 %35 %25
+N Ülkesi %10 %0 %90
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Çevre dostu enerji üretimi en yüksek olan ülke K Ülkesi'dir.
+B) N Ülkesi'nin fosil yakıt kullanımı diğer bütün ülkelerden yüksektir.
+C) M Ülkesi'nde yenilenebilir enerji kullanımı fosil yakıtlardan fazladır.
+D) Nükleer enerji kullanan bütün ülkelerin yenilenebilir enerji oranı fosil yakıtlardan 
+yüksektir.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Şehirlerde Trafik Işıkları Yapay Zekâ ile Yönetiliyor
+Bir büyükşehir belediyesi, şehir merkezindeki kavşaklarda "Yapay Zekâ Destekli Trafik 
+Yönetim Sistemi"ni hayata geçirdi. Sistem, kameralar aracılığıyla araç yoğunluğunu analiz 
+ederek yeşil ışık sürelerini anlık olarak belirliyor. Ayrıca ambulans, itfaiye gibi geçiş üstünlüğü 
+olan araçları algılayarak bu araçlara otomatik olarak yol veriyor. Projenin ilk altı aylık verilerine 
+göre kavşaklardaki bekleme süresi %24, karbon salımı ise %16 oranında azaldı. Yetkililer, bu 
+sistemin yalnızca trafik yoğunluğunu değil, stres faktörlerini de azaltarak sürücü 
+memnuniyetini artırdığını ifade etti.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sistem, acil durum araçlarının geçişini kolaylaştırmaktadır.
+B) Trafik ışıklarının süreleri araç yoğunluğuna göre değişmektedir.
+C) Sistemin tek faydası karbon salımını azaltmaktır.
+D) Uygulama sayesinde kavşaklarda bekleme süresi düşmüştür.
+7.
+Bir mağaza vitrinine altı farklı teknolojik ürün yan yana yerleştirilecektir.
+• Telefon (T)
+• Tablet (Tb)
+• Bilgisayar (B)
+• Kulaklık (K)
+• Akıllı Saat (S)
+• Kamera (C)
+Diziliş kuralları şöyledir:
+• Telefon, Tablet'in hemen solundadır.
+• Kulaklık, Bilgisayar'ın hemen sağındadır.
+• Kamera ilk sırada değildir.
+• Akıllı Saat, Tablet'in sağındadır.
+• Bilgisayar, Telefon'un solundadır.
+• Telefon son iki sıradan birinde değildir.
+• Kamera ile Kulaklık arasında yalnızca bir ürün bulunmaktadır.
+• Bilgisayar dördüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – K – T – Tb – C – S
+B) C – B – K – T – Tb – S
+C) B – K – C – T – Tb – S
+D) C – T – Tb – B – K – S
+8.
+Altı öğrenci (Asu, Berk, Can, Doğa, Efe ve Funda) bir bilgi yarışmasında cevap verecektir.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Can'dan hemen sonra cevap verecektir.
+• Asu, Efe'den önce cevap verecektir.
+• Doğa, Berk'ten sonra cevap verecektir.
+• Funda, Asu'dan hemen sonra cevap verecektir.
+• Efe ilk sırada değildir.
+• Can son sırada değildir.
+• Asu ile Doğa arasında iki öğrenci bulunmaktadır.
+• Funda, Berk'ten önce cevap verecektir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Can'dan hemen sonra cevap verecektir.
+B) Funda üçüncü sırada cevap vermiştir.
+C) Asu ikinci sırada cevap vermiştir.
+D) Doğa son sırada cevap vermiştir.
+9.
+Aşağıdaki mimari yapılardan hangisi, "Güneşin doğuşunun ve batışının en güzel 
+izlendiği yer" olarak da bilinen ve dev heykelleriyle ünlü olan Nemrut Dağı'nda yer 
+almaktadır?
+A) Göbeklitepe Tapınakları
+B) Kral Antiochos Tümülüsü ve Heykelleri
+C) Efes Antik Tiyatrosu
+D) Sümela Manastırı
+   Biliyor muydun?
+Adıyaman sınırları içinde yer alan Nemrut Dağı, Kommagene Krallığı döneminde Kral I. 
+Antiochos tarafından yaptırılan devasa heykeller ve anıt mezar ile tanınır. UNESCO Dünya 
+Mirası Listesi'nde yer alan bu alan, özellikle Helenistik Dönem mimarisinin önemli 
+örneklerinden biridir.
+10.
+Aşağıdaki organellerden hangisi, bitki ve hayvan hücrelerinde ortak olarak bulunup 
+hücrenin ihtiyaç duyduğu enerjiyi (ATP) üretmekle görevlidir?
+A) Kloroplast
+B) Ribozom
+C) Mitokondri
+D) Lizozom
+   Biliyor muydun?
+Mitokondri, hücrenin "enerji santrali" olarak adlandırılır. Besinlerin oksijen kullanılarak 
+parçalanması ve enerji elde edilmesi bu organelde gerçekleşir. Kas ve sinir hücreleri gibi 
+enerji ihtiyacı yüksek olan hücrelerde mitokondri sayısı diğer hücrelere göre daha fazladır.
+Cevap Anahtarı (Test 20)
+1. C
+2. B
+3. D
+4. A
+5. D
+6. C
+7. D
+8. A
+9. B
+10. C
+
+TEST 21
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Eleştirel düşünme, bir bilgiyi veya iddiayı sorgulamadan kabul etmek yerine mantıklı 
+gerekçelerle değerlendirme becerisidir. Günümüzde bilgiye ulaşmanın çok kolaylaşması, 
+eleştirel düşünme becerisini her zamankinden daha önemli hâle getirmiştir. Çünkü internette 
+karşılaştığımız her haber, izlediğimiz her video veya okuduğumuz her makale tarafsız ve 
+doğru olmayabilir. Bir bilginin güvenilirliğini belirlemek için bilginin kaynağını sorgulamak, 
+kanıtlara dayanıp dayanmadığını incelemek ve farklı bakış açılarını göz önünde bulundurmak 
+gerekir.
+Eleştirel düşünen bireyler, olayları yalnızca siyah ve beyaz olarak değerlendirmezler. Karşıt 
+görüşleri dinlemeye açıktırlar ve kendi düşüncelerinin de yanlış olabileceği ihtimalini kabul 
+ederler. Tartışmalarda amaçları karşısındakini yenmek değil, gerçeğe veya en doğru çözüme 
+ulaşmaktır. Bu nedenle duygusal tepkiler vermek yerine mantıklı çıkarımlar yapmayı tercih 
+ederler.
+E�itim uzmanları, öğrencilerin yalnızca akademik bilgilerle donatılmasının yeterli olmadığını 
+savunmaktadır. Bilgiyi ezberlemek yerine "Neden?", "Nasıl?" ve "Hangi kanıtlara 
+dayanıyor?" gibi sorular sormaya teşvik edilen öğrenciler, gelecekte karşılaştıkları karmaşık 
+problemleri çok daha kolay çözebilmektedir. Sonuç olarak eleştirel düşünme, yalnızca okulda 
+değil, yaşamın her alanında doğru kararlar verebilmenin temel şartıdır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bilgiye ulaşmanın kolaylaşması öğrenmeyi olumsuz etkilemiştir.
+B) Eleştirel düşünme becerisi, bilgileri doğru değerlendirip mantıklı kararlar verebilmek 
+için gereklidir.
+C) İnternetteki bütün bilgiler taraflı ve yanlıştır.
+D) Tartışmalarda temel amaç karşıdaki kişinin fikrini çürütmektir.
+2.
+Metne göre aşağıdakilerden hangisi eleştirel düşünen bir bireyin özelliklerinden biri 
+değildir?
+A) Kendi düşüncelerinin yanlış olabileceğini kabul etmek
+B) Bilginin kaynağını ve kanıtlarını sorgulamak
+C) Duygusal tepkilerle hızlı kararlar vermek
+D) Farklı bakış açılarına açık olmak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Öğrencilerin sorgulamaya teşvik edilmesi problem çözme becerilerini geliştirir.
+B) Eleştirel düşünme, günlük yaşamda da karar vermeyi kolaylaştırır.
+C) Karşılaşılan bütün bilgiler tarafsız ve bilimsel gerçeklere dayanmaktadır.
+D) Eleştirel düşünen kişiler karşıt görüşleri dinlemeye isteklidir.
+4.
+Bir okulda dört şubenin yürüttüğü "Atık Kâğıt Toplama Projesi" verileri aşağıdadır.
+Şube Öğrenci Sayısı Toplanan Atık (kg) Projeye Katılan Öğrenci
+5-A 30 150 24
+6-A 28 168 28
+7-A 32 128 20
+8-A 25 100 25
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) En az atık toplayan sınıfın projeye katılım oranı %100'dür.
+B) Öğrenci sayısı en fazla olan sınıf, en fazla atık toplayan sınıftır.
+C) Projeye katılan öğrenci sayısı arttıkça toplanan atık miktarı düzenli olarak azalmıştır.
+D) Sınıf mevcudu ile projeye katılan öğrenci sayısı arasındaki farkın en fazla olduğu sınıf 
+6-A'dır.
+5.
+Bir araştırmada dört farklı yalıtım malzemesinin özellikleri karşılaştırılmıştır.
+Malzeme Isı İletkenliği Yanıcılık Kullanım Ömrü
+Cam Yünü Orta Düşük Uzun
+Taş Yünü Düşük Çok Düşük Çok Uzun
+EPS Köpük Orta Yüksek Orta
+Ahşap Lifi Yüksek Orta Kısa
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Isı yalıtımı (ısı iletkenliğinin düşük olması) en iyi olan malzeme taş yünüdür.
+B) Yanıcılık riski en yüksek olan malzeme EPS köpüktür.
+C) Kullanım ömrü uzadıkça ısı iletkenliği de düzenli olarak artmaktadır.
+D) Ahşap lifinin kullanım ömrü taş yününden kısadır.
+(Devamında 6–10. sorular yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Ambalajlar Gıda İsrafını Önlüyor
+Gıda teknolojileri alanında geliştirilen "Akıllı Ambalaj" sistemi, içindeki gıdanın bozulmaya 
+başladığını renk değiştirerek tüketiciye bildiriyor. Ambalajın iç yüzeyinde bulunan özel 
+sensörler, bakterilerin ürettiği gazlara tepki vererek sarıdan kırmızıya doğru bir renk değişimi 
+sağlıyor. Bu sayede tüketiciler, yalnızca son kullanma tarihine bakarak değil, ürünün gerçek 
+tazeliğini görerek karar verebiliyor. Uzmanlar, bu sistemin özellikle et ve süt ürünlerinde gıda 
+zehirlenmelerini azaltacağını ve hâlâ tüketilebilir durumda olan gıdaların çöpe atılmasını 
+engelleyeceğini belirtiyor. Sistemin önümüzdeki yıl seri üretime geçmesi planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Akıllı ambalaj, ürünün bozulma durumunu görsel bir uyarıyla bildirmektedir.
+B) Sistem yalnızca son kullanma tarihi geçmiş ürünlerde renk değiştirmektedir.
+C) Uygulamanın gıda zehirlenmelerini önlemeye katkı sağlayacağı düşünülmektedir.
+D) Akıllı ambalajların kullanılabilir gıdaların çöpe gitmesini azaltması beklenmektedir.
+7.
+Bir sergide altı farklı icat yan yana sıralanacaktır.
+• Pusula (P)
+• Matbaa (M)
+• Teleskop (T)
+• Buhar Makinesi (B)
+• Ampul (A)
+• Telefon (F)
+Sıralama kuralları şöyledir:
+• Pusula, Matbaa'nın hemen solundadır.
+• Buhar Makinesi, Teleskop'un hemen sağındadır.
+• Ampul ilk sırada değildir.
+• Telefon, Matbaa'nın sağındadır.
+• Teleskop, Pusula'nın solundadır.
+• Pusula son iki sıradan birinde değildir.
+• Ampul ile Buhar Makinesi arasında yalnızca bir icat bulunmaktadır.
+• Teleskop dördüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) T – B – P – M – A – F
+B) A – T – B – P – M – F
+C) T – B – A – P – M – F
+D) A – P – M – T – B – F
+8.
+Altı öğrenci (Asya, Barış, Cemre, Doğu, Ezgi ve Ferit) bir etkinlikte konuşacaktır.
+Bilinenler şunlardır:
+• Barış, Cemre'den hemen sonra konuşacaktır.
+• Asya, Ezgi'den önce konuşacaktır.
+• Doğu, Barış'tan sonra konuşacaktır.
+• Ferit, Asya'dan hemen sonra konuşacaktır.
+• Ezgi ilk sırada değildir.
+• Cemre son sırada değildir.
+• Asya ile Doğa arasında iki öğrenci bulunmaktadır.
+• Ferit, Barış'tan önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Barış, Cemre'den hemen sonra konuşacaktır.
+B) Ferit üçüncü sırada konuşmuştur.
+C) Asya ikinci sırada konuşmuştur.
+D) Doğu son sırada konuşmuştur.
+9.
+Aşağıdaki bilim insanlarından hangisi, Kuduz aşısını bularak milyonlarca insanın hayatını 
+kurtarmış ve pastörizasyon yöntemini geliştirerek gıda güvenliğine büyük katkı 
+sağlamıştır?
+A) Alexander Fleming
+B) Louis Pasteur
+C) Edward Jenner
+D) Robert Koch
+   Biliyor muydun?
+Louis Pasteur, mikroorganizmaların hastalıklara ve gıdaların bozulmasına neden olduğunu 
+kanıtlamıştır. Süt ve meyve sularının kısa süreli ısıtılıp aniden soğutulması işlemine onun 
+adından esinlenilerek "pastörizasyon" denilmiştir.
+10.
+Aşağıdaki iklim tiplerinden hangisi, yazları sıcak ve kurak, kışları ılık ve yağışlı 
+geçmesiyle bilinir ve karakteristik bitki örtüsü "maki"dir?
+A) Karasal İklim
+B) Ekvatoral İklim
+C) Akdeniz İklimi
+D) Tundra İklimi
+   Biliyor muydun?
+Akdeniz iklim bölgesinde yer alan zeytin, defne, zakkum ve keçiboynuzu gibi bitkiler makiyi 
+oluşturur. Bu bitkilerin yaprakları genellikle sert, kalın ve tüylüdür; bu özellikleri sayesinde 
+yaz kuraklığına karşı direnç gösterirler.
+Cevap Anahtarı (Test 21)
+1. B
+2. C
+3. C
+4. A
+5. C
+6. B
+7. D
+8. A
+9. B
+10. C
+
+TEST 22
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Teknoloji dünyasında son yılların en çok tartışılan konularından biri siber güvenliktir. İnternet 
+kullanımının artması ve birçok kişisel işlemin dijital ortama taşınması, siber saldırı riskini de 
+beraberinde getirmiştir. Banka hesap bilgileri, özel mesajlar, fotoğraflar ve sağlık kayıtları 
+gibi birçok kişisel veri, siber suçluların hedefi hâline gelebilmektedir. Bu durum, yalnızca 
+büyük şirketlerin değil, bireylerin de dijital güvenlik konusunda daha bilinçli olmasını 
+gerektirmektedir.
+Uzmanlar, siber saldırılardan korunmanın ilk adımının güçlü ve benzersiz parolalar kullanmak 
+olduğunu belirtmektedir. Farklı hesaplar için aynı parolayı kullanmak, bir hesabın ele 
+geçirilmesi durumunda diğer bütün hesapların da tehlikeye girmesine yol açar. Ayrıca kaynağı 
+bilinmeyen e-postaları açmamak, şüpheli bağlantılara tıklamamak ve kullanılan cihazların 
+yazılımlarını düzenli olarak güncellemek de alınması gereken temel önlemler arasındadır. 
+Çünkü birçok siber saldırı, yazılımlardaki güncellenmemiş güvenlik açıklarından 
+yararlanarak gerçekleştirilmektedir.
+Özellikle sosyal medya platformlarında paylaşılan bilgilerin de siber güvenlik açısından 
+önemli bir risk taşıdığı unutulmamalıdır. Doğum tarihi, ev adresi veya tatil planları gibi masum 
+görünen paylaşımlar, kötü niyetli kişiler tarafından şifre tahmin etme veya kimlik hırsızlığı 
+amacıyla kullanılabilmektedir. Bu nedenle dijital dünyada güvenliği sağlamak, yalnızca 
+teknolojik araçlara güvenmekle değil; bilinçli bir kullanıcı davranışıyla mümkündür.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Siber saldırılar yalnızca büyük şirketleri etkilemektedir.
+B) Bireylerin dijital dünyada kişisel verilerini korumak için bilinçli önlemler alması 
+gereklidir.
+C) Güçlü bir parola kullanmak siber güvenliği sağlamak için tek başına yeterlidir.
+D) İnternette paylaşılan hiçbir bilgi kötü niyetle kullanılamaz.
+2.
+Metne göre aşağıdakilerden hangisi siber güvenlik için alınması gereken bir önlem 
+değildir?
+A) Bütün hesaplarda hatırlaması kolay tek bir parola kullanmak
+B) Kaynağı belirsiz bağlantılara tıklamamak
+C) Cihaz yazılımlarını düzenli olarak güncellemek
+D) Sosyal medyada kişisel bilgileri paylaşırken dikkatli olmak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Güncellenmeyen yazılımlar siber saldırı riskini artırabilir.
+B) Dijitalleşmenin artması siber güvenlik sorunlarını da beraberinde getirmiştir.
+C) Sosyal medyadaki sıradan paylaşımlar bile bazen güvenlik riski oluşturabilir.
+D) Siber güvenlik önlemleri sayesinde internette bütün suçlar tamamen önlenmiştir.
+4.
+Bir e-ticaret sitesinin farklı kargo şirketleriyle yaptığı teslimatlara ait veriler aşağıdaki 
+tabloda verilmiştir.
+Kargo Şirketi Gönderim Sayısı Ortalama Teslim Süresi Müşteri Memnuniyeti
+A Kargo 1.200 4 Gün %82
+B Kargo 1.500 2 Gün %94
+C Kargo 800 5 Gün %76
+D Kargo 1.100 3 Gün %88
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) En fazla gönderim yapan şirket aynı zamanda en kısa sürede teslimat yapan şirkettir.
+B) Gönderim sayısı en az olan şirketin müşteri memnuniyeti oranı en yüksektir.
+C) Teslimat süresi uzadıkça müşteri memnuniyeti düzenli olarak artmaktadır.
+D) A kargonun teslim süresi D kargodan kısa, B kargodan uzundur.
+5.
+Bir araştırmada dört farklı tarım yönteminin verimlilik, maliyet ve çevresel etki 
+değerlendirmeleri (1: En düşük, 5: En yüksek) aşağıda verilmiştir.
+Tarım Yöntemi Verimlilik Maliyet Çevresel Olumsuz Etki
+Geleneksel Tarım 3 2 4
+Organik Tarım 2 4 1
+Seracılık 4 5 3
+Topraksız Tarım (Hidroponik) 5 5 1
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Topraksız tarım, verimliliği en yüksek ancak maliyeti de en yüksek yöntemlerden biridir.
+B) Çevresel olumsuz etkisi en fazla olan yöntem geleneksel tarımdır.
+C) Organik tarım, seracılığa göre daha verimli ve daha düşük maliyetlidir.
+D) Topraksız tarım ve organik tarımın çevresel olumsuz etkileri eşittir.
+(Devamında 6–10. sorular yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Okyanus Temizleme Araçları Büyük Pasifik Çöp Alanı'na Müdahale Ediyor
+Hollanda merkezli bir çevre organizasyonu, okyanuslardaki plastik atıkları toplamak için 
+geliştirdiği devasa "Okyanus Temizleme Aracı"nı Büyük Pasifik Çöp Alanı'na gönderdi. 
+Deniz akıntılarını kullanarak U şeklinde bir ağ gibi hareket eden sistem, deniz canlılarına zarar 
+vermeden yüzeydeki plastik atıkları bir araya topluyor. İlk operasyonda yaklaşık 30 ton plastik 
+atık başarıyla toplanarak geri dönüşüm için karaya çıkarıldı. Organizasyon yetkilileri, 
+amaçlarının beş yıl içinde bölgedeki plastik atıkların %50'sini temizlemek olduğunu açıkladı. 
+Uzmanlar ise bu temizlik çalışmalarının çok önemli olduğunu ancak asıl çözümün karadan 
+okyanuslara plastik karışımını kaynağında durdurmak olduğunu vurguladı.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Temizleme aracı, deniz canlılarına zarar vermeyecek şekilde tasarlanmıştır.
+B) Toplanan atıkların geri dönüşüme kazandırılması hedeflenmektedir.
+C) Organizasyon, beş yılın sonunda okyanuslardaki bütün plastikleri tamamen temizlemiş 
+olacaktır.
+D) Uzmanlara göre sorunun kesin çözümü için plastiğin okyanusa ulaşması engellenmelidir.
+7.
+Bir müzede altı farklı tarihî eser aynı vitrinde soldan sağa doğru sergilenecektir.
+Eserler şunlardır:
+• Kılıç (K)
+• Miğfer (M)
+• Vazo (V)
+• Sikke (S)
+• Yüzük (Y)
+• Tablet (T)
+Sergileme kuralları şöyledir:
+• Kılıç, Miğfer'in hemen solundadır.
+• Sikke, Vazo'nun hemen sağındadır.
+• Tablet ilk sırada değildir.
+• Yüzük, Miğfer'in sağındadır.
+• Vazo, Kılıç'ın solundadır.
+• Kılıç son iki sıradan birinde değildir.
+• Tablet ile Sikke arasında yalnızca bir eser bulunmaktadır.
+• Vazo üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) V – S – K – M – T – Y
+B) T – V – S – K – M – Y
+C) V – S – T – K – M – Y
+D) T – K – M – V – S – Y
+8.
+Altı öğrenci (Ali, Berk, Can, Deniz, Efe ve Fırat) müzik kulübü seçmelerinde şarkı 
+söyleyecektir.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Can'dan hemen sonra şarkı söyleyecektir.
+• Ali, Efe'den önce şarkı söyleyecektir.
+• Deniz, Berk'ten sonra şarkı söyleyecektir.
+• Fırat, Ali'den hemen sonra şarkı söyleyecektir.
+• Efe ilk sırada değildir.
+• Can son sırada değildir.
+• Ali ile Deniz arasında iki öğrenci bulunmaktadır.
+• Fırat, Berk'ten önce şarkı söyleyecektir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Can'dan hemen sonra şarkı söyleyecektir.
+B) Fırat üçüncü sırada şarkı söylemiştir.
+C) Ali ikinci sırada şarkı söylemiştir.
+D) Deniz son sırada şarkı söylemiştir.
+9.
+Aşağıdaki bilim insanlarından hangisi, kara deliklerin tamamen karanlık olmadığını ve 
+ışıma yaydığını (Hawking Işıması) öne süren teorisiyle modern fiziğe büyük katkı 
+sağlamıştır?
+A) Albert Einstein
+B) Stephen Hawking
+C) Isaac Newton
+D) Niels Bohr
+   Biliyor muydun?
+Stephen Hawking, 21 yaşında yakalandığı ALS (motor nöron) hastalığı nedeniyle hayatının 
+büyük bölümünü tekerlekli sandalyede geçirmiş ve konuşma yetisini kaybetmiştir. Ancak 
+geliştirilen özel bir bilgisayar sistemi sayesinde evrenin sırlarını araştırmaya ve 
+kitaplar yazmaya devam etmiş, "Zamanın Kısa Tarihi" adlı eseriyle geniş kitlelere 
+ulaşmıştır.
+10.
+Aşağıdaki madenlerden hangisi, paslanmaz çelik üretiminde, uzay teknolojilerinde ve jet 
+motorlarının yapımında kullanılan; Türkiye'nin dünya rezervlerinde önemli bir paya sahip 
+olduğu stratejik bir madendir?
+A) Bor
+B) Krom
+C) Linyit
+D) Boksit
+   Biliyor muydun?
+Krom, metale sertlik veren ve paslanmasını önleyen çok önemli bir maddedir. Özellikle çeliğe 
+karıştırıldığında oldukça dayanıklı bir alaşım elde edilir. Türkiye, kaliteli krom yatakları 
+bakımından dünyada önemli bir yere sahiptir; çıkarılan kromun büyük bölümü ihraç 
+edilmektedir.
+Cevap Anahtarı (Test 22)
+1. B
+2. A
+3. D
+4. A
+5. C
+6. C
+7. D
+8. A
+9. B
+10. B
+
+TEST 23
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günlük yaşamda karar verirken veya yeni bir bilgi öğrenirken çoğunlukla beynimizin bizi 
+yanıltabileceğini düşünmeyiz. Ancak psikologlar, insanların olayları değerlendirirken bazı 
+zihinsel kısayollar kullandığını ve bu kısayolların bazen düşünce hatalarına (bilişsel 
+yanılgılara) yol açabildiğini belirtmektedir. Örneğin "doğrulama sapması" olarak adlandırılan 
+yanılgıya göre insanlar, önceden sahip oldukları inançları destekleyen bilgileri daha kolay 
+kabul ederken, kendi fikirleriyle çelişen kanıtları görmezden gelme eğilimindedir. Bu durum, 
+kişinin hatalı bir düşünceye sahip olsa bile bu düşünceyi değiştirmesini zorlaştırır.
+Bir diğer yaygın düşünce hatası ise "çoğunluk etkisidir". Bir fikrin veya davranışın yalnızca 
+çok sayıda insan tarafından benimsendiği için doğru kabul edilmesi, bu yanılgının temelini 
+oluşturur. Özellikle sosyal medyada hızla yayılan asılsız haberler ve akımlar bu etkinin en 
+belirgin örnekleridir. Oysa bir bilginin doğruluğu, ona inanan kişi sayısıyla değil; dayandığı 
+kanıtların güvenilirliğiyle ölçülmelidir.
+Uzmanlar, bu tür düşünce hatalarından korunmanın en etkili yolunun eleştirel düşünme 
+becerilerini geliştirmek olduğunu vurgulamaktadır. Karşılaşılan bilgileri sorgulamak, farklı 
+kaynaklardan araştırma yapmak ve kararları duygular yerine mantıklı gerekçelere 
+dayandırmak, zihinsel yanılgıları en aza indirebilir. Çünkü doğru düşünmek, yalnızca zeki 
+olmayı değil; düşünme süreci üzerinde kontrol sahibi olmayı da gerektirir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Çoğunluğun kabul ettiği düşünceler her zaman doğrudur.
+B) Zekâ seviyesi yüksek olan kişiler hiçbir zaman düşünce hatası yapmazlar.
+C) İnsan zihni değerlendirme yaparken yanılgılara düşebilir; bundan korunmanın yolu 
+eleştirel düşünmektir.
+D) İnançlara uymayan bilgilerin tamamı yanlıştır.
+2.
+Metne göre bir kişinin "kendi düşüncesine uygun haberleri okuyup diğer görüşleri hiç 
+dikkate almaması" aşağıdaki kavramlardan hangisiyle açıklanabilir?
+A) Nöroplastisite
+B) Doğrulama sapması
+C) Çoğunluk etkisi
+D) Zaman yönetimi
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Bir bilginin çok kişi tarafından paylaşılması onun doğru olduğunu kanıtlamaz.
+B) Bilişsel yanılgılar, insanların kararlarını olumsuz etkileyebilir.
+C) Duygusal kararlar vermek, mantıklı düşünmenin önündeki engellerden biridir.
+D) İnsanlar düşüncelerini değiştirmekte her zaman çok isteklidirler.
+4.
+Bir okulun kütüphanesinden bir ay içinde ödünç alınan kitap türleri ve öğrenci sayıları 
+aşağıdaki tabloda verilmiştir.
+Kitap Türü Ödünç Alan Öğrenci Kitapları Zamanında Teslim Oranı
+Roman 120 %85
+Bilim Kurgu 90 %92
+Tarih Araştırma 60 %80
+Biyografi 50 %96
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) En az okunan kitap türü en kısa sürede teslim edilmiştir.
+B) Biyografi okuyan öğrencilerin kitap teslimindeki sorumluluk bilinci diğerlerinden daha 
+yüksektir (zamanında teslim oranı en yüksektir).
+C) Roman türüne ilgi arttıkça zamanında teslim oranı da artmaktadır.
+D) Bilim kurgu kitapları romanlardan daha uzun olduğu için daha geç teslim edilmektedir.
+5.
+Bir araştırmada dört farklı ülkenin su ayak izi (bir yılda tüketilen tatlı su miktarı) ve nüfus 
+verileri incelenmiştir.
+Ülke Toplam Su Ayak İzi
+(Milyar m³) Nüfus (Milyon) Tarımda Su Kullanım Oranı (%)
+K Ülkesi 150 50 %70
+L Ülkesi 80 40 %40
+M Ülkesi 300 150 %80
+N Ülkesi 60 20 %50
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Kişi başına düşen su ayak izi en fazla olan ülke K Ülkesi'dir.
+B) M Ülkesi'nde suyun büyük bir bölümü tarım faaliyetlerinde kullanılmaktadır.
+C) Nüfusu en az olan ülkenin toplam su tüketimi de en azdır.
+D) Bütün ülkelerde suyun yarısından fazlası tarımda kullanılmaktadır.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Yaka Kameralarıyla Orman Kaçakçılığına Karşı Yeni Önlem
+Tarım ve Orman Bakanlığı, orman koruma memurlarının güvenliğini sağlamak ve yasa dışı 
+ağaç kesimini engellemek amacıyla "Akıllı Yaka Kamerası" sistemini kullanmaya başladı. GPS 
+destekli bu kameralar, memurların devriye sırasında karşılaştığı olayları yüksek çözünürlükte 
+kaydederek anlık olarak merkeze iletiyor. Sistemin pilot uygulamasında orman kaçakçılığı 
+vakalarında %35 oranında azalma tespit edildi. Ayrıca cihazda bulunan acil durum butonu, 
+memurun tehlike anında merkezden destek istemesine olanak tanıyor. Yetkililer, elde edilen 
+görüntülerin adli süreçlerde delil olarak kullanılabildiğini belirterek uygulamanın gelecek yıl 
+tüm orman bölgelerinde yaygınlaştırılacağını ifade etti.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sistem, orman görevlilerinin güvenliğini artırmaya yönelik özellikler içermektedir.
+B) Akıllı yaka kameraları sayesinde orman yangınları tamamen engellenmiştir.
+C) Kaydedilen görüntüler hukuki süreçlerde kanıt niteliği taşıyabilmektedir.
+D) Pilot uygulama sonucunda yasa dışı ağaç kesimi vakalarında düşüş görülmüştür.
+7.
+Bir yayınevinin standında altı farklı türde kitap yan yana dizilecektir.
+• Roman (R)
+• Şiir (Ş)
+• Bilim (B)
+• Tarih (T)
+• Biyografi (Y)
+• Gezi (G)
+Diziliş kuralları şöyledir:
+• Roman, Şiir kitabının hemen solundadır.
+• Tarih kitabı, Bilim kitabının hemen sağındadır.
+• Gezi kitabı ilk sırada değildir.
+• Biyografi kitabı, Şiir kitabının sağındadır.
+• Bilim kitabı, Roman'ın solundadır.
+• Roman son iki sıradan birinde değildir.
+• Gezi kitabı ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim kitabı üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – R – Ş – G – Y
+B) G – B – T – R – Ş – Y
+C) B – T – G – R – Ş – Y
+D) G – R – Ş – B – T – Y
+8.
+Altı öğrenci (Ali, Berk, Can, Doğa, Efe ve Funda) okul yarışmasında konuşacaktır.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Can'dan hemen sonra konuşacaktır.
+• Ali, Efe'den önce konuşacaktır.
+• Doğa, Berk'ten sonra konuşacaktır.
+• Funda, Ali'den hemen sonra konuşacaktır.
+• Efe ilk sırada değildir.
+• Can son sırada değildir.
+• Ali ile Doğa arasında iki öğrenci bulunmaktadır.
+• Funda, Berk'ten önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Can'dan hemen sonra konuşacaktır.
+B) Funda üçüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Doğa son sırada konuşmuştur.
+9.
+Aşağıdaki yapılardan hangisi, Hindistan'da Babür İmparatoru Şah Cihan tarafından 
+eşinin anısına yaptırılan ve dünyada aşkın simgesi olarak kabul edilen anıt mezardır?
+A) Elhamra Sarayı
+B) Tac Mahal
+C) Angkor Wat
+D) Çin Seddi
+   Biliyor muydun?
+Tac Mahal, İslam mimarisinin en güzel örneklerinden biri kabul edilir. Beyaz mermerden inşa 
+edilen yapı, günün farklı saatlerinde Güneş'in ve Ay'ın ışığına göre pembe, beyaz ve altın 
+sarımsı renklere bürünür. 1983 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır.
+10.
+Aşağıdaki ulaşım araçlarından hangisinin geliştirilmesi ve yaygınlaşması, Wright 
+Kardeşler'in 1903 yılındaki tarihi uçuşuyla başlamıştır?
+A) Otomobil
+B) Zeplin
+C) Uçak
+D) Helikopter
+   Biliyor muydun?
+Orville ve Wilbur Wright (Wright Kardeşler), 17 Aralık 1903'te motorlu ve pilotlu ilk kontrollü 
+uçuşu gerçekleştirdiler. Uçuş yalnızca 12 saniye sürmüş ve 36,5 metre mesafe katedilmiş 
+olsa da bu olay havacılık tarihinin en önemli dönüm noktası kabul edilmektedir.
+Cevap Anahtarı (Test 23)
+1. C
+2. B
+3. D
+4. B
+5. D
+6. B
+7. D
+8. A
+9. B
+10. C
+
+TEST 24
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde bilim ve teknoloji dünyasında sıkça tartışılan konulardan biri de "dijital ayak 
+izi" kavramıdır. Dijital ayak izi, bir kişinin internette gerçekleştirdiği her türlü işlemin ardında 
+bıraktığı veri izleridir. Sosyal medyada beğenilen gönderiler, arama motorlarında yapılan 
+sorgulamalar, çevrim içi alışverişler ve hatta bir web sitesinde geçirilen süre bile bu izlerin bir 
+parçasıdır. Çoğu zaman kullanıcılar bu verilerin önemsiz olduğunu düşünse de bu izler bir 
+araya geldiğinde kişinin alışkanlıkları, ilgi alanları ve tüketim tercihleri hakkında detaylı bir 
+profil oluşturabilmektedir.
+Bu durum, internet dünyasında hem bazı kolaylıklar hem de ciddi güvenlik riskleri 
+barındırmaktadır. Örneğin dijital ayak izi sayesinde alışveriş siteleri kullanıcının ilgisini 
+çekebilecek ürünleri önerebilir veya arama motorları daha doğru sonuçlar listeleyebilir. Ancak 
+aynı veriler, kötü niyetli kişiler tarafından kimlik hırsızlığı yapmak veya kullanıcıları yanlış 
+yönlendirmek amacıyla da kullanılabilir. Ayrıca internette paylaşılan hiçbir verinin tamamen 
+silinememesi, bugün önemsiz görünen bir paylaşımın yıllar sonra kişinin karşısına bir sorun 
+olarak çıkmasına neden olabilmektedir.
+Uzmanlar, dijital ayak izini tamamen silmenin mümkün olmadığını ancak bunu yönetmenin 
+kullanıcıların elinde olduğunu belirtmektedir. Gizlilik ayarlarını düzenli kontrol etmek, 
+gereksiz kişisel bilgi paylaşımından kaçınmak ve uygulamalara verilen izinleri sorgulamak, 
+dijital dünyada güvende kalmanın temel adımlarıdır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Dijital ayak izini tamamen silmek mümkündür.
+B) İnternet kullanımı yalnızca güvenlik risklerinden ibarettir.
+C) İnternette bırakılan veri izleri kişinin profili hakkında detaylı bilgi sunar ve bu 
+durum bilinçli yönetilmelidir.
+D) Çevrim içi alışveriş yapmak dijital ayak izi oluşturmaz.
+2.
+Metne göre aşağıdakilerden hangisi dijital ayak izine dâhil değildir?
+A) Sosyal medyada bir fotoğrafı beğenmek
+B) Arama motorunda sağlıkla ilgili bir konu araştırmak
+C) İnternet bağlantısı olmayan bir cihazda günlük yazmak
+D) Bir web sitesindeki haberi uzun süre okumak
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Dijital ayak izi sayesinde kullanıcılara özel reklamlar sunulabilmektedir.
+B) İnternette paylaşılan veriler kalıcı izler bırakabilir.
+C) Uygulamaların talep ettiği erişim izinlerini sorgulamak güvenlik açısından önemlidir.
+D) Dijital ayak izi, kullanıcıların eğitim seviyesini kesin olarak belirleyen tek unsurdur.
+4.
+Bir okulda "Okul Temsilcisi" seçiminde adayların aldığı oylar ve vaatlerinin gerçekleşme 
+oranları verilmiştir.
+Aday Aldığı Oy Vaat Edilen Proje Sayısı Gerçekleşen Proje
+Kerem 120 4 3
+Zeynep 90 5 4
+Burak 150 3 1
+Ceren 70 2 2
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) En çok oy alan aday, projelerini gerçekleştirme konusunda da en başarılı olan adaydır.
+B) Ceren, vaat ettiği bütün projeleri gerçekleştirerek %100 başarı oranına ulaşmıştır.
+C) Vaat edilen proje sayısı arttıkça gerçekleşen proje sayısı da düzenli olarak artmıştır.
+D) Zeynep, seçimi kazanmamasına rağmen en çok proje vaat eden ve projelerini en düşük 
+oranda gerçekleştiren adaydır.
+5.
+Bir şehirdeki dört farklı sanayi tesisinin yıllık atık üretim ve geri dönüşüm oranları 
+aşağıdadır.
+Tesis Yıllık Atık Üretimi (Ton) Geri Dönüşüm Oranı (%) Su Tüketimi (m³)
+Tesis A 800 %60 Yüksek
+Tesis B 1.200 %40 Çok Yüksek
+Tesis C 600 %80 Orta
+Tesis D 1.000 %30 Çok Yüksek
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Geri dönüşüm oranı en yüksek olan tesis, yıllık atık üretimi en düşük olan tesistir.
+B) Tesis C'nin geri dönüşüme kazandırdığı atık miktarı (ton olarak), Tesis D'nin geri 
+dönüşüme kazandırdığı atık miktarından fazladır.
+C) Atık üretimi arttıkça su tüketimi de her zaman düzenli olarak artmaktadır.
+D) Tesis A, ürettiği atıkların yarısından fazlasını geri dönüştürmektedir.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Park Sistemleri ile Şehir İçi Trafikte Bekleme Süresi Azaldı
+Bir büyükşehir belediyesinin şehir merkezinde başlattığı "Akıllı Otopark" uygulaması, 
+sürücülerin boş park yeri ararken harcadığı zamanı önemli ölçüde azalttı. Uygulama 
+kapsamında otoparklara yerleştirilen sensörler, boş park yerlerini tespit ederek mobil 
+uygulama üzerinden sürücülere anlık olarak gösteriyor. Rapora göre sürücülerin park yeri 
+bulmak için trafikte geçirdiği süre ortalama %35 oranında azalırken, bölgedeki karbon 
+salımında %12'lik bir düşüş tespit edildi. Yetkililer, bu sistemin yalnızca sürücülere kolaylık 
+sağlamakla kalmayıp şehir içi trafik yoğunluğunu ve egzoz gazı kirliliğini azaltmada da 
+önemli bir rol oynadığını belirtti. Uygulamanın diğer ilçelere de yaygınlaştırılması 
+hedefleniyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Akıllı park sistemi sayesinde sürücüler boş yerleri mobil uygulamadan görebilmektedir.
+B) Proje, çevre kirliliğinin azaltılmasına olumlu yönde katkı sağlamıştır.
+C) Uygulamanın yaygınlaşmasıyla birlikte şehirdeki bütün araç sayısı azalmıştır.
+D) Sistem, sürücülerin trafikte gereksiz yere zaman harcamasını önlemiştir.
+7.
+Bir yayınevi, yeni yayımlayacağı altı kitabı rafa soldan sağa doğru dizecektir.
+Kitaplar şunlardır:
+• Roman (R)
+• Şiir (Ş)
+• Bilim (B)
+• Tarih (T)
+• Biyografi (Y)
+• Gezi (G)
+Diziliş kuralları şöyledir:
+• Roman, Şiir kitabının hemen solundadır.
+• Tarih kitabı, Bilim kitabının hemen sağındadır.
+• Gezi kitabı ilk sırada değildir.
+• Biyografi kitabı, Şiir kitabının sağındadır.
+• Bilim kitabı, Roman'ın solundadır.
+• Roman son iki sıradan birinde değildir.
+• Gezi kitabı ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim kitabı üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – R – Ş – G – Y
+B) G – B – T – R – Ş – Y
+C) B – T – G – R – Ş – Y
+D) G – R – Ş – B – T – Y
+8.
+Altı öğrenci (Aslı, Berk, Canan, Doğa, Efe ve Fatih) bir okul yarışmasında konuşacaktır.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Canan'dan hemen sonra konuşacaktır.
+• Aslı, Efe'den önce konuşacaktır.
+• Doğa, Berk'ten sonra konuşacaktır.
+• Fatih, Aslı'dan hemen sonra konuşacaktır.
+• Efe ilk sırada değildir.
+• Canan son sırada değildir.
+• Aslı ile Doğa arasında iki öğrenci bulunmaktadır.
+• Fatih, Berk'ten önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Canan'dan hemen sonra konuşacaktır.
+B) Fatih üçüncü sırada konuşmuştur.
+C) Aslı ikinci sırada konuşmuştur.
+D) Doğa son sırada konuşmuştur.
+9.
+Aşağıdaki nehirlerden hangisi, dünyanın en uzun nehri olarak kabul edilir ve Afrika 
+kıtasında yer alarak Mısır medeniyetinin doğuşuna beşiklik etmiştir?
+A) Amazon Nehri
+B) Nil Nehri
+C) Ganj Nehri
+D) Mississippi Nehri
+   Biliyor muydun?
+Nil Nehri, yaklaşık 6.650 kilometre uzunluğuyla dünyanın en uzun nehridir. Antik Mısır 
+medeniyeti, tarım yapmak ve ulaşım sağlamak için tamamen Nil'in sularına ve taşkınlarına 
+bağlı olarak gelişmiştir. "Mısır, Nil'in armağanıdır." sözü bu durumu ifade eder.
+10.
+Aşağıdaki enerji kaynaklarından hangisi, fosil yakıtlar grubunda yer almaz ve 
+yenilenebilir bir enerji kaynağıdır?
+A) Kömür
+B) Doğal Gaz
+C) Jeotermal Enerji
+D) Petrol
+   Biliyor muydun?
+Jeotermal enerji, yer kabuğunun derinliklerindeki sıcak su ve buhardan elde edilen 
+yenilenebilir bir enerji kaynağıdır. Özellikle fay hatlarının bulunduğu volkanik bölgelerde 
+yaygındır ve hem elektrik üretiminde hem de seraların ve konutların ısıtılmasında kullanılır.
+Cevap Anahtarı (Test 24)
+1. C
+2. C
+3. D
+4. B
+5. C
+6. C
+7. D
+8. A
+9. B
+10. C
+
+TEST 25
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Geleceğin dünyasında en çok ihtiyaç duyulacak becerilerden biri de "uyum sağlama 
+esnekliği" olarak gösterilmektedir. Teknolojinin hızla geliştiği, yeni mesleklerin ortaya çıktığı 
+ve bilgiye erişim yöntemlerinin sürekli değiştiği günümüzde, yalnızca belli bir konuda uzman 
+olmak başarı için yeterli görülmemektedir. Çünkü bugün geçerli olan bir bilgi veya yöntem, 
+birkaç yıl içinde tamamen eski teknolojiler arasında yer alabilir. Bu nedenle bireylerin 
+öğrenmeyi yaşam boyu bir alışkanlık hâline getirmesi ve değişen koşullara hızla ayak 
+uydurabilmesi beklenmektedir.
+Uzmanlar, uyum sağlama esnekliğine sahip bireylerin karşılaştıkları zorlukları bir engel 
+olarak değil; bir öğrenme fırsatı olarak gördüklerini belirtmektedir. Örneğin bir iş yerinde 
+kullanılan yazılım aniden değiştiğinde, esnek düşünebilen bir çalışan bu duruma itiraz etmek 
+yerine yeni sistemi nasıl öğreneceğine odaklanır. Buna karşılık, değişime kapalı olan kişiler, 
+eski alışkanlıklarına bağlı kalmaya çalışarak zaman kaybeder ve stres yaşarlar.
+E�itim sistemleri de bu değişime paralel olarak yeniden şekillenmektedir. Artık öğrencilerden 
+yalnızca bilgiyi ezberlemeleri değil, bu bilgiyi farklı problemlere uyarlayabilmeleri, ekip 
+içinde çalışabilmeleri ve belirsizlik durumlarında inisiyatif alabilmeleri beklenmektedir. Kısacası 
+gelecek, değişime direnenlerin değil; değişimi yönetebilenlerin olacaktır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Teknolojik değişimler her zaman olumsuz sonuçlar doğurur.
+B) Bireyler, hızla değişen koşullara uyum sağlama ve sürekli öğrenme becerisine sahip 
+olmalıdır.
+C) Gelecekte meslekler tamamen ortadan kalkacaktır.
+D) Eğitimde yalnızca bilgi ezberlemeye ağırlık verilmelidir.
+2.
+Metne göre aşağıdakilerden hangisi "uyum sağlama esnekliği"ne sahip bir kişinin 
+davranışıdır?
+A) Yeni bir teknolojiyle karşılaştığında onu öğrenmeye istekli olmak
+B) Karşılaştığı zorluklar karşısında hemen vazgeçmek
+C) Değişen koşullara itiraz ederek eski yöntemlerde ısrar etmek
+D) Yalnızca bildiği konularla ilgilenip yeni alanlara kapalı olmak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Geçerli olan bazı bilgiler zamanla kullanılamaz hâle gelebilir.
+B) Değişime kapalı kişiler yeni durumlarda stres yaşayabilir.
+C) Öğrencilerden bilgiyi problemlere uyarlamaları beklenmektedir.
+D) Uzmanlaşmak, gelecekte tek başına kesin başarı getirecek bir unsurdur.
+4.
+Bir şirketin düzenlediği "Girişimcilik Fikirleri" yarışmasında dört projenin değerlendirme 
+sonuçları aşağıdaki tabloda verilmiştir.
+Proje Yenilikçilik (30) Uygulanabilirlik (40) Sunum (30) Toplam (100)
+Proje A 25 35 25 85
+Proje B 28 32 28 88
+Proje C 22 38 26 86
+Proje D 29 28 30 87
+Tablodaki verilere göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Yenilikçilik puanı en yüksek olan proje, yarışmanın birincisi olmuştur.
+B) Uygulanabilirlik puanı en yüksek olan proje, toplam puanda ikinci sıradadır.
+C) Sunum puanı tam olan proje, toplam puanda ilk sırada yer almaktadır.
+D) Proje B, bütün değerlendirme ölçütlerinde en yüksek puanı almıştır.
+5.
+Bir okulda öğrencilerin internette en çok zaman geçirdikleri etkinlikler ve bu öğrencilerin okul 
+başarı ortalamaları incelenmiştir.
+Etkinlik Türü Günlük Ortalama Süre (Saat) Başarı Ortalaması (100 Üzerinden)
+Araştırma / Eğitim 1,5 88
+Çevrim İçi Oyun 3,5 65
+Sosyal Medya 2,5 72
+Belgesel / Video İzleme 2,0 82
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) İnternette en fazla zaman geçirilen etkinlik çevrim içi oyunlardır.
+B) Başarı ortalaması en yüksek olan grup, internette araştırma ve eğitim amaçlı zaman 
+geçiren gruptur.
+C) İnternet kullanım süresi arttıkça öğrencilerin başarı ortalaması düzenli olarak 
+düşmektedir.
+D) Sosyal medyada geçirilen ortalama süre belgesel izlemeye ayrılan süreden fazladır.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Deniz Suyu Arıtma Tesisleri İçme Suyu Sağlamada Yeni Umut
+Küresel ısınma ve artan nüfus nedeniyle temiz tatlı su kaynaklarının azalması, ülkeleri farklı 
+çözüm arayışlarına yöneltiyor. Bu kapsamda deniz suyundan içme suyu elde edilmesini 
+sağlayan "Ters Osmoz" (Reverse Osmosis) tesislerinin sayısı hızla artıyor. Deniz suyu, yüksek 
+basınç altında özel zarlardan geçirilerek tuzundan arındırılıyor ve içilebilir tatlı su hâline 
+getiriliyor. Yetkililer, bu sistemin kuraklık tehlikesi yaşayan kıyı şehirleri için hayati bir 
+öneme sahip olduğunu ancak tesislerin yüksek enerji tüketmesi nedeniyle maliyetli olduğunu 
+belirtiyor. Çevreciler ise arıtma sonucu ortaya çıkan yoğun tuzlu suyun tekrar denize 
+bırakılmasının deniz ekosistemine zarar verebileceği uyarısında bulunarak daha sürdürülebilir 
+yöntemler geliştirilmesi gerektiğini ifade ediyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Ters osmoz tesisleri tatlı su kaynaklarına alternatif bir çözüm sunmaktadır.
+B) Tesislerin çalışması için yüksek miktarda enerjiye ihtiyaç duyulmaktadır.
+C) Uygulamanın deniz canlıları üzerinde olası olumsuz etkileri bulunmaktadır.
+D) Ters osmoz yöntemi sayesinde dünyadaki su kıtlığı sorunu tamamen çözülmüştür.
+7.
+Bir yayınevi, yeni yayımlayacağı altı kitabı rafa soldan sağa doğru dizecektir.
+Kitaplar şunlardır:
+• Roman (R)
+• Şiir (Ş)
+• Bilim (B)
+• Tarih (T)
+• Biyografi (Y)
+• Gezi (G)
+Diziliş kuralları şöyledir:
+• Roman, Şiir kitabının hemen solundadır.
+• Tarih kitabı, Bilim kitabının hemen sağındadır.
+• Gezi kitabı ilk sırada değildir.
+• Biyografi kitabı, Şiir kitabının sağındadır.
+• Bilim kitabı, Roman'ın solundadır.
+• Roman son iki sıradan birinde değildir.
+• Gezi kitabı ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim kitabı üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – R – Ş – G – Y
+B) G – B – T – R – Ş – Y
+C) B – T – G – R – Ş – Y
+D) G – R – Ş – B – T – Y
+8.
+Altı öğrenci (Ali, Berk, Can, Doğa, Efe ve Funda) okul yarışmasında konuşacaktır.
+Sıralamayla ilgili bilgiler şunlardır:
+• Berk, Can'dan hemen sonra konuşacaktır.
+• Ali, Efe'den önce konuşacaktır.
+• Doğa, Berk'ten sonra konuşacaktır.
+• Funda, Ali'den hemen sonra konuşacaktır.
+• Efe ilk sırada değildir.
+• Can son sırada değildir.
+• Ali ile Doğa arasında iki öğrenci bulunmaktadır.
+• Funda, Berk'ten önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Can'dan hemen sonra konuşacaktır.
+B) Funda üçüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Doğa son sırada konuşmuştur.
+9.
+Aşağıdaki bilim insanlarından hangisi, hücreyi ilk kez mikroskop altında inceleyerek ona 
+İngilizcede "odacık" anlamına gelen "cell" (hücre) adını vermiştir?
+A) Antonie van Leeuwenhoek
+B) Robert Hooke
+C) Gregor Mendel
+D) Charles Darwin
+   Biliyor muydun?
+Robert Hooke, 1665 yılında kendi geliştirdiği basit bir mikroskopla şişe mantarını 
+incelemiştir. Gördüğü küçük boşlukları manastırlardaki keşişlerin kaldığı küçük odalara 
+benzettiği için onlara "hücre" adını vermiştir. Bu keşif, biyoloji biliminde hücre teorisinin 
+temellerini atmıştır.
+10.
+Aşağıdaki örgütlerden hangisi, II. Dünya Savaşı'ndan sonra uluslararası barışı korumak, 
+güvenliği sağlamak ve ülkeler arasında iş birliğini geliştirmek amacıyla 1945 yılında 
+kurulmuştur?
+A) Avrupa Birliği (AB)
+B) Kuzey Atlantik Antlaşması Örgütü (NATO)
+C) Birleşmiş Milletler (BM)
+D) Dünya Sağlık Örgütü (DSÖ)
+   Biliyor muydun?
+Birleşmiş Milletler (BM), savaşların yıkıcı etkilerini önlemek amacıyla kurulmuştur. Merkezi 
+New York'ta bulunan örgütün alt kuruluşları arasında; çocuk haklarını koruyan UNICEF, 
+eğitim ve kültürü destekleyen UNESCO ve dünya sağlığını denetleyen DSÖ (WHO) gibi 
+önemli birimler yer almaktadır.
+Cevap Anahtarı (Test 25)
+1. B
+2. A
+3. D
+4. B
+5. C
+6. D
+7. D
+8. A
+9. B
+10. C

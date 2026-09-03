@@ -1,0 +1,333 @@
+TEST 1
+
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Son yıllarda yapılan araştırmalar, insanların bir konuyu öğrenirken yalnızca o bilgiye 
+odaklanmasının her zaman en etkili yöntem olmadığını göstermektedir. Özellikle uzun süre 
+aynı konu üzerinde çalışan öğrencilerin dikkat düzeylerinde zamanla azalma 
+görülebilmektedir. Beyin, sürekli aynı tür uyarıcıyla karşılaştığında çevredeki ayrıntıları 
+seçme konusunda daha az istekli hâle gelir. Bu nedenle eğitim bilimciler, çalışma sürecinde 
+kısa molalar verilmesini ve farklı öğrenme etkinliklerinin bir arada kullanılmasını 
+önermektedir. Böylece öğrenci, yalnızca bilgiyi ezberlemek yerine onu farklı yönleriyle 
+değerlendirme fırsatı bulur.
+
+Araştırmacılar, öğrenmenin kalıcılığını artıran bir başka yöntemin ise bilgiyi günlük yaşamla 
+ilişkilendirmek olduğunu ifade etmektedir. Örneğin matematikte öğrenilen oran-orantı 
+bilgisinin alışverişte indirim hesaplamalarında, fen bilgisinde öğrenilen enerji dönüşümlerinin 
+günlük kullanılan elektrikli araçlarda ya da Türkçede öğrenilen anlatım tekniklerinin okunan 
+haber metinlerinde fark edilmesi, öğrenilen bilginin zihinde daha sağlam yer edinmesini 
+sağlar. Çünkü beyin, yalnızca soyut bilgileri değil, gerçek yaşamda karşılığı bulunan bilgileri 
+de daha kolay hatırlamaktadır.
+
+Ancak uzmanlar, bu önerilerin her öğrenci için aynı sonucu vermeyeceğini de 
+vurgulamaktadır. Öğrenme sürecinde bireysel farklılıklar önemli bir etkendir. Bazı öğrenciler 
+sessiz ortamlarda daha verimli çalışırken bazıları hafif bir müzik eşliğinde daha iyi 
+odaklanabilmektedir. Kimileri görsellerden yararlanarak öğrenirken kimileri okuduklarını 
+yazarak daha kalıcı hâle getirmektedir. Bu nedenle başarılı bir öğrenme süreci için tek bir 
+yöntem aramak yerine kişinin kendisini tanıması, güçlü yönlerini keşfetmesi ve buna uygun 
+çalışma planı oluşturması daha doğru bir yaklaşım olacaktır.
+
+1.
+Bu metinden hareketle aşağıdakilerden hangisine kesin olarak ulaşılamaz?
+A) Aynı yöntem her öğrencide aynı başarıyı sağlamayabilir.
+B) Bilgiyi günlük yaşamla ilişkilendirmek öğrenmenin kalıcılığını artırabilir.
+C) Kısa molalar vermek bütün öğrencilerin akademik başarısını mutlaka yükseltir.
+D) Öğrenme sürecinde bireysel farklılıkların dikkate alınması gerekir.
+
+2.
+Aşağıdakilerden hangisi metinde savunulan düşünceyi destekleyen bir örnek değildir?
+A) Fen dersinde öğrenilen kuvvet konusunu bisiklet kullanırken gözlemlemek.
+B) Türkçe dersinde öğrenilen anlatım biçimlerini gazete yazılarında belirlemek.
+C) Tarih dersindeki olayları ezberlemek için aynı sayfayı onlarca kez sessizce okumak.
+D) Matematikteki yüzde hesaplarını mağazalardaki indirim oranlarıyla ilişkilendirmek.
+
+3.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Başarılı olmanın tek yolu uzun süre ders çalışmaktır.
+B) Öğrenmede etkili sonuç alabilmek için bireyin kendisine uygun yöntemleri belirlemesi 
+gerekir.
+C) Günlük yaşam örnekleri yalnızca sayısal derslerde kullanılmalıdır.
+D) Sessiz ortamda çalışan öğrenciler diğerlerinden daha başarılıdır.
+
+4.
+Bir okulda düzenlenen "Kitap Okuma Maratonu" sonunda öğrencilerin dört farklı sınıf 
+düzeyindeki katılım ve başarı verileri aşağıdaki tabloda verilmiştir.
+
+Sınıf Katılan Öğrenci Toplam Okunan Kitap Öğrenci Başına Ortalama Hedefe Ulaşan Öğrenci
+5. Sınıf 48 336 7 30
+6. Sınıf 42 378 9 29
+7. Sınıf 36 396 11 24
+8. Sınıf 30 360 12 18
+
+Tablodaki verilere göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) En fazla kitabı okuyan sınıf, hedefe ulaşan öğrenci sayısında da ilk sıradadır.
+B) Katılan öğrenci sayısı azaldıkça öğrenci başına düşen okunan kitap sayısı artmıştır.
+C) Hedefe ulaşan öğrencilerin oranı en yüksek olan sınıf 8. sınıftır.
+D) 5 ve 6. sınıfların toplam kitap sayısı, 7 ve 8. sınıfların toplamından fazladır.
+
+5.
+Bir okulun çevre kulübü, bir ay boyunca gerçekleştirilen geri dönüşüm kampanyasının 
+sonuçlarını aşağıdaki infografikle paylaşmıştır.
+
+Atık Türü 1. Hafta 2. Hafta 3. Hafta 4. Hafta
+Kâğıt 120 kg 140 kg 110 kg 150 kg
+Plastik 90 kg 80 kg 130 kg 100 kg
+Cam 60 kg 70 kg 80 kg 90 kg
+
+Kulüp, ay sonunda şu değerlendirmeleri yapmıştır:
+I. Toplanan toplam geri dönüşüm miktarı her hafta bir önceki haftadan fazladır.
+II. En fazla artış gösteren atık türü plastiktir.
+III. Dört haftanın toplamında en fazla toplanan atık türü kâğıttır.
+IV. Cam atık miktarı her hafta düzenli olarak artmıştır.
+
+Bu değerlendirmelerden hangileri doğrudur?
+A) I ve II
+B) I ve III
+C) II, III ve IV
+D) III ve IV
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Duraklar Hizmete Girdi
+Büyükşehir Belediyesi tarafından hayata geçirilen "Akıllı Durak" uygulamasıyla şehir 
+merkezindeki 35 otobüs durağı yenilendi. Yeni duraklarda güneş panelleri sayesinde elektrik 
+üretilecek, USB şarj üniteleri ve dijital bilgilendirme ekranları kullanılacak. Belediye 
+yetkilileri uygulamanın enerji tasarrufu sağlamasının yanı sıra yolcuların bekleme sürecini 
+daha verimli hâle getireceğini belirtti. Engelli bireylerin kullanımını kolaylaştıracak 
+düzenlemelerin de projeye dâhil edildiği açıklandı. Uygulamanın ilk aşamada şehir 
+merkezinde başlayacağı, ilerleyen dönemlerde diğer ilçelere de yaygınlaştırılmasının 
+planlandığı ifade edildi.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Projenin yalnızca enerji tasarrufu sağlaması amaçlanmıştır.
+B) Duraklarda yenilenebilir enerji kaynaklarından yararlanılacaktır.
+C) Uygulamanın ilerleyen süreçte daha geniş bir alana yayılması hedeflenmektedir.
+D) Projede erişilebilirliği artırmaya yönelik düzenlemeler bulunmaktadır.
+
+7.
+Bir okulda düzenlenecek münazara yarışmasına Ayşe, Berk, Ceren, Deniz ve Efe
+katılacaktır. Yarışmacılar birinci, ikinci, üçüncü, dördüncü ve beşinci sırada konuşacaktır.
+
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Berk, Ayşe'den hemen sonra konuşacaktır.
+• Ceren, ilk ya da son sırada değildir.
+• Deniz, Ceren'den önce konuşacaktır.
+• Efe, Berk'ten sonra konuşacaktır.
+• Ayşe üçüncü sırada değildir.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Deniz ikinci sırada konuşmuştur.
+B) Berk, Ayşe'den sonraki sırada konuşmuştur.
+C) Efe son sırada konuşmuştur.
+D) Ceren dördüncü sırada konuşmuştur.
+
+8.
+Bir müzede Hitit, Frig, Urartu, Lidya ve İyon salonları yan yana bulunmaktadır.
+Aşağıdaki bilgiler bilinmektedir.
+• Hitit Salonu, Frig Salonu'nun hemen solundadır.
+• İyon Salonu en sonda değildir.
+• Lidya Salonu, Urartu Salonu'nun sağındadır.
+• Frig Salonu üçüncü salonda değildir.
+• Urartu Salonu ilk salonda değildir.
+
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) Hitit – Frig – Urartu – Lidya – İyon
+B) Urartu – Lidya – Hitit – Frig – İyon
+C) İyon – Hitit – Frig – Urartu – Lidya
+D) Hitit – Frig – İyon – Urartu – Lidya
+
+9.
+Aşağıdaki yapılardan hangisi, Anadolu Selçuklu Devleti döneminde inşa edilmiştir?
+A) Selimiye Camii
+B) Divriği Ulu Camii ve Darüşşifası
+C) Dolmabahçe Sarayı
+D) Çırağan Sarayı
+
+Biliyor muydun?
+Divriği Ulu Camii ve Darüşşifası, 1228 yılında Mengücek Beyliği döneminde yaptırılmış 
+olup taş işçiliğiyle dünyanın en önemli mimari eserlerinden biri kabul edilir. 1985 yılında 
+UNESCO Dünya Mirası Listesi'ne alınan ilk Türk eserleri arasında yer almıştır.
+
+10.
+Aşağıdaki bilim insanlarından hangisinin çalışmaları sayesinde kuduz hastalığına karşı 
+etkili aşının geliştirilmesi sağlanmıştır?
+A) Isaac Newton
+B) Nikola Tesla
+C) Louis Pasteur
+D) Alexander Graham Bell
+
+Biliyor muydun?
+Louis Pasteur, yalnızca kuduz aşısını geliştirmesiyle değil; mikroorganizmaların hastalıklara 
+neden olduğunu kanıtlayan çalışmalarıyla da modern mikrobiyolojinin öncülerinden biri kabul 
+edilir. Günümüzde süt ve bazı gıdalarda uygulanan pastörizasyon yöntemi adını ondan 
+almıştır.
+
+Cevap Anahtarı
+1. C
+2. C
+3. B
+4. B
+5. D
+6. A
+7. B
+8. B
+9. B
+10. C
+
+TEST 2
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde birçok insan, bilgiye ulaşmanın geçmişe göre çok daha kolay olduğunu 
+düşünüyor. Gerçekten de internet sayesinde birkaç saniye içinde milyonlarca kaynağa 
+erişilebiliyor. Ancak eğitim uzmanları, bilgiye kolay ulaşmanın her zaman doğru bilgiye 
+ulaşmak anlamına gelmediğini belirtiyor. Çünkü dijital ortamda yayımlanan her içerik 
+bilimsel araştırmalara dayanmıyor; bazıları eksik, bazıları ise tamamen yanlış bilgiler 
+içerebiliyor. Bu nedenle araştırma yaparken yalnızca ilk karşılaşılan kaynağa güvenmek 
+yerine farklı kaynakları karşılaştırmak ve bilgilerin doğruluğunu sorgulamak büyük önem 
+taşıyor.
+
+Uzmanlara göre dijital okuryazarlığın temelinde de bu beceri yer alıyor. Dijital okuryazar 
+bireyler yalnızca teknolojiyi kullanabilen kişiler değildir; aynı zamanda ulaştıkları bilgiyi 
+analiz eden, kaynağını sorgulayan ve gerektiğinde doğruluğunu farklı verilerle test eden 
+kişilerdir. Özellikle sosyal medyada çok kısa sürede yayılan haberler, doğrulanmadan 
+paylaşıldığında yanlış bilgilerin binlerce kişiye ulaşmasına neden olabiliyor. Bu nedenle 
+birçok ülkede öğrencilerin erken yaşlardan itibaren medya okuryazarlığı eğitimi almaları 
+teşvik edilmektedir.
+
+Bununla birlikte uzmanlar, teknolojiyi tamamen zararlı olarak değerlendirmenin de doğru 
+olmadığını ifade ediyor. Çünkü doğru kullanıldığında dijital araçlar; öğrenmeyi destekleyen 
+videolar, sanal laboratuvarlar, çevrim içi kütüphaneler ve etkileşimli uygulamalar sayesinde 
+eğitim sürecini zenginleştirebiliyor. Önemli olan teknolojiye sınırsız güvenmek ya da onu 
+tamamen reddetmek değil; bilinçli ve eleştirel bir bakış açısıyla kullanabilmektir. Böylece 
+bireyler hem bilgi kirliliğinden korunabilir hem de teknolojinin sunduğu imkânlardan en 
+verimli şekilde yararlanabilir.
+
+1.
+Bu metinde asıl vurgulanmak istenen aşağıdakilerden hangisidir?
+A) Teknoloji eğitimden tamamen çıkarılmalıdır.
+B) İnternetteki bütün bilgiler güvenilirdir.
+C) Teknoloji, eleştirel düşünmeyle birlikte kullanıldığında yararlı olur.
+D) Sosyal medya kullanılmamalıdır.
+
+2.
+Metne göre aşağıdakilerden hangisi dijital okuryazar bir bireyin davranışıdır?
+A) İnternette karşılaştığı ilk bilgiyi sorgulamadan paylaşmak
+B) Bilgileri farklı kaynaklarla karşılaştırarak doğruluğunu araştırmak
+C) Sosyal medyada gördüğü her haberi doğru kabul etmek
+D) Yalnızca basılı kaynaklardan yararlanmak
+
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Teknoloji doğru kullanıldığında öğrenmeyi destekleyebilir.
+B) Bilgilerin doğruluğu farklı kaynaklardan kontrol edilmelidir.
+C) Medya okuryazarlığı eğitimi bazı ülkelerde desteklenmektedir.
+D) Basılı kitaplarda hiçbir zaman yanlış bilgi bulunmaz.
+
+4.
+Bir okulda düzenlenen "Bilim Şenliği"ne katılan öğrenciler dört farklı atölyeye katılmıştır.
+Atölye Katılan Öğrenci Proje Tamamlayan Derece Alan
+Robotik 48 42 12
+Yazılım 36 35 14
+Tasarım 40 30 9
+Astronomi 26 24 10
+
+Tablodaki verilere göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Dereceye girme oranı en yüksek olan atölye Yazılım Atölyesi'dir.
+B) En fazla öğrenci Robotik Atölyesi'nde derece almıştır.
+C) Proje tamamlayan her öğrenci dereceye girmiştir.
+D) Astronomi Atölyesi'nde dereceye giren öğrenci sayısı en azdır.
+
+5.
+Bir yayınevi, son dört yılda bastığı kitap sayılarını ve e-kitap indirilme sayılarını aşağıdaki 
+tabloda vermiştir.
+Yıl Basılı Kitap E-kitap İndirme (bin)
+2022 180 90
+2023 210 140
+2024 195 210
+2025 240 260
+
+Bu verilere göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Basılı kitap sayısı her yıl düzenli olarak artmıştır.
+B) E-kitap indirilme sayısı her yıl artmıştır.
+C) 2024 yılında e-kitap indirme sayısı basılı kitap sayısını aşmıştır.
+D) En fazla basılı kitap 2025 yılında yayımlanmıştır.
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Yağmur Bahçeleri" Projesi Başladı
+Bir büyükşehir belediyesi, ani yağışlarda oluşan su birikintilerini azaltmak ve yağmur sularını 
+değerlendirmek amacıyla "Yağmur Bahçeleri" projesini uygulamaya koydu. Kaldırımların 
+belirli bölümlerine oluşturulan özel bitki alanları, yağmur suyunun toprağa süzülmesini 
+sağlayarak hem sel riskini azaltıyor hem de yer altı su kaynaklarının beslenmesine katkıda 
+bulunuyor. Projenin ilk etabında 18 farklı noktada uygulama yapılırken önümüzdeki yıl bu 
+sayının iki katına çıkarılması planlanıyor. Çevre mühendisleri, bu uygulamanın tek başına sel 
+sorununu çözmeyeceğini ancak sürdürülebilir şehircilik açısından önemli bir adım olduğunu 
+belirtiyor.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Yağmur bahçelerinin temel amacı park sayısını artırmaktır.
+B) Uygulamanın yaygınlaştırılması planlanmaktadır.
+C) Yağmur sularının toprağa karışması hedeflenmektedir.
+D) Uzmanlara göre proje tek başına yeterli değildir.
+
+7.
+Bir okulun STEM festivalinde Arduino, Yapay Zekâ, Robotik, 3B Tasarım ve Siber 
+Güvenlik atölyeleri yan yana beş standa yerleştirilecektir.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Arduino standının hemen sağındadır.
+• Yapay Zekâ standı en solda değildir.
+• Siber Güvenlik standı, 3B Tasarım standının solundadır.
+• Arduino standı üçüncü sırada değildir.
+• 3B Tasarım standı en sağda değildir.
+
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) Yapay Zekâ – Arduino – Robotik – Siber Güvenlik – 3B Tasarım
+B) Arduino – Robotik – Yapay Zekâ – Siber Güvenlik – 3B Tasarım
+C) Yapay Zekâ – Siber Güvenlik – 3B Tasarım – Arduino – Robotik
+D) Siber Güvenlik – 3B Tasarım – Yapay Zekâ – Arduino – Robotik
+
+8.
+Beş öğrenci (Ali, Burak, Cem, Deniz ve Ece) okul temsilcisi seçiminde konuşma yapacaktır.
+Bilinenler şunlardır:
+• Ali, Cem'den önce konuşacaktır.
+• Burak ilk ya da son sırada değildir.
+• Deniz, Ali'den hemen sonra konuşacaktır.
+• Ece, Burak'tan sonra konuşacaktır.
+• Cem son sırada değildir.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Deniz, Ali'den sonraki sırada konuşacaktır.
+B) Burak üçüncü sırada konuşacaktır.
+C) Ece son sırada konuşacaktır.
+D) Cem ikinci sırada konuşacaktır.
+
+9.
+Aşağıdaki buluşlardan hangisi, Johannes Gutenberg'in geliştirdiği hareketli metal harf 
+sistemi sayesinde yaygınlaşmıştır?
+A) Buhar makinesi
+B) Matbaa
+C) Telgraf
+D) Pusula
+
+Biliyor muydun?
+Gutenberg'in 15. yüzyılda geliştirdiği hareketli metal harf sistemi, kitapların çok daha hızlı 
+çoğaltılmasını sağladı. Bu gelişme; bilimsel bilginin yayılmasını hızlandırdı ve Rönesans ile 
+Reform hareketlerinin etkisini artıran önemli gelişmelerden biri olarak kabul edilir.
+
+10.
+Aşağıdaki kurumlardan hangisinin temel görevi, Türkiye'nin tarihî ve kültürel mirasını 
+korumak, kazı çalışmalarını desteklemek ve müzeleri yönetmektir?
+A) TÜBİTAK
+B) Türk Dil Kurumu
+C) Kültür ve Turizm Bakanlığı
+D) Devlet Arşivleri Başkanlığı
+
+Cevap Anahtarı (Test 2)
+1. C
+2. B
+3. D
+4. A
+5. A
+6. A
+7. A
+8. A
+9. B
+10. C

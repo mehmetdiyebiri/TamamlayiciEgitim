@@ -1,0 +1,317 @@
+TEST 6
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Son yıllarda yapılan araştırmalar, insanların karar verirken çoğu zaman farkında olmadan 
+çeşitli zihinsel kestirme yollar kullandığını göstermektedir. Beyin, karşılaştığı her bilgiyi 
+ayrıntılı biçimde incelemek yerine daha önceki deneyimlerinden yararlanarak hızlı sonuçlara 
+ulaşmaya çalışır. Bu durum günlük yaşamda zaman kazandırsa da bazı hatalı yargıların 
+oluşmasına neden olabilir. Örneğin bir kişinin yalnızca dış görünüşüne bakarak onun karakteri 
+hakkında kesin yargılara varmak ya da sosyal medyada çok paylaşılan bir bilginin doğru 
+olduğuna inanmak bu duruma örnek gösterilebilir.
+
+Araştırmacılar, özellikle önemli kararlar alınırken bu eğilimin farkında olunması gerektiğini 
+belirtmektedir. Bir ürün satın alırken yalnızca reklamlara güvenmek yerine kullanıcı 
+deneyimlerini incelemek, bir haberin doğruluğunu farklı kaynaklardan kontrol etmek ya da bir 
+kişinin davranışlarını tek bir olaya göre değerlendirmemek daha sağlıklı sonuçlar 
+doğurmaktadır. Çünkü ilk edinilen bilgi her zaman gerçeği tam olarak yansıtmayabilir.
+
+Bununla birlikte hızlı karar vermenin tamamen yanlış olduğu da söylenemez. Günlük 
+yaşamda karşılaşılan birçok basit durumda insanlar ayrıntılı analiz yapmadan da doğru 
+kararlar verebilir. Ancak kararın sonucu önemliyse acele etmek yerine kanıtları 
+değerlendirmek, farklı görüşleri dinlemek ve yeni bilgiler ışığında düşüncelerini gözden 
+geçirmek daha doğru bir yaklaşım olacaktır. Eleştirel düşünme becerisi de bireyin yalnızca 
+başkalarının düşüncelerini değil, kendi yargılarını da sorgulayabilmesini gerektirir.
+
+1.
+Bu metinden çıkarılabilecek en kapsamlı yargı aşağıdakilerden hangisidir?
+A) İnsanlar karar verirken her zaman hata yapar.
+B) Hızlı karar vermek hiçbir zaman doğru değildir.
+C) Önemli kararlar alınırken kanıtları değerlendirmek ve farklı bakış açılarını dikkate almak 
+gerekir.
+D) Sosyal medyada yer alan bilgilerin tamamı yanlıştır.
+
+2.
+Metne göre aşağıdakilerden hangisi eleştirel düşünme becerisine örnek gösterilebilir?
+A) İlk okuduğu haberi doğruluğunu araştırmadan paylaşmak
+B) Bir ürünü yalnızca reklamını beğendiği için satın almak
+C) Bir arkadaşı hakkında tek bir olaya bakarak kesin yargıya varmak
+D) Aynı konuyu farklı kaynaklardan inceleyerek değerlendirme yapmak
+
+3.
+Metinde aşağıdakilerden hangisi vurgulanmaktadır?
+A) İlk bilgiler her zaman doğrudur.
+B) Hızlı kararlar yalnızca bilim insanları tarafından verilir.
+C) Karar verirken yalnızca sezgilere güvenmek yeterlidir.
+D) Kararın önemine göre değerlendirme sürecinin değişmesi gerekebilir.
+
+4.
+Aşağıdaki tabloda bir okulun **"Bilim, Sanat ve Spor Kulüpleri"**ne ait dönem sonu verileri 
+yer almaktadır.
+Kulüp Üye Sayısı Düzenlenen Etkinlik Katılım (%) Ödül Alan Öğrenci
+Bilim 36 12 %92 14
+Spor 48 18 %75 16
+Müzik 30 10 %90 11
+Resim 24 8 %95 9
+
+Tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) Katılım oranı en yüksek olan kulüp, en fazla etkinlik düzenleyen kulüptür.
+B) Bilim Kulübünde ödül alan öğrenci sayısı, Müzik ve Resim kulüplerinin toplamından 
+fazladır.
+C) Spor Kulübü hem üye sayısı hem etkinlik sayısı bakımından ilk sıradadır.
+D) Etkinlik sayısı arttıkça katılım oranı da artmıştır.
+
+5.
+Bir belediyenin hazırladığı raporda şehirdeki kütüphanelerin yıllık ziyaretçi sayıları 
+verilmiştir.
+Kütüphane Öğrenci Yetişkin Toplam
+A 12.500 7.500 20.000
+B 15.000 6.000 21.000
+C 10.000 12.000 22.000
+D 8.000 9.000 17.000
+
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) En fazla ziyaret edilen kütüphane C Kütüphanesidir.
+B) Öğrenci ziyaretçi sayısı en fazla olan kütüphane B'dir.
+C) Yetişkin ziyaretçi sayısı bakımından A Kütüphanesi ilk sıradadır.
+D) D Kütüphanesinde yetişkin ziyaretçi sayısı öğrenci ziyaretçi sayısından fazladır.
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+Dijital Kütüphane Projesi Yaygınlaşıyor
+Kültür ve Turizm Bakanlığı tarafından yürütülen "Dijital Kütüphane" projesi kapsamında, 
+Türkiye genelindeki halk kütüphanelerinde bulunan binlerce eser dijital ortama aktarılıyor. 
+Projeyle özellikle yıpranma riski taşıyan nadir eserlerin korunması ve araştırmacıların bu 
+eserlere uzaktan erişebilmesi amaçlanıyor. Yetkililer, dijital kopyaların hazırlanmasının basılı 
+eserlerin önemini azaltmayacağını; aksine kültürel mirasın korunmasına katkı sağlayacağını 
+belirtti. Projenin ikinci aşamasında, görme engelli bireyler için sesli kitap arşivinin de 
+genişletileceği açıklandı.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Dijital ortama aktarılan eserlerin asılları tamamen ortadan kaldırılacaktır.
+B) Proje, kültürel mirasın korunmasına katkı sağlamayı amaçlamaktadır.
+C) Araştırmacıların eserlere erişiminin kolaylaştırılması hedeflenmektedir.
+D) Projenin ilerleyen aşamalarında erişilebilirlik çalışmalarına da yer verilecektir.
+
+7.
+Bir teknoloji fuarında Robotik (R), Yapay Zekâ (Y), Uzay (U), Siber Güvenlik (S), 
+Yazılım (Yz) ve Biyoteknoloji (B) stantları soldan sağa doğru sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Siber Güvenlik standı, Yazılım standının sağındadır.
+• Uzay standı ilk sırada değildir.
+• Biyoteknoloji standı, Robotik standının sağındadır.
+• Yapay Zekâ standı son sırada değildir.
+• Yazılım standı, Uzay standının hemen sağında değildir.
+
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) U – R – Y – B – Yz – S
+B) R – Y – U – B – Yz – S
+C) Yz – U – R – Y – B – S
+D) U – Yz – R – Y – S – B
+
+8.
+Altı öğrenci (Ayşe, Berk, Ceren, Deniz, Efe ve Funda) bir sunum yarışmasında 1'den 6'ya 
+kadar farklı sıralarda sunum yapacaktır.
+Bilinenler şunlardır:
+• Ayşe, Berk'ten önce sunum yapacaktır.
+• Ceren, Deniz'den hemen sonra sunum yapacaktır.
+• Funda, Ayşe'den sonra fakat Berk'ten önce sunum yapacaktır.
+• Efe ilk sırada değildir.
+• Berk son sırada değildir.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Ceren, Deniz'den hemen sonra sunum yapacaktır.
+B) Ayşe birinci sırada sunum yapmıştır.
+C) Berk dördüncü sırada sunum yapmıştır.
+D) Efe altıncı sırada sunum yapmıştır.
+
+9.
+Aşağıdaki bilim insanlarından hangisi, geliştirdiği periyodik tablo ile elementlerin 
+sınıflandırılmasına önemli katkı sağlamıştır?
+A) Albert Einstein
+B) Dmitri Mendeleyev
+C) Gregor Mendel
+D) James Watt
+
+10.
+Aşağıdaki doğal olaylardan hangisi, Ay'ın Dünya ile Güneş arasına girmesi sonucu
+meydana gelir?
+A) Ay tutulması
+B) Güneş tutulması
+C) Gelgit
+D) Mevsimlerin oluşumu
+
+Cevap Anahtarı (Test 6)
+1. C
+2. D
+3. D
+4. C
+5. C
+6. A
+7. B
+8. A
+9. B
+10. B
+
+TEST 7
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları, insanların yeni fikirler üretirken yalnızca sahip oldukları bilgi birikiminden 
+değil, farklı alanlar arasında kurdukları ilişkilerden de yararlandıklarını belirtmektedir. Pek 
+çok önemli buluş incelendiğinde, çözümlerin tek bir bilim dalından değil; matematik, sanat, 
+mühendislik ve doğa bilimleri gibi farklı disiplinlerin bir araya gelmesiyle ortaya çıktığı 
+görülmektedir. Bu nedenle günümüzde eğitim programlarında öğrencilerin disiplinler arası 
+düşünme becerilerini geliştirmeye yönelik etkinliklere daha fazla yer verilmektedir. Çünkü 
+farklı alanlardan edinilen bilgiler arasında bağlantı kurabilen bireyler, karşılaştıkları 
+problemlere daha özgün çözümler üretebilmektedir.
+
+Ancak disiplinler arası düşünme, her alandan yüzeysel bilgi edinmek anlamına gelmez. 
+Önemli olan, farklı alanlardaki temel kavramları anlayarak bunlar arasında anlamlı ilişkiler 
+kurabilmektir. Örneğin doğadaki canlıların hareketlerini inceleyen bir mühendis, bu 
+gözlemlerden yararlanarak daha verimli robotlar tasarlayabilir. Benzer şekilde bir mimar, 
+tarihî yapılardaki dayanıklılık yöntemlerini inceleyerek modern binaların tasarımında yeni 
+fikirler geliştirebilir. Bu tür örnekler, öğrenilen bilgilerin yalnızca kendi alanında değil, başka 
+alanlarda da kullanılabileceğini göstermektedir.
+
+Uzmanlara göre geleceğin en önemli becerilerinden biri de farklı bakış açılarını bir araya 
+getirebilmektir. Çünkü günümüzde karşılaşılan çevre, enerji, sağlık ve teknoloji gibi küresel 
+problemlerin büyük bölümü tek bir uzmanlık alanının çözümleriyle giderilemeyecek kadar 
+karmaşıktır. Bu nedenle iş birliği yapabilen, farklı görüşleri değerlendirebilen ve 
+öğrendiklerini yeni durumlara aktarabilen bireylerin gelecekte daha başarılı olacağı 
+öngörülmektedir.
+
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bilimsel çalışmalar yalnızca mühendisler tarafından yürütülmektedir.
+B) Başarılı çözümler geliştirebilmek için farklı disiplinler arasında ilişki kurulabilmelidir.
+C) Her konuda uzmanlaşmak mümkün değildir.
+D) Tarihî yapılar modern yapılardan daha dayanıklıdır.
+
+2.
+Metinde savunulan düşünceyi aşağıdakilerden hangisi destekler?
+A) Bir öğrencinin yalnızca matematik soruları çözerek bütün derslerde başarılı olacağını 
+düşünmesi
+B) Bir mühendisin kuşların kanat yapısını inceleyerek enerji tasarruflu drone tasarlaması
+C) Bir kitabı yalnızca kapağına bakarak değerlendirmek
+D) Aynı problemi yıllarca aynı yöntemle çözmeye çalışmak
+
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Disiplinler arası düşünme, farklı alanlar arasında anlamlı bağ kurmayı gerektirir.
+B) Günümüzde bazı problemlerin çözümü farklı uzmanlık alanlarının iş birliğini 
+gerektirmektedir.
+C) Farklı alanlardan edinilen bilgiler yeni problemlerin çözümünde kullanılabilir.
+D) Bir konuda uzmanlaşan kişiler başka alanlardan bilgi edinmemelidir.
+
+4.
+Bir okulun dört farklı kulübünün yıl sonu faaliyet raporunda aşağıdaki veriler yer almaktadır.
+Kulüp Üye Sayısı Düzenlenen Etkinlik Katılım Oranı Sosyal Sorumluluk Projesi
+Bilim 40 14 %90 3
+Çevre 32 10 %100 6
+Müzik 28 12 %75 2
+Spor 50 16 %80 1
+
+Bu tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En fazla etkinlik düzenleyen kulüp, katılım oranı en yüksek olan kulüptür.
+B) Katılım oranı %100 olan kulüp, sosyal sorumluluk projelerinde de ilk sıradadır.
+C) Üye sayısı en fazla olan kulüp, en fazla sosyal sorumluluk projesini yürütmüştür.
+D) Müzik Kulübü, Bilim Kulübünden daha fazla etkinlik düzenlemiştir.
+
+5.
+Bir şehirde son dört yılda dikilen fidan ve bu fidanların yaşama oranları aşağıdaki tabloda 
+verilmiştir.
+Yıl Dikilen Fidan Yaşama Oranı
+2022 8.000 %82
+2023 10.000 %79
+2024 12.000 %88
+2025 15.000 %84
+
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) En fazla fidan 2025 yılında dikilmiştir.
+B) Fidanların yaşama oranının en yüksek olduğu yıl 2024'tür.
+C) Dikilen fidan sayısı arttıkça yaşama oranı da düzenli olarak artmıştır.
+D) 2023 yılında yaşama oranı, 2022 yılına göre daha düşüktür.
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Sıfır Gıda İsrafı" Projesi Okullarda Yaygınlaşıyor
+Millî Eğitim Bakanlığı ile yerel yönetimlerin iş birliğiyle yürütülen "Sıfır Gıda İsrafı" projesi 
+kapsamında okul yemekhanelerinde tüketilmeyen gıdaların miktarı düzenli olarak ölçülmeye 
+başlandı. Proje doğrultusunda öğrencilere ihtiyaçları kadar yemek almaları konusunda 
+bilgilendirme yapılırken artan ekmekler, uygun koşullarda hayvan barınaklarına gönderiliyor. 
+İlk altı aylık uygulamanın sonuçlarına göre projeye katılan okullarda gıda israfı ortalama %34 
+oranında azaldı. Yetkililer, elde edilen verilerin sonraki dönemlerde okul menülerinin 
+planlanmasında da kullanılacağını belirtti.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Proje sonunda bütün okullarda gıda israfı tamamen ortadan kalkmıştır.
+B) Öğrencilerin bilinçlendirilmesi projenin amaçları arasındadır.
+C) Elde edilen veriler gelecekte yapılacak planlamalarda kullanılacaktır.
+D) Projenin uygulanmasıyla gıda israfında azalma görülmüştür.
+
+7.
+Bir teknoloji merkezinde düzenlenen sergide altı bölüm bulunmaktadır.
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Uzay (U)
+• Yenilenebilir Enerji (E)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+Bu bölümler soldan sağa doğru sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik bölümü, Yapay Zekâ bölümünün hemen solundadır.
+• Uzay bölümü ilk sırada değildir.
+• Siber Güvenlik bölümü, Yenilenebilir Enerji bölümünün sağındadır.
+• Biyoteknoloji bölümü, Robotik bölümünün sağındadır.
+• Yapay Zekâ bölümü son sırada değildir.
+• Yenilenebilir Enerji bölümü üçüncü sırada değildir.
+• Uzay bölümü ile Siber Güvenlik bölümü arasında en az iki bölüm bulunmaktadır.
+
+Buna göre aşağıdaki sıralamalardan hangisi mümkün değildir?
+A) U – R – Y – B – E – S
+B) E – R – Y – B – U – S
+C) U – E – R – Y – B – S
+D) R – Y – U – E – B – S
+
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) bir proje sunumunda farklı sıralarda 
+konuşacaktır.
+Bilinenler şunlardır:
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'dden sonra fakat Buse'den önce konuşacaktır.
+• Furkan ilk sırada değildir.
+• Deniz son sırada değildir.
+• Buse, Furkan'dan sonra konuşacaktır.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Ali birinci sırada konuşmuştur.
+C) Furkan dördüncü sırada konuşmuştur.
+D) Buse son sırada konuşmuştur.
+
+9.
+Aşağıdaki gelişmelerden hangisi, pusulanın denizcilikte yaygın olarak kullanılmasının en 
+önemli sonuçlarından biridir?
+A) Tarımsal üretimin artması
+B) Uzak deniz yolculuklarının daha güvenli hâle gelmesi
+C) Yazının bulunması
+D) Buhar makinelerinin geliştirilmesi
+
+10.
+Aşağıdaki doğal afetlerden hangisinin oluşumunda yer kabuğundaki fay hatlarının 
+kırılması temel etkendir?
+A) Heyelan
+B) Tsunami
+C) Deprem
+D) Hortum
+
+Cevap Anahtarı (Test 7)
+1. B
+2. B
+3. D
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. C

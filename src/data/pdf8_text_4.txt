@@ -1,0 +1,324 @@
+TEST 8
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları uzun yıllar boyunca başarılı insanların doğuştan bazı özelliklere sahip 
+olduklarını düşünüyordu. Ancak son yıllarda yapılan araştırmalar, başarı üzerinde yeteneğin 
+yanı sıra öğrenme biçiminin ve gösterilen çabanın da önemli etkileri olduğunu ortaya 
+koymuştur. Özellikle zorlandığı bir konuda vazgeçmeyen, hatalarını analiz ederek yeni yollar 
+deneyen bireylerin zamanla daha başarılı oldukları görülmektedir. Çünkü öğrenme süreci, 
+yalnızca doğru cevaplara ulaşmaktan değil, yapılan yanlışlardan da ders çıkarmaktan oluşur.
+
+Psikologlar bu durumu "gelişim odaklı düşünme" olarak adlandırmaktadır. Bu anlayışa göre 
+bireyler, zekâ ve yeteneklerinin değişmez olmadığını; çalışarak kendilerini 
+geliştirebileceklerini kabul ederler. Buna karşılık "sabit düşünme" anlayışına sahip kişiler ise 
+başarısızlıkları kişisel yetersizlik olarak değerlendirebilir ve yeni denemeler yapmaktan 
+kaçınabilirler. Oysa araştırmalar, başarısızlığın nedenlerini doğru analiz eden bireylerin 
+sonraki denemelerinde daha başarılı olma ihtimalinin arttığını göstermektedir.
+
+Bununla birlikte yalnızca çok çalışmak da tek başına yeterli değildir. Plansız ve sürekli tekrar 
+edilen yanlış yöntemler beklenen gelişmeyi sağlamayabilir. Bu nedenle uzmanlar, öğrenme 
+sürecinde düzenli geri bildirim almanın, eksikleri belirlemenin ve gerektiğinde çalışma 
+yöntemini değiştirebilmenin önemini vurgulamaktadır. Çünkü gerçek gelişim, aynı şeyi tekrar 
+etmekten değil; her denemede daha etkili yöntemler geliştirebilmekten geçmektedir.
+
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Başarı yalnızca doğuştan gelen yeteneklere bağlıdır.
+B) Başarı için en önemli unsur uzun süre çalışmaktır.
+C) Başarı; çaba, doğru yöntem ve hatalardan öğrenme süreciyle gelişebilir.
+D) Başarısız olan kişiler başarılı olamaz.
+
+2.
+Metne göre aşağıdakilerden hangisi gelişim odaklı düşünmeye örnek gösterilebilir?
+A) Zorlandığı bir konuda çalışmayı tamamen bırakmak
+B) Yanlışlarını inceleyerek farklı çalışma yöntemleri denemek
+C) Başarısızlığın yalnızca şanssızlıktan kaynaklandığını düşünmek
+D) Yeni konular öğrenmekten kaçınmak
+
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Geri bildirim almak öğrenme sürecine katkı sağlayabilir.
+B) Yanlış çalışma yöntemleri sürekli tekrar edilirse gelişim yavaşlayabilir.
+C) Hatalar öğrenme sürecinin bir parçası olabilir.
+D) Aynı yöntem bütün öğrenciler için en doğru öğrenme yöntemidir.
+
+4.
+Bir okulun düzenlediği "Akıllı Şehir Projeleri Yarışması" sonunda dört grubun elde ettiği 
+puanlar aşağıdaki tabloda verilmiştir.
+Grup Tasarım Yenilikçilik Sunum Toplam
+A 28 32 30 90
+B 30 26 34 90
+C 24 36 28 88
+D 32 24 31 87
+
+Bu tabloya göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) En yüksek tasarım puanını alan grup yarışmayı kazanmıştır.
+B) Yenilikçilik puanı en yüksek olan grup, toplam puanda ilk iki sıradadır.
+C) Sunum puanı en yüksek olan grup toplam puanda tek başına birincidir.
+D) Toplam puanı 90 olan iki grubun bütün puanları aynıdır.
+
+5.
+Bir belediyenin hazırladığı raporda şehirdeki geri dönüşüm miktarları verilmiştir.
+Atık Türü 2023 2024
+Kâğıt 420 ton 480 ton
+Plastik 310 ton 450 ton
+Cam 260 ton 290 ton
+Metal 180 ton 260 ton
+
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Bütün atık türlerinde geri dönüşüm miktarı artmıştır.
+B) En fazla artış plastik atıklarda gerçekleşmiştir.
+C) Cam atıklardaki artış miktarı metal atıklardaki artıştan fazladır.
+D) Kâğıt atıkları her iki yılda da en fazla geri dönüştürülen atık türüdür.
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Sulama Sistemiyle Su Tüketimi Azaldı
+Bir belediye tarafından parklarda kullanılmaya başlanan akıllı sulama sistemi, topraktaki nem 
+miktarını ölçen sensörler sayesinde yalnızca ihtiyaç duyulan zamanlarda sulama yapıyor. 
+Belediye yetkilileri, uygulamanın başladığı ilk altı ayda parkların su tüketiminde ortalama 
+%32 azalma sağlandığını açıkladı. Sistemin ayrıca yağmur tahminlerini de dikkate alarak 
+sulamayı otomatik olarak erteleyebildiği belirtildi. Peyzaj uzmanları, bu uygulamanın su 
+tasarrufuna önemli katkı sağladığını ancak bitki seçimi ve bakım çalışmalarıyla birlikte 
+uygulanmasının daha etkili sonuç vereceğini ifade etti. Başarılı sonuçların ardından sistemin 
+gelecek yıl ilçedeki tüm parklara yaygınlaştırılması planlanıyor.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Su tasarrufu yalnızca sensörler sayesinde sağlanmıştır.
+B) Sistemin kapsamının genişletilmesi planlanmaktadır.
+C) Sulama zamanı belirlenirken hava durumu verilerinden de yararlanılmaktadır.
+D) Uzmanlara göre sistem başka uygulamalarla desteklenirse daha etkili olabilir.
+
+7.
+Bir bilim festivalinde altı atölye soldan sağa doğru sıralanacaktır.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+• Yenilenebilir Enerji (E)
+
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik Atölyesi, Yapay Zekâ Atölyesi'nin hemen solundadır.
+• Astronomi Atölyesi ilk sırada değildir.
+• Siber Güvenlik Atölyesi, Biyoteknoloji Atölyesi'nin solundadır.
+• Yenilenebilir Enerji Atölyesi, Robotik Atölyesi'nin sağındadır.
+• Yapay Zekâ Atölyesi son sırada değildir.
+• Astronomi Atölyesi ile Yenilenebilir Enerji Atölyesi arasında tam iki atölye 
+bulunmaktadır.
+• Biyoteknoloji Atölyesi en sağda değildir.
+
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – B – A – R – Y – E
+B) A – S – B – R – Y – E
+C) R – Y – S – B – A – E
+D) S – R – Y – A – B – E
+
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okul temsilciliği seçiminde konuşacaktır.
+Bilinenler şunlardır:
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'den sonra ancak Furkan'dan önce konuşacaktır.
+• Furkan, Buse'den önce konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında en az bir kişi bulunmaktadır.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan üçüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+
+9.
+Aşağıdaki icatlardan hangisinin yaygınlaşması, bilginin daha hızlı çoğaltılıp geniş kitlelere 
+ulaşmasını sağlayarak bilimsel gelişmeleri önemli ölçüde hızlandırmıştır?
+A) Teleskop
+B) Buhar makinesi
+C) Matbaa
+D) Barometre
+
+10.
+Aşağıdaki doğal oluşumlardan hangisi, yer altındaki sıcak su kaynaklarının taşıdığı 
+minerallerin zamanla çökelmesi sonucu oluşmuştur?
+A) Peribacaları
+B) Travertenler
+C) Kanyonlar
+D) Delta ovaları
+
+Cevap Anahtarı (Test 8)
+1. C
+2. B
+3. D
+4. B
+5. C
+6. A
+7. B
+8. A
+9. C
+10. B
+
+TEST 9
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde birçok bilimsel araştırma, tek bir araştırmacının çalışmasıyla değil; farklı 
+ülkelerden uzmanların ortak çalışmalarıyla yürütülmektedir. Bunun en önemli nedenlerinden 
+biri, günümüzde karşılaşılan problemlerin geçmişe göre daha karmaşık hâle gelmesidir. İklim 
+değişikliği, salgın hastalıklar, enerji verimliliği ve uzay araştırmaları gibi konular; yalnızca 
+tek bir bilim dalının bilgisiyle çözülebilecek sorunlar değildir. Bu nedenle fizikçiler, 
+biyologlar, mühendisler, yazılım geliştiriciler ve istatistikçiler aynı proje üzerinde birlikte 
+çalışabilmektedir.
+
+Ancak başarılı bir ekip çalışması için yalnızca uzmanlık bilgisi yeterli değildir. 
+Araştırmacıların birbirlerini dinleyebilmesi, farklı görüşlere açık olması ve ortak hedef 
+doğrultusunda hareket edebilmesi de büyük önem taşır. Çünkü aynı olaya farklı açılardan 
+bakabilen ekipler, çoğu zaman tek başına çalışan bireylerden daha yaratıcı çözümler 
+geliştirebilmektedir. Bunun yanında ekip üyelerinin görev paylaşımını doğru yapması, zaman 
+planlamasına uyması ve ortaya çıkan sorunları birlikte değerlendirmesi de projenin başarısını 
+doğrudan etkileyen unsurlar arasında yer almaktadır.
+
+Uzmanlara göre geleceğin mesleklerinde teknik bilgi kadar iletişim, iş birliği ve problem 
+çözme becerileri de önem kazanacaktır. Çünkü gelişen teknoloji sayesinde bilgiye ulaşmak 
+kolaylaşırken bu bilgiyi doğru yorumlayabilen, farklı alanlarla ilişkilendirebilen ve ekip 
+içinde etkili biçimde kullanabilen bireylere duyulan ihtiyaç giderek artmaktadır. Bu nedenle 
+eğitim ortamlarında öğrencilerin yalnızca bireysel başarılarının değil, ekip çalışmasına katılım 
+becerilerinin de geliştirilmesi hedeflenmektedir.
+
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Günümüzde bilimsel problemlerin çözümünde iş birliği ve disiplinler arası çalışma önem 
+kazanmıştır.
+B) Bilimsel araştırmalar yalnızca mühendisler tarafından yürütülmektedir.
+C) Teknik bilgi, başarılı olmak için tek başına yeterlidir.
+D) Gelecekte ekip çalışmalarına ihtiyaç kalmayacaktır.
+
+2.
+Metne göre aşağıdakilerden hangisi başarılı bir ekip çalışmasının özelliklerinden biri 
+değildir?
+A) Görev paylaşımının planlı yapılması
+B) Farklı görüşleri değerlendirebilme
+C) Ortak hedef doğrultusunda hareket etme
+D) Her üyenin yalnızca kendi fikrini savunması
+
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Bilgiye ulaşmanın kolaylaşması, onu doğru yorumlama ihtiyacını ortadan kaldırmıştır.
+B) Bazı bilimsel problemler farklı alanların birlikte çalışmasını gerektirir.
+C) İletişim becerileri gelecekte daha önemli olacaktır.
+D) Eğitimde ekip çalışması becerileri de geliştirilmeye çalışılmaktadır.
+
+4.
+Bir okulun STEM kulübü, dört farklı projeyi yıl sonunda değerlendirmiştir.
+Proje Tasarım (25) İşlevsellik (35) Sunum (20) Yenilikçilik (20)
+A 22 30 18 16
+B 20 34 19 17
+C 24 28 20 19
+D 21 32 16 20
+
+Tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En yüksek tasarım puanını alan proje toplam puanda da birincidir.
+B) En yüksek işlevsellik puanını alan proje, sunum puanında ilk sırada değildir.
+C) Yenilikçilik puanı en yüksek olan proje, bütün ölçütlerde ilk sıradadır.
+D) Sunum puanı en yüksek olan proje toplam puanda son sıradadır.
+
+5.
+Bir şehirde son dört yılda toplu taşıma kullanımına ilişkin veriler aşağıdaki tabloda 
+verilmiştir.
+Ulaşım Türü 2022 2023 2024 2025
+Otobüs 48% 46% 43% 40%
+Metro 24% 26% 30% 33%
+Tramvay 12% 13% 14% 15%
+Bisiklet 16% 15% 13% 12%
+
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Metro kullanım oranı her yıl artmıştır.
+B) Otobüs kullanım oranı her yıl azalmıştır.
+C) Bisiklet kullanım oranı yalnızca son iki yılda azalmıştır.
+D) Tramvay kullanım oranı dört yıl boyunca düzenli artmıştır.
+
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Yağmur Suyu Hasadı" Projesi 50 Okulda Uygulanıyor
+Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ile İl Millî Eğitim Müdürlüğünün 
+ortaklaşa yürüttüğü proje kapsamında 50 okulun çatısına yağmur suyu toplama sistemleri 
+kuruldu. Depolanan yağmur sularının okul bahçelerinin sulanmasında ve temizlik işlerinde 
+kullanılması hedefleniyor. İlk sekiz aylık uygulamanın sonunda şebeke suyu tüketiminde 
+ortalama %26 azalma sağlandığı açıklandı. Yetkililer, projenin yalnızca su tasarrufu 
+sağlamayı değil, öğrencilerde sürdürülebilir yaşam bilinci oluşturmayı da amaçladığını ifade 
+etti. Projeye katılan okullarda çevre kulüplerinin hazırladığı bilinçlendirme etkinliklerinin de 
+düzenli olarak sürdürüldüğü belirtildi.
+
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Projenin tek amacı okul giderlerini azaltmaktır.
+B) Yağmur sularının farklı amaçlarla değerlendirilmesi planlanmaktadır.
+C) Projenin öğrencilerin çevre bilincini geliştirmeye yönelik bir yönü bulunmaktadır.
+D) Uygulama sonrasında şebeke suyu kullanımında azalma görülmüştür.
+
+7.
+Bir teknoloji fuarında altı stant soldan sağa doğru dizilecektir.
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Uzay Teknolojileri (U)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+• Yazılım (Yz)
+
+Aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Uzay Teknolojileri standı ilk sırada değildir.
+• Siber Güvenlik standı, Biyoteknoloji standının solundadır.
+• Yazılım standı, Yapay Zekâ standının sağındadır.
+• Biyoteknoloji standı son sırada değildir.
+• Uzay Teknolojileri standı ile Yazılım standı arasında tam iki stant bulunmaktadır.
+• Robotik standı dördüncü sırada değildir.
+
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) U – R – Y – B – S – Yz
+B) S – B – U – R – Y – Yz
+C) U – S – B – R – Y – Yz
+D) R – Y – S – B – U – Yz
+
+8.
+Altı öğrenci (Ayşe, Berk, Can, Deniz, Ece ve Furkan) bir proje sunumunda 1'den 6'ya kadar 
+farklı sıralarda konuşacaktır.
+Bilinenler şunlardır:
+• Ayşe, Berk'ten önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ayşe'den sonra fakat Berk'ten önce konuşacaktır.
+• Furkan ilk sırada değildir.
+• Deniz son sırada değildir.
+• Berk, Furkan'dan sonra konuşacaktır.
+• Ayşe ile Ece arasında en az bir öğrenci bulunmaktadır.
+
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan üçüncü sırada konuşmuştur.
+C) Berk altıncı sırada konuşmuştur.
+D) Ayşe ikinci sırada konuşmuştur.
+
+9.
+Aşağıdaki teknolojik gelişmelerden hangisi, uydular aracılığıyla Dünya üzerindeki 
+konumun hassas şekilde belirlenmesini sağlar?
+A) Fiber optik iletişim
+B) GPS (Küresel Konumlama Sistemi)
+C) Radar
+D) Barkod sistemi
+
+10.
+Aşağıdaki doğal afetlerden hangisinin oluşumunda uzun süreli ve şiddetli yağışlar temel 
+etkendir?
+A) Volkanik patlama
+B) Kuraklık
+C) Heyelan
+D) Deprem
+
+Cevap Anahtarı (Test 9)
+1. A
+2. D
+3. A
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. C

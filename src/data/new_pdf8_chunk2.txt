@@ -1,0 +1,611 @@
+TEST 7
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları, insanların yeni fikirler üretirken yalnızca sahip oldukları bilgi birikiminden 
+değil, farklı alanlar arasında kurdukları ilişkilerden de yararlandıklarını belirtmektedir. Pek 
+çok önemli buluş incelendiğinde, çözümlerin tek bir bilim dalından değil; matematik, sanat, 
+mühendislik ve doğa bilimleri gibi farklı disiplinlerin bir araya gelmesiyle ortaya çıktığı 
+görülmektedir. Bu nedenle günümüzde eğitim programlarında öğrencilerin disiplinler arası 
+düşünme becerilerini geliştirmeye yönelik etkinliklere daha fazla yer verilmektedir. Çünkü 
+farklı alanlardan edinilen bilgiler arasında bağlantı kurabilen bireyler, karşılaştıkları 
+problemlere daha özgün çözümler üretebilmektedir.
+Ancak disiplinler arası düşünme, her alandan yüzeysel bilgi edinmek anlamına gelmez. 
+Önemli olan, farklı alanlardaki temel kavramları anlayarak bunlar arasında anlamlı ilişkiler 
+kurabilmektir. Örneğin doğadaki canlıların hareketlerini inceleyen bir mühendis, bu 
+gözlemlerden yararlanarak daha verimli robotlar tasarlayabilir. Benzer şekilde bir mimar, 
+tarihî yapılardaki dayanıklılık yöntemlerini inceleyerek modern binaların tasarımında yeni 
+fikirler geliştirebilir. Bu tür örnekler, öğrenilen bilgilerin yalnızca kendi alanında değil, başka 
+alanlarda da kullanılabileceğini göstermektedir.
+Uzmanlara göre geleceğin en önemli becerilerinden biri de farklı bakış açılarını bir araya 
+getirebilmektir. Çünkü günümüzde karşılaşılan çevre, enerji, sağlık ve teknoloji gibi küresel 
+problemlerin büyük bölümü tek bir uzmanlık alanının çözümleriyle giderilemeyecek kadar 
+karmaşıktır. Bu nedenle iş birliği yapabilen, farklı görüşleri değerlendirebilen ve 
+öğrendiklerini yeni durumlara aktarabilen bireylerin gelecekte daha başarılı olacağı 
+öngörülmektedir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bilimsel çalışmalar yalnızca mühendisler tarafından yürütülmektedir.
+B) Başarılı çözümler geliştirebilmek için farklı disiplinler arasında ilişki kurulabilmelidir.
+C) Her konuda uzmanlaşmak mümkün değildir.
+D) Tarihî yapılar modern yapılardan daha dayanıklıdır.
+2.
+Metinde savunulan düşünceyi aşağıdakilerden hangisi destekler?
+A) Bir öğrencinin yalnızca matematik soruları çözerek bütün derslerde başarılı olacağını 
+düşünmesi
+B) Bir mühendisin kuşların kanat yapısını inceleyerek enerji tasarruflu drone tasarlaması
+C) Bir kitabı yalnızca kapağına bakarak değerlendirmek
+D) Aynı problemi yıllarca aynı yöntemle çözmeye çalışmak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Disiplinler arası düşünme, farklı alanlar arasında anlamlı bağ kurmayı gerektirir.
+B) Günümüzde bazı problemlerin çözümü farklı uzmanlık alanlarının iş birliğini 
+gerektirmektedir.
+C) Farklı alanlardan edinilen bilgiler yeni problemlerin çözümünde kullanılabilir.
+D) Bir konuda uzmanlaşan kişiler başka alanlardan bilgi edinmemelidir.
+4.
+Bir okulun dört farklı kulübünün yıl sonu faaliyet raporunda aşağıdaki veriler yer almaktadır.
+Kulüp Üye Sayısı Düzenlenen Etkinlik Katılım Oranı Sosyal Sorumluluk Projesi
+Bilim 40 14 %90 3
+Çevre 32 10 %100 6
+Müzik 28 12 %75 2
+Spor 50 16 %80 1
+Bu tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En fazla etkinlik düzenleyen kulüp, katılım oranı en yüksek olan kulüptür.
+B) Katılım oranı %100 olan kulüp, sosyal sorumluluk projelerinde de ilk sıradadır.
+C) Üye sayısı en fazla olan kulüp, en fazla sosyal sorumluluk projesini yürütmüştür.
+D) Müzik Kulübü, Bilim Kulübünden daha fazla etkinlik düzenlemiştir.
+5.
+Bir şehirde son dört yılda dikilen fidan ve bu fidanların yaşama oranları aşağıdaki tabloda 
+verilmiştir.
+Yıl Dikilen Fidan Yaşama Oranı
+2022 8.000 %82
+2023 10.000 %79
+2024 12.000 %88
+2025 15.000 %84
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) En fazla fidan 2025 yılında dikilmiştir.
+B) Fidanların yaşama oranının en yüksek olduğu yıl 2024'tür.
+C) Dikilen fidan sayısı arttıkça yaşama oranı da düzenli olarak artmıştır.
+D) 2023 yılında yaşama oranı, 2022 yılına göre daha düşüktür.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Sıfır Gıda İsrafı" Projesi Okullarda Yaygınlaşıyor
+Millî Eğitim Bakanlığı ile yerel yönetimlerin iş birliğiyle yürütülen "Sıfır Gıda İsrafı" projesi 
+kapsamında okul yemekhanelerinde tüketilmeyen gıdaların miktarı düzenli olarak ölçülmeye 
+başlandı. Proje doğrultusunda öğrencilere ihtiyaçları kadar yemek almaları konusunda 
+bilgilendirme yapılırken artan ekmekler, uygun koşullarda hayvan barınaklarına gönderiliyor. 
+İlk altı aylık uygulamanın sonuçlarına göre projeye katılan okullarda gıda israfı ortalama %34 
+oranında azaldı. Yetkililer, elde edilen verilerin sonraki dönemlerde okul menülerinin 
+planlanmasında da kullanılacağını belirtti.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Proje sonunda bütün okullarda gıda israfı tamamen ortadan kalkmıştır.
+B) Öğrencilerin bilinçlendirilmesi projenin amaçları arasındadır.
+C) Elde edilen veriler gelecekte yapılacak planlamalarda kullanılacaktır.
+D) Projenin uygulanmasıyla gıda israfında azalma görülmüştür.
+7.
+Bir teknoloji merkezinde düzenlenen sergide altı bölüm bulunmaktadır.
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Uzay (U)
+• Yenilenebilir Enerji (E)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+Bu bölümler soldan sağa doğru sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik bölümü, Yapay Zekâ bölümünün hemen solundadır.
+• Uzay bölümü ilk sırada değildir.
+• Siber Güvenlik bölümü, Yenilenebilir Enerji bölümünün sağındadır.
+• Biyoteknoloji bölümü, Robotik bölümünün sağındadır.
+• Yapay Zekâ bölümü son sırada değildir.
+• Yenilenebilir Enerji bölümü üçüncü sırada değildir.
+• Uzay bölümü ile Siber Güvenlik bölümü arasında en az iki bölüm bulunmaktadır.
+Buna göre aşağıdaki sıralamalardan hangisi mümkün değildir?
+A) U – R – Y – B – E – S
+B) E – R – Y – B – U – S
+C) U – E – R – Y – B – S
+D) R – Y – U – E – B – S
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) bir proje sunumunda farklı sıralarda 
+konuşacaktır.
+Bilinenler şunlardır:
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'dden sonra fakat Buse'den önce konuşacaktır.
+• Furkan ilk sırada değildir.
+• Deniz son sırada değildir.
+• Buse, Furkan'dan sonra konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Ali birinci sırada konuşmuştur.
+C) Furkan dördüncü sırada konuşmuştur.
+D) Buse son sırada konuşmuştur.
+9.
+Aşağıdaki gelişmelerden hangisi, pusulanın denizcilikte yaygın olarak kullanılmasının en 
+önemli sonuçlarından biridir?
+A) Tarımsal üretimin artması
+B) Uzak deniz yolculuklarının daha güvenli hâle gelmesi
+C) Yazının bulunması
+D) Buhar makinelerinin geliştirilmesi
+   Biliyor muydun?
+Pusula ilk olarak Çin'de kullanılmaya başlanmış, zamanla denizcilikte yaygınlaşarak coğrafi 
+keşiflerin hızlanmasına önemli katkı sağlamıştır. Özellikle okyanus yolculuklarında yön 
+tayinini kolaylaştırması, deniz ticaretinin gelişmesinde etkili olmuştur.
+10.
+Aşağıdaki doğal afetlerden hangisinin oluşumunda yer kabuğundaki fay hatlarının 
+kırılması temel etkendir?
+A) Heyelan
+B) Tsunami
+C) Deprem
+D) Hortum
+   Biliyor muydun?
+Depremin büyüklüğü ile şiddeti aynı kavram değildir. Büyüklük, açığa çıkan enerjiyi ifade 
+ederken şiddet, depremin insanlar ve yapılar üzerindeki etkisini gösterir. Aynı büyüklükteki 
+iki deprem, zeminin yapısına ve yapıların dayanıklılığına göre farklı şiddette hissedilebilir.
+Cevap Anahtarı (Test 7)
+1. B
+2. B
+3. D
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. C
+
+TEST 8
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilim insanları uzun yıllar boyunca başarılı insanların doğuştan bazı özelliklere sahip 
+olduklarını düşünüyordu. Ancak son yıllarda yapılan araştırmalar, başarı üzerinde yeteneğin 
+yanı sıra öğrenme biçiminin ve gösterilen çabanın da önemli etkileri olduğunu ortaya 
+koymuştur. Özellikle zorlandığı bir konuda vazgeçmeyen, hatalarını analiz ederek yeni yollar 
+deneyen bireylerin zamanla daha başarılı oldukları görülmektedir. Çünkü öğrenme süreci, 
+yalnızca doğru cevaplara ulaşmaktan değil, yapılan yanlışlardan da ders çıkarmaktan oluşur.
+Psikologlar bu durumu "gelişim odaklı düşünme" olarak adlandırmaktadır. Bu anlayışa göre 
+bireyler, zekâ ve yeteneklerinin değişmez olmadığını; çalışarak kendilerini 
+geliştirebileceklerini kabul ederler. Buna karşılık "sabit düşünme" anlayışına sahip kişiler ise 
+başarısızlıkları kişisel yetersizlik olarak değerlendirebilir ve yeni denemeler yapmaktan 
+kaçınabilirler. Oysa araştırmalar, başarısızlığın nedenlerini doğru analiz eden bireylerin 
+sonraki denemelerinde daha başarılı olma ihtimalinin arttığını göstermektedir.
+Bununla birlikte yalnızca çok çalışmak da tek başına yeterli değildir. Plansız ve sürekli tekrar 
+edilen yanlış yöntemler beklenen gelişmeyi sağlamayabilir. Bu nedenle uzmanlar, öğrenme 
+sürecinde düzenli geri bildirim almanın, eksikleri belirlemenin ve gerektiğinde çalışma 
+yöntemini değiştirebilmenin önemini vurgulamaktadır. Çünkü gerçek gelişim, aynı şeyi tekrar 
+etmekten değil; her denemede daha etkili yöntemler geliştirebilmekten geçmektedir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Başarı yalnızca doğuştan gelen yeteneklere bağlıdır.
+B) Başarı için en önemli unsur uzun süre çalışmaktır.
+C) Başarı; çaba, doğru yöntem ve hatalardan öğrenme süreciyle gelişebilir.
+D) Başarısız olan kişiler başarılı olamaz.
+2.
+Metne göre aşağıdakilerden hangisi gelişim odaklı düşünmeye örnek gösterilebilir?
+A) Zorlandığı bir konuda çalışmayı tamamen bırakmak
+B) Yanlışlarını inceleyerek farklı çalışma yöntemleri denemek
+C) Başarısızlığın yalnızca şanssızlıktan kaynaklandığını düşünmek
+D) Yeni konular öğrenmekten kaçınmak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Geri bildirim almak öğrenme sürecine katkı sağlayabilir.
+B) Yanlış çalışma yöntemleri sürekli tekrar edilirse gelişim yavaşlayabilir.
+C) Hatalar öğrenme sürecinin bir parçası olabilir.
+D) Aynı yöntem bütün öğrenciler için en doğru öğrenme yöntemidir.
+4.
+Bir okulun düzenlediği "Akıllı Şehir Projeleri Yarışması" sonunda dört grubun elde ettiği 
+puanlar aşağıdaki tabloda verilmiştir.
+Grup Tasarım Yenilikçilik Sunum Toplam
+A 28 32 30 90
+B 30 26 34 90
+C 24 36 28 88
+D 32 24 31 87
+Bu tabloya göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) En yüksek tasarım puanını alan grup yarışmayı kazanmıştır.
+B) Yenilikçilik puanı en yüksek olan grup, toplam puanda ilk iki sıradadır.
+C) Sunum puanı en yüksek olan grup toplam puanda tek başına birincidir.
+D) Toplam puanı 90 olan iki grubun bütün puanları aynıdır.
+5.
+Bir belediyenin hazırladığı raporda şehirdeki geri dönüşüm miktarları verilmiştir.
+Atık Türü 2023 2024
+Kâğıt 420 ton 480 ton
+Plastik 310 ton 450 ton
+Cam 260 ton 290 ton
+Metal 180 ton 260 ton
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Bütün atık türlerinde geri dönüşüm miktarı artmıştır.
+B) En fazla artış plastik atıklarda gerçekleşmiştir.
+C) Cam atıklardaki artış miktarı metal atıklardaki artıştan fazladır.
+D) Kâğıt atıkları her iki yılda da en fazla geri dönüştürülen atık türüdür.
+(Devamında 6–10. sorular: haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Sulama Sistemiyle Su Tüketimi Azaldı
+Bir belediye tarafından parklarda kullanılmaya başlanan akıllı sulama sistemi, topraktaki nem 
+miktarını ölçen sensörler sayesinde yalnızca ihtiyaç duyulan zamanlarda sulama yapıyor. 
+Belediye yetkilileri, uygulamanın başladığı ilk altı ayda parkların su tüketiminde ortalama 
+%32 azalma sağlandığını açıkladı. Sistemin ayrıca yağmur tahminlerini de dikkate alarak 
+sulamayı otomatik olarak erteleyebildiği belirtildi. Peyzaj uzmanları, bu uygulamanın su 
+tasarrufuna önemli katkı sağladığını ancak bitki seçimi ve bakım çalışmalarıyla birlikte 
+uygulanmasının daha etkili sonuç vereceğini ifade etti. Başarılı sonuçların ardından sistemin 
+gelecek yıl ilçedeki tüm parklara yaygınlaştırılması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Su tasarrufu yalnızca sensörler sayesinde sağlanmıştır.
+B) Sistemin kapsamının genişletilmesi planlanmaktadır.
+C) Sulama zamanı belirlenirken hava durumu verilerinden de yararlanılmaktadır.
+D) Uzmanlara göre sistem başka uygulamalarla desteklenirse daha etkili olabilir.
+7.
+Bir bilim festivalinde altı atölye soldan sağa doğru sıralanacaktır.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+• Yenilenebilir Enerji (E)
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik Atölyesi, Yapay Zekâ Atölyesi'nin hemen solundadır.
+• Astronomi Atölyesi ilk sırada değildir.
+• Siber Güvenlik Atölyesi, Biyoteknoloji Atölyesi'nin solundadır.
+• Yenilenebilir Enerji Atölyesi, Robotik Atölyesi'nin sağındadır.
+• Yapay Zekâ Atölyesi son sırada değildir.
+• Astronomi Atölyesi ile Yenilenebilir Enerji Atölyesi arasında tam iki atölye 
+bulunmaktadır.
+• Biyoteknoloji Atölyesi en sağda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – B – A – R – Y – E
+B) A – S – B – R – Y – E
+C) R – Y – S – B – A – E
+D) S – R – Y – A – B – E
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okul temsilciliği seçiminde konuşacaktır.
+Bilinenler şunlardır:
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'den sonra ancak Furkan'dan önce konuşacaktır.
+• Furkan, Buse'den önce konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında en az bir kişi bulunmaktadır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan üçüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki icatlardan hangisinin yaygınlaşması, bilginin daha hızlı çoğaltılıp geniş kitlelere 
+ulaşmasını sağlayarak bilimsel gelişmeleri önemli ölçüde hızlandırmıştır?
+A) Teleskop
+B) Buhar makinesi
+C) Matbaa
+D) Barometre
+   Biliyor muydun?
+Johannes Gutenberg'in geliştirdiği hareketli metal harf sistemi sayesinde kitap üretim süresi 
+büyük ölçüde kısaldı. Böylece bilimsel eserler daha fazla kişiye ulaştı ve Avrupa'da 
+okuryazarlık oranının artmasına önemli katkı sağlandı.
+10.
+Aşağıdaki doğal oluşumlardan hangisi, yer altındaki sıcak su kaynaklarının taşıdığı 
+minerallerin zamanla çökelmesi sonucu oluşmuştur?
+A) Peribacaları
+B) Travertenler
+C) Kanyonlar
+D) Delta ovaları
+   Biliyor muydun?
+Travertenler, kalsiyum karbonat bakımından zengin sıcak suların yeryüzüne çıkıp 
+soğumasıyla oluşur. Türkiye'deki Pamukkale Travertenleri, bu oluşumun dünyadaki en 
+tanınmış örneklerinden biridir ve UNESCO Dünya Miras Listesi'nde yer almaktadır.
+Cevap Anahtarı (Test 8)
+1. C
+2. B
+3. D
+4. B
+5. C
+6. A
+7. B
+8. A
+9. C
+10. B
+
+TEST 9
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde birçok bilimsel araştırma, tek bir araştırmacının çalışmasıyla değil; farklı 
+ülkelerden uzmanların ortak çalışmalarıyla yürütülmektedir. Bunun en önemli nedenlerinden 
+biri, günümüzde karşılaşılan problemlerin geçmişe göre daha karmaşık hâle gelmesidir. İklim 
+değişikliği, salgın hastalıklar, enerji verimliliği ve uzay araştırmaları gibi konular; yalnızca 
+tek bir bilim dalının bilgisiyle çözülebilecek sorunlar değildir. Bu nedenle fizikçiler, 
+biyologlar, mühendisler, yazılım geliştiriciler ve istatistikçiler aynı proje üzerinde birlikte 
+çalışabilmektedir.
+Ancak başarılı bir ekip çalışması için yalnızca uzmanlık bilgisi yeterli değildir. 
+Araştırmacıların birbirlerini dinleyebilmesi, farklı görüşlere açık olması ve ortak hedef 
+doğrultusunda hareket edebilmesi de büyük önem taşır. Çünkü aynı olaya farklı açılardan 
+bakabilen ekipler, çoğu zaman tek başına çalışan bireylerden daha yaratıcı çözümler 
+geliştirebilmektedir. Bunun yanında ekip üyelerinin görev paylaşımını doğru yapması, zaman 
+planlamasına uyması ve ortaya çıkan sorunları birlikte değerlendirmesi de projenin başarısını 
+doğrudan etkileyen unsurlar arasında yer almaktadır.
+Uzmanlara göre geleceğin mesleklerinde teknik bilgi kadar iletişim, iş birliği ve problem 
+çözme becerileri de önem kazanacaktır. Çünkü gelişen teknoloji sayesinde bilgiye ulaşmak 
+kolaylaşırken bu bilgiyi doğru yorumlayabilen, farklı alanlarla ilişkilendirebilen ve ekip 
+içinde etkili biçimde kullanabilen bireylere duyulan ihtiyaç giderek artmaktadır. Bu nedenle 
+eğitim ortamlarında öğrencilerin yalnızca bireysel başarılarının değil, ekip çalışmasına katılım 
+becerilerinin de geliştirilmesi hedeflenmektedir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Günümüzde bilimsel problemlerin çözümünde iş birliği ve disiplinler arası çalışma önem 
+kazanmıştır.
+B) Bilimsel araştırmalar yalnızca mühendisler tarafından yürütülmektedir.
+C) Teknik bilgi, başarılı olmak için tek başına yeterlidir.
+D) Gelecekte ekip çalışmalarına ihtiyaç kalmayacaktır.
+2.
+Metne göre aşağıdakilerden hangisi başarılı bir ekip çalışmasının özelliklerinden biri 
+değildir?
+A) Görev paylaşımının planlı yapılması
+B) Farklı görüşleri değerlendirebilme
+C) Ortak hedef doğrultusunda hareket etme
+D) Her üyenin yalnızca kendi fikrini savunması
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Bilgiye ulaşmanın kolaylaşması, onu doğru yorumlama ihtiyacını ortadan kaldırmıştır.
+B) Bazı bilimsel problemler farklı alanların birlikte çalışmasını gerektirir.
+C) İletişim becerileri gelecekte daha önemli olacaktır.
+D) Eğitimde ekip çalışması becerileri de geliştirilmeye çalışılmaktadır.
+4.
+Bir okulun STEM kulübü, dört farklı projeyi yıl sonunda değerlendirmiştir.
+Proje Tasarım (25) İşlevsellik (35) Sunum (20) Yenilikçilik (20)
+A 22 30 18 16
+B 20 34 19 17
+C 24 28 20 19
+D 21 32 16 20
+Tabloya göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En yüksek tasarım puanını alan proje toplam puanda da birincidir.
+B) En yüksek işlevsellik puanını alan proje, sunum puanında ilk sırada değildir.
+C) Yenilikçilik puanı en yüksek olan proje, bütün ölçütlerde ilk sıradadır.
+D) Sunum puanı en yüksek olan proje toplam puanda son sıradadır.
+5.
+Bir şehirde son dört yılda toplu taşıma kullanımına ilişkin veriler aşağıdaki tabloda 
+verilmiştir.
+Ulaşım Türü 2022 2023 2024 2025
+Otobüs 48% 46% 43% 40%
+Metro 24% 26% 30% 33%
+Tramvay 12% 13% 14% 15%
+Bisiklet 16% 15% 13% 12%
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Metro kullanım oranı her yıl artmıştır.
+B) Otobüs kullanım oranı her yıl azalmıştır.
+C) Bisiklet kullanım oranı yalnızca son iki yılda azalmıştır.
+D) Tramvay kullanım oranı dört yıl boyunca düzenli artmıştır.
+(Devamında 6–10. sorular yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Okullarda "Enerji Dostu Bina" Dönemi
+Bir ilde pilot olarak başlatılan "Enerji Dostu Okullar" projesi kapsamında 20 okulun çatısına 
+güneş panelleri yerleştirildi. Okullarda ayrıca yağmur suyu depolama sistemleri kuruldu ve 
+sınıflardaki aydınlatmalar LED lambalarla değiştirildi. İl Millî Eğitim Müdürlüğü yetkilileri, 
+uygulamanın hem enerji tüketimini azaltmayı hem de öğrencilerde çevre bilinci oluşturmayı 
+amaçladığını belirtti. İlk altı aylık verilere göre projeye dâhil edilen okulların elektrik 
+tüketiminde ortalama %28 azalma sağlandı. Yetkililer, uygulamanın başarılı olması hâlinde 
+gelecek yıl il genelindeki diğer okullara da yaygınlaştırılacağını açıkladı.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Proje yalnızca elektrik giderlerini azaltmak amacıyla hazırlanmıştır.
+B) Projenin çevre bilinci kazandırmaya yönelik bir yönü de bulunmaktadır.
+C) Uygulamanın kapsamının genişletilmesi planlanmaktadır.
+D) Pilot uygulamaya katılan okullarda enerji tüketimi azalmıştır.
+7.
+Bir bilim fuarında Robotik (R), Yapay Zekâ (Y), Uzay Teknolojileri (U), Biyoteknoloji 
+(B), Yenilenebilir Enerji (E) ve Siber Güvenlik (S) stantları soldan sağa doğru 
+sıralanacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Uzay Teknolojileri standı en solda değildir.
+• Yenilenebilir Enerji standı, Siber Güvenlik standının sağındadır.
+• Biyoteknoloji standı, Robotik standının sağındadır.
+• Yapay Zekâ standı dördüncü sırada değildir.
+• Siber Güvenlik standı en sağda değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) U – R – Y – B – S – E
+B) S – E – U – R – Y – B
+C) U – S – E – R – Y – B
+D) R – Y – U – B – S – E
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan), bir münazara yarışmasında 1'den 6'ya 
+kadar farklı sıralarda konuşacaktır.
+Bununla ilgili aşağıdaki bilgiler verilmiştir.
+• Ali, Buse'den önce konuşacaktır.
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ece, Ali'den sonra fakat Furkan'dan önce konuşacaktır.
+• Buse ilk sırada değildir.
+• Furkan son sırada değildir.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Ali birinci sırada konuşmuştur.
+C) Furkan üçüncü sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki gelişmelerden hangisi Sanayi Devrimi'nin üretim anlayışı üzerindeki en önemli 
+etkilerinden biridir?
+A) El işçiliğinin tamamen ortadan kalkması
+B) Üretimin büyük ölçüde makineleşmesi ve fabrikaların yaygınlaşması
+C) Tarımsal faaliyetlerin sona ermesi
+D) Ticaretin yalnızca deniz yoluyla yapılması
+   Biliyor muydun?
+18. yüzyılda İngiltere'de başlayan Sanayi Devrimi, buhar gücüyle çalışan makinelerin 
+yaygınlaşmasını sağladı. Seri üretim sayesinde üretim miktarı arttı; ulaşım, ticaret ve 
+şehirleşme büyük ölçüde değişti.
+10.
+Aşağıdaki kurumlardan hangisinin temel görevi, hava olaylarını gözlemlemek, tahminlerde 
+bulunmak ve meteorolojik uyarılar yayımlamaktır?
+A) TÜİK
+B) AFAD
+C) Meteoroloji Genel Müdürlüğü
+D) MTA
+   Biliyor muydun?
+Meteoroloji Genel Müdürlüğü; sıcaklık, yağış, rüzgâr ve fırtına gibi hava olaylarını takip 
+ederek tarım, havacılık, denizcilik ve günlük yaşam için tahminler hazırlar. Erken uyarı 
+sistemleri sayesinde birçok doğal afetin olumsuz etkisi azaltılabilmektedir.
+Cevap Anahtarı (Test 9)
+1. A
+2. D
+3. A
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. C
+
+TEST 10
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde yapay zekâ teknolojileri, yalnızca bilgisayar mühendislerinin çalışma alanı 
+olmaktan çıkmış; eğitimden sağlığa, tarımdan ulaşıma kadar pek çok sektörde kullanılmaya 
+başlanmıştır. Ancak uzmanlar, yapay zekânın insanın yerini tamamen alacağı yönündeki 
+düşüncelerin gerçeği tam olarak yansıtmadığını belirtmektedir. Çünkü yapay zekâ sistemleri, 
+kendilerine sunulan verileri analiz ederek tahminlerde bulunabilir; fakat bu verilerin 
+doğruluğunu değerlendirmek, etik kararlar vermek ya da beklenmedik durumlarda yaratıcı 
+çözümler üretmek hâlâ büyük ölçüde insanların sorumluluğundadır.
+Bu nedenle birçok ülkede öğrencilerin yalnızca teknolojiyi kullanmayı değil, onu sorgulamayı 
+da öğrenmeleri gerektiği vurgulanmaktadır. Örneğin bir yapay zekâ uygulamasının verdiği 
+cevabın doğru olup olmadığını farklı kaynaklarla karşılaştırmak, dijital okuryazarlığın önemli 
+bir parçası olarak kabul edilmektedir. Çünkü yapay zekâ sistemleri de hatalı veya eksik 
+verilerle eğitildiğinde yanlış sonuçlar üretebilir. Bu durum, teknolojiyi bilinçli kullanmanın 
+önemini daha da artırmaktadır.
+Uzmanlara göre gelecekte birçok meslek değişime uğrayacak olsa da insanların eleştirel 
+düşünme, iletişim kurma, iş birliği yapma ve etik karar verebilme gibi becerileri önemini 
+koruyacaktır. Teknoloji geliştikçe bilgiye ulaşmak kolaylaşacak; ancak hangi bilginin 
+güvenilir olduğunu değerlendirebilen bireyler daha doğru kararlar verebilecektir. Bu nedenle 
+eğitim sistemlerinde bilgi ezberlemekten çok, bilgiyi yorumlama ve kullanma becerilerinin 
+geliştirilmesine ağırlık verilmektedir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Yapay zekâ gelecekte bütün meslekleri ortadan kaldıracaktır.
+B) Yapay zekâdan doğru yararlanabilmek için teknolojiyi bilinçli ve eleştirel biçimde 
+kullanmak gerekir.
+C) Yapay zekâ yalnızca eğitim alanında kullanılmaktadır.
+D) Teknolojinin gelişmesiyle insanların öğrenmesine gerek kalmayacaktır.
+2.
+Metne göre aşağıdakilerden hangisi dijital okuryazarlık davranışına örnektir?
+A) Yapay zekânın verdiği her bilgiyi sorgulamadan doğru kabul etmek
+B) İnternette karşılaşılan her haberi doğruluğunu araştırmadan paylaşmak
+C) Yapay zekâdan alınan bilgileri güvenilir kaynaklarla karşılaştırmak
+D) Teknolojiyi tamamen kullanmayı reddetmek
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Yapay zekâ sistemleri hatalı verilerle eğitildiğinde yanlış sonuçlar üretebilir.
+B) Etik karar verme becerisi gelecekte de önemini koruyacaktır.
+C) Bilgiye ulaşmanın kolaylaşması, bilgiyi değerlendirme ihtiyacını ortadan kaldıracaktır.
+D) Eğitim sistemlerinde yorumlama becerilerine daha fazla önem verilmektedir.
+4.
+Bir okulun "Dijital Vatandaşlık Haftası" kapsamında düzenlediği etkinliklere ait veriler 
+aşağıdaki tabloda verilmiştir.
+Etkinlik Katılımcı Sayısı Ortalama Başarı (%) Memnuniyet (%) Sertifika Alan
+Güvenli İnternet 180 88 96 162
+Yapay Zekâ 150 92 90 141
+Siber Zorbalık 210 84 94 176
+Dijital Etik 120 95 98 117
+Tablodaki verilere göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) Katılımcı sayısı en fazla olan etkinlikte başarı ortalaması da en yüksektir.
+B) Ortalama başarı oranı en yüksek olan etkinlik, katılımcı sayısı en az olan etkinliktir.
+C) Memnuniyet oranı arttıkça katılımcı sayısı da artmıştır.
+D) Sertifika alan öğrenci sayısı en fazla olan etkinliğin memnuniyet oranı da en yüksektir.
+5.
+Bir araştırma şirketi, öğrencilerin hafta içinde kullandıkları dijital eğitim platformlarına ilişkin 
+aşağıdaki verileri paylaşmıştır.
+Platform Günlük Ortalama Kullanım (dk.) Başarı Artışı (%)
+Video Ders 42 18
+Soru Çözüm 36 24
+Deneme Analizi 28 31
+Kelime Öğrenme 18 12
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) En uzun süre kullanılan platform, başarı artışı en yüksek olan platform değildir.
+B) Deneme Analizi platformu en yüksek başarı artışı oranına sahiptir.
+C) Kullanım süresi arttıkça başarı artışı da düzenli olarak artmaktadır.
+D) Kelime Öğrenme platformu hem kullanım süresi hem de başarı artışı bakımından son 
+sıradadır.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Akıllı Kavşak Sistemi Trafik Yoğunluğunu Azaltıyor
+Büyükşehir Belediyesi tarafından hayata geçirilen "Akıllı Kavşak Yönetim Sistemi", 
+kavşaklara yerleştirilen sensörler ve kameralar aracılığıyla araç yoğunluğunu anlık olarak 
+analiz ediyor. Sistem, trafik akışına göre sinyalizasyon sürelerini otomatik biçimde 
+değiştirerek bekleme sürelerini azaltmayı hedefliyor. İlk dokuz aylık uygulama sonunda 
+yoğun saatlerde kavşaklardaki ortalama bekleme süresinin %21 azaldığı, yakıt tüketiminin ise 
+yaklaşık %12 düştüğü açıklandı. Yetkililer, uygulamanın yalnızca ulaşımı hızlandırmayı 
+değil, egzoz gazı salımını azaltarak çevreye katkı sağlamayı da amaçladığını belirtti. Sistemin 
+gelecek yıl şehirdeki diğer ana kavşaklarda da uygulanması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Akıllı kavşak sistemi yalnızca trafik yoğunluğunu azaltmak amacıyla geliştirilmiştir.
+B) Sistemin çevresel fayda sağlaması da hedeflenmektedir.
+C) Uygulamanın kapsamının ilerleyen dönemde genişletilmesi planlanmaktadır.
+D) Trafik ışıkları, araç yoğunluğuna göre otomatik olarak ayarlanabilmektedir.
+7.
+Bir teknoloji merkezinde düzenlenen fuarda altı stant yan yana dizilecektir.
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Yazılım (Yz)
+• Siber Güvenlik (S)
+• Uzay Teknolojileri (U)
+• Biyoteknoloji (B)
+Stantlarla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Yazılım standı, Siber Güvenlik standının hemen sağındadır.
+• Uzay Teknolojileri standı ilk sırada değildir.
+• Biyoteknoloji standı, Robotik standının sağındadır.
+• Yapay Zekâ standı son sırada değildir.
+• Siber Güvenlik standı, Robotik standının solundadır.
+• Uzay Teknolojileri standı ile Biyoteknoloji standı arasında yalnızca bir stant
+bulunmaktadır.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – Yz – R – Y – U – B
+B) U – S – Yz – R – Y – B
+C) S – Yz – U – R – Y – B
+D) U – S – Yz – B – R – Y
+8.
+Altı öğrenci (Ayşe, Berk, Can, Deniz, Ece ve Furkan) bir münazara yarışmasında 1'den 6'ya 
+kadar farklı sıralarda konuşacaktır.
+Bilinenler şunlardır:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ayşe, Berk'ten önce konuşacaktır.
+• Ece, Ayşe'den sonra fakat Berk'ten önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Berk ilk sırada değildir.
+• Deniz son sırada değildir.
+• Ayşe ile Ece arasında tam bir öğrenci bulunmaktadır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan altıncı sırada konuşmuştur.
+C) Berk beşinci sırada konuşmuştur.
+D) Ayşe ikinci sırada konuşmuştur.
+9.
+Aşağıdaki ülkelerden hangisi, Panama Kanalı sayesinde Atlas Okyanusu ile Büyük Okyanus 
+arasında gemi geçişine imkân sağlayan stratejik geçide ev sahipliği yapmaktadır?
+A) Mısır
+B) Panama
+C) Brezilya
+D) Meksika
+   Biliyor muydun?
+Panama Kanalı 1914 yılında hizmete açılmıştır. Yaklaşık 82 kilometre uzunluğundaki kanal 
+sayesinde gemiler, Güney Amerika kıtasının en güneyini dolaşmadan iki büyük okyanus 
+arasında geçiş yapabilmektedir. Bu durum deniz ticaretinde hem zaman hem de yakıt 
+tasarrufu sağlamaktadır.
+10.
+Aşağıdaki olaylardan hangisi, Dünya'nın kendi ekseni etrafında dönmesinin doğrudan 
+sonucudur?
+A) Mevsimlerin oluşması
+B) Gece ve gündüzün oluşması
+C) Ay'ın evrelerinin oluşması
+D) Gelgit olaylarının meydana gelmesi
+   Biliyor muydun?
+Dünya kendi ekseni etrafındaki dönüşünü yaklaşık 24 saatte tamamlar. Gece ve gündüzün oluşmasının nedeni Dünya'nın 
+dönmesi; mevsimlerin oluşmasının nedeni ise Dünya'nın eksen eğikliğiyle birlikte Güneş 
+etrafında dolanmasıdır.
+Cevap Anahtarı (Test 10)
+1. B
+2. C
+3. C
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. B

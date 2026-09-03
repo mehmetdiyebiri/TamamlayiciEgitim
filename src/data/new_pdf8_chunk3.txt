@@ -1,0 +1,1090 @@
+TEST 11
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Bilimsel araştırmaların en önemli özelliklerinden biri, ulaşılan sonuçların sürekli olarak 
+sorgulanabilir ve geliştirilebilir olmasıdır. Bilim insanları, bir araştırmanın sonucunu kesin 
+doğru olarak kabul etmek yerine yeni kanıtlar elde edildiğinde önceki bilgileri yeniden 
+değerlendirebilir. Bu nedenle bilim, değişmeyen bilgiler bütünü değil; sürekli gelişen ve 
+kendini yenileyen bir süreç olarak tanımlanmaktadır. Geçmişte doğru kabul edilen bazı 
+bilgiler, daha gelişmiş gözlem araçları ve yeni araştırmalar sayesinde zaman içinde 
+değişebilmiştir.
+Ancak bilimsel bilginin değişebilir olması, onun güvenilmez olduğu anlamına gelmez. Tam 
+tersine bilimsel yöntem, elde edilen sonuçların farklı araştırmacılar tarafından tekrar 
+edilebilmesine ve doğrulanabilmesine dayanır. Bir iddianın bilimsel kabul edilebilmesi için 
+yalnızca kişisel gözlemlere değil; deneylere, ölçümlere ve nesnel verilere dayanması gerekir. 
+Böylece farklı zamanlarda yapılan çalışmalar benzer sonuçlar verdiğinde bilimsel bilginin 
+güvenilirliği artar.
+Uzmanlara göre bilimsel düşünme yalnızca laboratuvar ortamında gerekli değildir. Günlük 
+yaşamda karşılaşılan birçok iddia da benzer biçimde sorgulanmalıdır. Özellikle sosyal 
+medyada hızla yayılan bilgilerin kaynağını araştırmak, kanıtlarını incelemek ve farklı 
+görüşleri değerlendirmek bilinçli birey olmanın önemli özelliklerinden biridir. Çünkü bilgiye 
+ulaşmanın kolaylaştığı günümüzde, doğru bilgi ile yanlış bilgiyi ayırt edebilmek her 
+zamankinden daha önemli hâle gelmiştir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Bilimsel bilgi değişmez kurallardan oluşur.
+B) Bilimsel bilgi; kanıtlara dayanan, sorgulanabilen ve gelişmeye açık bir yapıya sahiptir.
+C) Bilim yalnızca laboratuvarlarda uygulanabilir.
+D) Sosyal medyadaki bilgiler bilimsel araştırmaların yerini almıştır.
+2.
+Metne göre aşağıdakilerden hangisi bilimsel düşünme anlayışına uygundur?
+A) Duyduğu her bilgiyi sorgulamadan kabul etmek
+B) Bir iddiayı yalnızca çok kişi söylediği için doğru kabul etmek
+C) Bir bilginin doğruluğunu farklı kanıtlarla değerlendirmek
+D) Deney sonuçlarını dikkate almamak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Bilimsel bilgiler yeni kanıtlarla değişebilir.
+B) Tekrarlanabilen çalışmalar bilimsel güvenilirliği artırır.
+C) Günlük yaşamda da bilimsel düşünme becerisine ihtiyaç duyulur.
+D) Bilimsel bilgi, kişisel görüşlere dayanıyorsa daha güvenilirdir.
+4.
+Bir okulun "Okuma Kültürü Projesi" kapsamında dört sınıfa ait veriler aşağıdaki tabloda 
+verilmiştir.
+Sınıf Öğrenci Sayısı Okunan Kitap Kitap Sunumu Kütüphane Kullanım Oranı
+5-A 30 420 26 %90
+6-A 28 448 24 %96
+7-A 32 384 30 %88
+8-A 25 425 22 %92
+Tablodaki verilere göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Öğrenci başına düşen ortalama kitap sayısı en yüksek olan sınıf 8-A'dır.
+B) Kitap sunumu yapan öğrenci sayısı en fazla olan sınıf, kütüphaneyi en fazla kullanan 
+sınıftır.
+C) En fazla kitap okuyan sınıfın öğrenci sayısı da en fazladır.
+D) Kütüphane kullanım oranı arttıkça okunan kitap sayısı da düzenli olarak artmıştır.
+5.
+Bir belediye, şehirdeki bisiklet yollarının kullanımına ilişkin aşağıdaki verileri yayımlamıştır.
+Mevsim Ortalama Günlük Kullanıcı Ortalama Sürüş Süresi
+İlkbahar 2.400 34 dk
+Yaz 3.600 41 dk
+Sonbahar 2.800 37 dk
+Kış 1.500 26 dk
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Ortalama kullanıcı sayısı en yüksek olan mevsimde sürüş süresi de en uzundur.
+B) En az kullanım kış mevsiminde gerçekleşmiştir.
+C) Sonbaharda hem kullanıcı sayısı hem sürüş süresi ilkbahardan düşüktür.
+D) Yaz mevsiminde bisiklet yolları diğer mevsimlere göre daha yoğun kullanılmıştır.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Yapay Zekâ Destekli Erken Uyarı Sistemi Orman Yangınlarına Karşı Kullanılıyor
+Tarım ve Orman Bakanlığı tarafından pilot bölgelerde uygulanmaya başlanan yapay zekâ 
+destekli erken uyarı sistemi; kule kameraları, insansız hava araçları ve meteorolojik verileri 
+birlikte analiz ederek olası yangın risklerini anlık olarak belirliyor. Sistem, dumanı henüz 
+büyümeden tespit edebildiği için ekiplerin olay yerine daha kısa sürede ulaşmasına katkı 
+sağlıyor. İlk uygulama sonuçlarına göre yangınlara ilk müdahale süresi ortalama %18 kısaldı. 
+Yetkililer, sistemin yalnızca yangınları erken tespit etmeyi değil, riskli bölgelerde önleyici 
+tedbirlerin planlanmasını da amaçladığını belirtti. Uygulamanın başarılı olması hâlinde 
+gelecek yıl daha geniş bir bölgede kullanılacağı açıklandı.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Yapay zekâ sistemi sayesinde orman yangınları tamamen önlenmiştir.
+B) Sistem, yangın riskini belirlerken farklı veri kaynaklarından yararlanmaktadır.
+C) Erken müdahale süresinde iyileşme sağlanmıştır.
+D) Sistemin kullanım alanının genişletilmesi planlanmaktadır.
+7.
+Bir bilim merkezinde altı atölye, soldan sağa doğru 1'den 6'ya kadar numaralandırılmış 
+stantlara yerleştirilecektir.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Siber Güvenlik (S)
+• Yazılım (Z)
+• Biyoteknoloji (B)
+Yerleşimle ilgili bilgiler şunlardır:
+• Robotik Atölyesi, Yapay Zekâ Atölyesi'nin hemen solundadır.
+• Siber Güvenlik Atölyesi, Yazılım Atölyesi'nin hemen solundadır.
+• Astronomi Atölyesi ilk sırada değildir.
+• Biyoteknoloji Atölyesi, Robotik Atölyesi'nin sağındadır.
+• Astronomi Atölyesi ile Biyoteknoloji Atölyesi arasında yalnızca bir atölye
+bulunmaktadır.
+• Yapay Zekâ Atölyesi son sırada değildir.
+• Yazılım Atölyesi, Biyoteknoloji Atölyesi'nin solundadır.
+Buna göre aşağıdaki yerleşimlerden hangisi mümkün değildir?
+A) S – Z – A – R – Y – B
+B) A – S – Z – R – Y – B
+C) R – Y – S – Z – A – B
+D) S – Z – R – Y – B – A
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan), okul meclisi seçiminde konuşacaktır.
+Konuşma sırasıyla ilgili bilgiler şöyledir:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında iki kişi bulunmaktadır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan altıncı sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki yapılardan hangisi, dünyanın en uzun kesintisiz taş köprülerinden biri olarak 
+kabul edilir ve Mimar Sinan'ın önemli eserleri arasında yer alır?
+A) Malabadi Köprüsü
+B) Mostar Köprüsü
+C) Büyükçekmece Köprüsü
+D) Justinianus Köprüsü
+   Biliyor muydun?
+Büyükçekmece Köprüsü, Kanuni Sultan Süleyman'ın isteği üzerine Mimar Sinan tarafından 
+inşa edilmiştir. Yaklaşık 635 metre uzunluğundaki köprü, dört ayrı köprünün birleşiminden 
+oluşur ve Osmanlı mühendisliğinin önemli örneklerinden biri kabul edilir.
+10.
+Aşağıdaki teknolojilerden hangisi, elektrik enerjisini doğrudan Güneş ışığından üretir?
+A) Rüzgâr türbini
+B) Hidroelektrik santral
+C) Jeotermal santral
+D) Fotovoltaik (güneş) panel
+   Biliyor muydun?
+Güneş panellerinde bulunan fotovoltaik hücreler, Güneş'ten gelen ışık enerjisini doğrudan 
+elektrik enerjisine dönüştürür. Bu sistemlerde hareketli parça bulunmadığından bakım ihtiyacı 
+oldukça düşüktür ve yenilenebilir enerji kaynakları arasında önemli bir yere sahiptir.
+Cevap Anahtarı (Test 11)
+1. B
+2. C
+3. D
+4. A
+5. C
+6. A
+7. B
+8. A
+9. C
+10. D
+
+TEST 12
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Son yıllarda yapılan araştırmalar, insanların öğrenme sürecinde yalnızca bilgiyi tekrar 
+etmelerinin yeterli olmadığını göstermektedir. Eğitim bilimcilere göre bir bilgiyi uzun süre 
+hatırlayabilmek için o bilginin farklı durumlarda kullanılabilmesi gerekir. Bu nedenle 
+öğrencilerin yalnızca test çözmesi değil; öğrendikleri bilgileri açıklamaları, örneklendirmeleri, 
+tartışmaları ve günlük yaşamla ilişkilendirmeleri önerilmektedir. Çünkü beyin, 
+anlamlandırılan bilgileri ezberlenen bilgilere göre daha kalıcı biçimde depolamaktadır.
+Araştırmalar ayrıca öğrenme sırasında yapılan küçük hataların da gelişim sürecinin doğal bir 
+parçası olduğunu ortaya koymaktadır. Bir soruyu yanlış çözen öğrenci, hatasının nedenini 
+analiz edip doğru yöntemi öğrendiğinde aynı yanlışı tekrar yapma olasılığı azalır. Buna 
+karşılık yanlışlarını incelemeden yalnızca doğru cevapları ezberleyen bireyler, benzer 
+durumlarla karşılaştıklarında aynı hataları tekrarlayabilmektedir. Bu nedenle eğitim 
+uzmanları, geri bildirimin yalnızca not vermek için değil; öğrenmeyi geliştirmek amacıyla 
+kullanılmasının önemini vurgulamaktadır.
+Bunun yanında öğrenme sürecinde dinlenmenin de önemli olduğu bilinmektedir. Yoğun 
+çalışma sonrasında verilen kısa molalar, dikkatin yeniden toplanmasına yardımcı olabilir. 
+Ancak molaların verimli olabilmesi için bu sürede zihni aşırı yoran etkinliklerden kaçınmak 
+gerekir. Sonuç olarak etkili öğrenme; yalnızca çok çalışmakla değil, doğru yöntemleri uygun 
+zamanlarda kullanabilmekle mümkündür.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Başarılı öğrenme yalnızca uzun süre ders çalışmaya bağlıdır.
+B) Kalıcı öğrenme, bilgiyi anlamlandırmayı ve doğru öğrenme yöntemlerini kullanmayı 
+gerektirir.
+C) Yanlış yapmak öğrenme sürecini olumsuz etkiler.
+D) Dinlenmek, öğrenme sürecinde gereksizdir.
+2.
+Metne göre aşağıdakilerden hangisi etkili öğrenmeye örnek gösterilebilir?
+A) Soruların cevaplarını ezberleyip nedenini araştırmamak
+B) Yanlış yapılan soruların neden yanlış olduğunu incelemek
+C) Bilgileri yalnızca sınavdan önce tekrar etmek
+D) Molalarda uzun süre dikkat gerektiren oyunlar oynamak
+3.
+Bu metinden aşağıdakilerin hangisine ulaşılamaz?
+A) Geri bildirim öğrenmeyi geliştirmek amacıyla kullanılabilir.
+B) Bilgiyi farklı durumlarda kullanabilmek öğrenmeyi kalıcı hâle getirebilir.
+C) Kısa molalar dikkatin yeniden toplanmasına katkı sağlayabilir.
+D) Aynı çalışma yöntemi bütün öğrenciler için her zaman en etkili yöntemdir.
+4.
+Bir okulda gerçekleştirilen "Bilim Şenliği" sonunda dört proje grubu aşağıdaki ölçütlere göre 
+değerlendirilmiştir.
+Grup Bilimsellik Tasarım Sunum Toplam Puan
+A 34 28 26 88
+B 30 32 28 90
+C 36 24 27 87
+D 32 30 29 91
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Bilimsellik puanı en yüksek olan grup yarışmayı kazanmıştır.
+B) Toplam puanı en yüksek olan grup, sunum puanında da ilk sıradadır.
+C) Tasarım puanı en yüksek olan grup toplam puanda son sıradadır.
+D) Sunum puanları arttıkça toplam puanlar da düzenli olarak artmıştır.
+5.
+Bir araştırmada dört farklı ulaşım aracının 100 km başına ortalama karbon salımı 
+incelenmiştir.
+Ulaşım Aracı Karbon Salımı (kg) Ortalama Yolcu Sayısı
+Otobüs 8 40
+Tren 5 180
+Otomobil 18 2
+Bisiklet 0 1
+Bu verilere göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Karbon salımı en düşük ulaşım aracı bisiklettir.
+B) En fazla yolcu taşıyan ulaşım aracı aynı zamanda en düşük karbon salımına sahip motorlu 
+ulaşım aracıdır.
+C) Otomobil, otobüsten daha fazla karbon salımı oluşturmaktadır.
+D) Yolcu sayısı arttıkça karbon salımı her zaman artmaktadır.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Akıllı Atık Takip Sistemi" ile Geri Dönüşüm Oranı Arttı
+Bir büyükşehir belediyesi tarafından hayata geçirilen "Akıllı Atık Takip Sistemi" kapsamında 
+geri dönüşüm kutularına doluluk sensörleri yerleştirildi. Sensörlerden elde edilen veriler 
+sayesinde atık toplama araçlarının güzergâhları günlük olarak yeniden planlanıyor. Belediye 
+yetkilileri, uygulamanın ilk bir yılında geri dönüştürülebilir atık toplama miktarının %24 
+arttığını, yakıt tüketiminin ise %17 azaldığını açıkladı. Sistemin yalnızca ekonomik tasarruf 
+sağlamayı değil, karbon salımını azaltarak çevrenin korunmasına katkıda bulunmayı 
+amaçladığı belirtildi. Başarılı sonuçların ardından uygulamanın ilçelerdeki tüm mahallelere 
+yaygınlaştırılması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sistemin tek amacı yakıt tasarrufu sağlamaktır.
+B) Atık toplama güzergâhları sensörlerden alınan verilere göre belirlenmektedir.
+C) Projenin çevresel fayda sağlaması da hedeflenmektedir.
+D) Uygulamanın daha geniş alanlarda kullanılmasına yönelik plan yapılmaktadır.
+7.
+Bir bilim merkezinde düzenlenen teknoloji sergisinde altı bölüm soldan sağa doğru 
+sıralanacaktır.
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Uzay Teknolojileri (U)
+• Yazılım (Z)
+• Siber Güvenlik (S)
+• 3B Tasarım (T)
+Aşağıdaki bilgiler verilmiştir.
+• Robotik bölümü, Yapay Zekâ bölümünün hemen solundadır.
+• Yazılım bölümü, Siber Güvenlik bölümünün hemen sağındadır.
+• Uzay Teknolojileri bölümü ilk sırada değildir.
+• 3B Tasarım bölümü, Robotik bölümünün sağındadır.
+• Yapay Zekâ bölümü son sırada değildir.
+• Robotik bölümü, Yazılım bölümünün sağındadır.
+• Uzay Teknolojileri bölümü ile 3B Tasarım bölümü arasında yalnızca bir bölüm
+bulunmaktadır.
+• Siber Güvenlik bölümü üçüncü sırada değildir.
+Buna göre aşağıdaki sıralamalardan hangisi mümkün değildir?
+A) S – Z – R – Y – U – T
+B) U – S – Z – R – Y – T
+C) S – Z – U – R – Y – T
+D) U – R – Y – S – Z – T
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) bir münazara yarışmasında 1'den 6'ya 
+kadar farklı sıralarda konuşacaktır.
+Bilinenler şunlardır:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında yalnızca bir öğrenci bulunmaktadır.
+• Furkan, Buse'den önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan dördüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki ülkelerden hangisi, dünyanın en büyük mercan resifi sistemi olan Büyük Set 
+Resifi'ne (Great Barrier Reef) ev sahipliği yapmaktadır?
+A) Endonezya
+B) Avustralya
+C) Brezilya
+D) Güney Afrika
+   Biliyor muydun?
+Büyük Set Resifi yaklaşık 2.300 kilometre uzunluğundadır ve uzaydan görülebilen en büyük 
+canlı oluşumlardan biri kabul edilir. Binlerce mercan türü ile çok sayıda balık, deniz 
+kaplumbağası ve diğer deniz canlılarına yaşam alanı sağlar.
+10.
+Aşağıdaki bilim insanlarından hangisi, elektromanyetik indüksiyonu keşfederek elektrik 
+motoru ve jeneratör teknolojilerinin gelişmesine önemli katkı sağlamıştır?
+A) Isaac Newton
+B) Michael Faraday
+C) Galileo Galilei
+D) Nikolaus Copernicus
+   Biliyor muydun?
+Michael Faraday'ın 1831 yılında ortaya koyduğu elektromanyetik indüksiyon ilkesi, 
+günümüzde kullanılan elektrik santrallerindeki jeneratörlerin temel çalışma prensibini 
+oluşturur. Ürettiğimiz elektriğin büyük bölümü hâlâ bu prensiple çalışan sistemlerden elde 
+edilmektedir.
+Cevap Anahtarı (Test 12)
+1. B
+2. B
+3. D
+4. B
+5. D
+6. A
+7. D
+8. A
+9. B
+10. B
+
+TEST 13
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Son yıllarda yapılan araştırmalar, insanların bir konuyu öğrendikten sonra onu başkasına 
+anlatmaya çalışmasının öğrenmeyi önemli ölçüde güçlendirdiğini göstermektedir. Bunun 
+nedeni, anlatım sırasında bireyin bilgileri yalnızca hatırlamakla kalmayıp aralarındaki 
+ilişkileri de yeniden kurmasıdır. Bir konuyu gerçekten anlayan kişi, onu farklı örneklerle 
+açıklayabilir, günlük yaşamla ilişkilendirebilir ve karşısındaki kişinin sorularına uygun 
+cevaplar verebilir. Buna karşılık yalnızca ezberlenen bilgiler, beklenmedik sorular karşısında 
+çoğu zaman yetersiz kalmaktadır.
+E�itim uzmanları bu nedenle öğrencilerin yalnızca soru çözmelerini değil; öğrendiklerini 
+arkadaşlarına anlatmalarını, kavram haritaları hazırlamalarını ve kendi cümleleriyle 
+özetlemelerini önermektedir. Çünkü bu süreçte birey, hangi noktaları tam olarak 
+öğrenemediğini de fark edebilir. Böylece eksiklerini belirleyerek çalışma planını yeniden 
+düzenleme fırsatı bulur. Bu yöntem, öğrenme sürecini daha bilinçli hâle getirir.
+Ancak anlatımın etkili olabilmesi için bilgilerin doğru kaynaklardan öğrenilmiş olması 
+gerekir. Yanlış öğrenilen bilgilerin tekrar edilmesi, hataların kalıcı hâle gelmesine neden 
+olabilir. Bu nedenle öğrenme sürecinde güvenilir kaynaklardan yararlanmak, düzenli geri 
+bildirim almak ve gerektiğinde yanlış bilgileri düzeltmek büyük önem taşır. Sonuç olarak 
+kalıcı öğrenme, yalnızca bilgi edinmekten değil; bilgiyi anlamlandırmak, paylaşmak ve 
+gerektiğinde yeniden gözden geçirmekten oluşmaktadır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Kalıcı öğrenme için bilgiyi başkalarına anlatmak ve anlamlandırmak önemlidir.
+B) Soru çözmek öğrenmeye katkı sağlamaz.
+C) Ezber yapan öğrenciler her zaman başarılı olur.
+D) Öğrenmenin tek yolu ders kitabı okumaktır.
+2.
+Metne göre aşağıdakilerden hangisi etkili öğrenme yöntemlerinden biri olarak gösterilmiştir?
+A) Bilgileri yalnızca ezberlemek
+B) Öğrenilen konuyu kendi cümleleriyle özetlemek
+C) Yanlış öğrenilen bilgileri tekrar etmek
+D) Eksikleri fark etmemek
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Güvenilir kaynaklardan öğrenilen bilgiler daha sağlıklı sonuçlar doğurabilir.
+B) Başkasına anlatmak eksikleri fark etmeye yardımcı olabilir.
+C) Yanlış bilgilerin sürekli tekrar edilmesi öğrenmeyi olumsuz etkileyebilir.
+D) Her öğrenci aynı yöntemle öğrenmek zorundadır.
+4.
+Bir okulun düzenlediği "Çevre ve Teknoloji Projeleri Yarışması" sonunda dört grubun 
+aldığı puanlar aşağıdaki tabloda verilmiştir.
+Grup Bilimsellik Özgünlük Sunum Toplam
+A 32 30 27 89
+B 30 34 26 90
+C 35 26 28 89
+D 31 29 31 91
+Tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Bilimsellik puanı en yüksek olan grup yarışmayı kazanmıştır.
+B) Toplam puanı en yüksek olan grup aynı zamanda sunum puanı en yüksek olan gruptur.
+C) Özgünlük puanı arttıkça toplam puan da düzenli olarak artmıştır.
+D) Toplam puanı 89 olan iki grubun bütün puanları aynıdır.
+5.
+Bir araştırmada dört farklı enerji kaynağının bazı özellikleri karşılaştırılmıştır.
+Enerji Kaynağı Yenilenebilir Karbon Salımı Kurulum Maliyeti
+Güneş ✔ Çok Düşük Yüksek
+Rüzgâr ✔ Çok Düşük Orta
+Doğal Gaz ✘ Orta Düşük
+Kömür ✘ Yüksek Orta
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Yenilenebilir enerji kaynaklarının karbon salımı fosil yakıtlardan düşüktür.
+B) Kömürün karbon salımı doğal gazdan yüksektir.
+C) Kurulum maliyeti en düşük olan enerji kaynağı güneştir.
+D) Rüzgâr enerjisi hem yenilenebilir hem de karbon salımı çok düşük olan bir enerji 
+kaynağıdır.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Dijital Kütüphane" Projesiyle Kitaplara Erişim Kolaylaşıyor
+Kültür ve Turizm Bakanlığı ile çeşitli üniversitelerin iş birliğiyle yürütülen "Dijital 
+Kütüphane" projesi kapsamında binlerce eser dijital ortama aktarıldı. Kullanıcılar, sisteme üye 
+olarak istedikleri kitaplara ve akademik yayınlara internet üzerinden ulaşabiliyor. Yetkililer, 
+uygulamanın ilk yılında dijital kaynak kullanımının %41 arttığını, özellikle kırsal bölgelerde 
+yaşayan öğrencilerin bilgiye erişiminin kolaylaştığını açıkladı. Proje kapsamında telif hakları 
+korunan eserlerin yalnızca izin verilen bölümlerine erişim sağlanırken, kamu malı 
+niteliğindeki eserlerin tamamı ücretsiz olarak sunuluyor. Başarılı sonuçların ardından dijital 
+arşive yeni eserlerin eklenmeye devam edeceği bildirildi.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Dijital Kütüphane'deki bütün eserlerin tamamı ücretsiz olarak erişime açıktır.
+B) Projenin bilgiye erişimi kolaylaştırdığı belirtilmektedir.
+C) Telif haklarına ilişkin düzenlemeler dikkate alınmaktadır.
+D) Dijital arşivin genişletilmesi planlanmaktadır.
+7.
+Bir bilim fuarında altı farklı stant yan yana dizilecektir.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Yazılım (Z)
+• Siber Güvenlik (S)
+• Biyoteknoloji (B)
+Stantların yerleşimiyle ilgili bilgiler şunlardır:
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Siber Güvenlik standı, Yazılım standının hemen solundadır.
+• Astronomi standı ilk sırada değildir.
+• Biyoteknoloji standı, Yapay Zekâ standının sağındadır.
+• Yazılım standı, Robotik standının solundadır.
+• Astronomi standı ile Biyoteknoloji standı arasında tam iki stant bulunmaktadır.
+• Yapay Zekâ standı son sırada değildir.
+• Siber Güvenlik standı ikinci sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – Z – R – Y – A – B
+B) A – S – Z – R – Y – B
+C) S – Z – A – R – Y – B
+D) R – Y – S – Z – B – A
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okulda yapılacak konferansta 
+konuşacaktır.
+Bilinenler şunlardır:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında tam iki kişi bulunmaktadır.
+• Furkan, Buse'den önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan beşinci sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse dördüncü sırada konuşmuştur.
+9.
+Aşağıdaki yapılardan hangisi, dünyanın en büyük taş kubbelerinden birine sahip olması
+ve yaklaşık 1000 yıl boyunca dünyanın en büyük ibadet yapılarından biri olarak kabul 
+edilmesiyle tanınır?
+A) Kolezyum
+B) Ayasofya
+C) Tac Mahal
+D) Eyfel Kulesi
+   Biliyor muydun?
+Ayasofya'nın yaklaşık 31 metre çapındaki kubbesi, inşa edildiği 6. yüzyılda dönemin 
+mühendislik anlayışını değiştiren yapılardan biri olmuştur. Kubbenin büyüklüğü ve taşıyıcı 
+sistemi, yüzyıllar boyunca birçok mimari esere ilham vermiştir.
+10.
+Aşağıdaki elementlerden hangisi, oda sıcaklığında sıvı hâlde bulunan iki elementten 
+biridir?
+A) Demir
+B) Cıva
+C) Bakır
+D) Alüminyum
+   Biliyor muydun?
+Oda sıcaklığında sıvı hâlde bulunan elementlerden biri cıva (Hg), diğeri ise brom (Br)
+elementidir. Cıva uzun yıllar termometrelerde kullanılmış; ancak zehirli olması nedeniyle 
+günümüzde yerini büyük ölçüde daha güvenli alternatiflere bırakmıştır.
+Cevap Anahtarı (Test 13)
+1. A
+2. B
+3. D
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. B
+
+TEST 14
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Teknolojinin hızla gelişmesi, insanların bilgiye ulaşmasını kolaylaştırırken bilgi kirliliği 
+sorununu da beraberinde getirmiştir. Günümüzde sosyal medya ve internet siteleri sayesinde 
+milyonlarca bilgiye birkaç saniye içinde ulaşılabilmektedir. Ancak bu bilgilerin tamamı doğru 
+ya da güvenilir değildir. Bu nedenle uzmanlar, herhangi bir bilgiyi paylaşmadan önce 
+kaynağını araştırmanın ve farklı kaynaklarla karşılaştırmanın dijital okuryazarlığın temel 
+gerekliliklerinden biri olduğunu vurgulamaktadır.
+Yanlış bilgilerin hızla yayılmasının en önemli nedenlerinden biri, insanların dikkat çekici 
+içerikleri doğruluğunu sorgulamadan paylaşabilmesidir. Oysa güvenilir bilgiye ulaşabilmek 
+için yalnızca tek bir kaynağa bağlı kalmak yerine farklı görüşleri incelemek, bilimsel verileri 
+değerlendirmek ve uzman görüşlerinden yararlanmak gerekir. Böylece hem yanlış 
+yönlendirmelerin önüne geçilebilir hem de daha bilinçli kararlar alınabilir.
+E�itimciler, öğrencilerin yalnızca bilgiye ulaşmayı değil; ulaştıkları bilgiyi analiz etmeyi, 
+değerlendirmeyi ve gerektiğinde eleştirel biçimde sorgulamayı öğrenmeleri gerektiğini ifade 
+etmektedir. Çünkü gelecekte başarılı bireyler; çok bilgi bilenlerden ziyade doğru bilgiyi 
+seçebilen, yorumlayabilen ve etkili şekilde kullanabilen kişiler olacaktır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) İnternette yer alan bütün bilgiler güvenilirdir.
+B) Bilgiye ulaşmaktan çok, bilgiyi sorgulayıp doğru değerlendirebilmek önemlidir.
+C) Sosyal medya kullanılmamalıdır.
+D) Bilimsel bilgiler yalnızca uzmanlar tarafından anlaşılabilir.
+2.
+Metne göre aşağıdakilerden hangisi dijital okuryazarlığa uygun bir davranıştır?
+A) İnternette görülen her bilgiyi hemen paylaşmak
+B) Bir bilginin doğruluğunu farklı güvenilir kaynaklardan kontrol etmek
+C) Sadece arkadaşlardan gelen bilgilere güvenmek
+D) Kaynağı belirsiz içerikleri doğru kabul etmek
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Bilgi kirliliği, teknolojinin gelişmesiyle birlikte artmıştır.
+B) Farklı kaynakları incelemek daha sağlıklı değerlendirme yapılmasını sağlayabilir.
+C) Eleştirel düşünme becerisi gelecekte önemini koruyacaktır.
+D) Sosyal medyada yer alan haberlerin tamamı bilimsel araştırmalara dayanmaktadır.
+4.
+Bir okulda düzenlenen "Kitap Okuma Kampanyası" sonunda sınıflara ait veriler aşağıdaki 
+tabloda verilmiştir.
+Sınıf Öğrenci Sayısı Okunan Kitap Kitap Özeti Kütüphane Kullanım Oranı
+5-A 30 390 150 %88
+6-A 28 448 180 %94
+7-A 32 416 176 %91
+8-A 26 442 195 %96
+Tablodaki verilere göre aşağıdaki yargılardan hangisi kesinlikle doğrudur?
+A) En fazla kitap okuyan sınıfın öğrenci sayısı da en fazladır.
+B) Kütüphaneyi en fazla kullanan sınıf aynı zamanda en fazla kitap özeti hazırlayan sınıftır.
+C) Öğrenci sayısı arttıkça okunan kitap sayısı düzenli olarak artmıştır.
+D) En az öğrenciye sahip sınıf en az kitap okumuştur.
+5.
+Bir araştırmada dört farklı enerji üretim yöntemine ait bazı veriler aşağıda verilmiştir.
+Enerji Türü İlk Kurulum Maliyeti Karbon Salımı Yakıt Gereksinimi
+Güneş Yüksek Çok Düşük Hayır
+Rüzgâr Orta Çok Düşük Hayır
+Doğal Gaz Orta Orta Evet
+Kömür Düşük Yüksek Evet
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Güneş ve rüzgâr enerjisi yakıt gerektirmez.
+B) Kömürün karbon salımı doğal gazdan daha yüksektir.
+C) İlk kurulum maliyeti en düşük olan enerji türü aynı zamanda karbon salımı en düşük olan 
+enerji türüdür.
+D) Fosil yakıt kullanan enerji türleri yakıt gereksinimine sahiptir.
+(Devamında 6–10. sorular yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Akıllı Aydınlatma Sistemi" ile Enerji Tüketiminde Büyük Tasarruf
+Bir büyükşehir belediyesi tarafından ana caddelerde uygulanmaya başlanan akıllı aydınlatma 
+sistemi, ortamdaki ışık düzeyini ve yaya-araç yoğunluğunu sensörlerle analiz ederek sokak 
+lambalarının parlaklığını otomatik olarak ayarlıyor. Belediye tarafından yayımlanan rapora 
+göre sistemin uygulandığı bölgelerde ilk sekiz ay sonunda elektrik tüketimi %29, bakım 
+maliyetleri ise %16 oranında azaldı. Yetkililer, sistemin yalnızca enerji tasarrufu sağlamayı 
+değil, karbon salımını azaltarak çevresel sürdürülebilirliğe katkıda bulunmayı da amaçladığını 
+belirtti. Başarılı sonuçların ardından uygulamanın gelecek yıl ilçedeki tüm ana caddelere 
+yaygınlaştırılması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sistemin tek amacı belediyenin elektrik giderlerini azaltmaktır.
+B) Sensörler, aydınlatma seviyesinin belirlenmesinde kullanılmaktadır.
+C) Sistemin çevresel fayda sağlaması da hedeflenmektedir.
+D) Uygulamanın kapsamının genişletilmesi planlanmaktadır.
+7.
+Bir bilim merkezindeki teknoloji festivalinde altı stant soldan sağa doğru sıralanacaktır.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Yazılım (Z)
+• Siber Güvenlik (S)
+• Uzay Teknolojileri (U)
+Aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Siber Güvenlik standı, Yazılım standının hemen solundadır.
+• Astronomi standı ilk sırada değildir.
+• Uzay Teknolojileri standı, Robotik standının sağındadır.
+• Yapay Zekâ standı son sırada değildir.
+• Yazılım standı, Robotik standının solundadır.
+• Astronomi standı ile Uzay Teknolojileri standı arasında tam iki stant bulunmaktadır.
+• Siber Güvenlik standı üçüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – Z – R – Y – A – U
+B) A – S – Z – R – Y – U
+C) S – Z – A – R – Y – U
+D) R – Y – S – Z – U – A
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okul meclisi aday tanıtım konuşmalarını 
+yapacaktır.
+Bilinenler şunlardır:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında yalnızca bir öğrenci bulunmaktadır.
+• Furkan, Buse'den önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan dördüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki bilim insanlarından hangisi, DNA'nın çift sarmal yapısının ortaya çıkarılmasına 
+katkı sağlayan X-ışını kırınım görüntülerini elde eden çalışmalarıyla tanınmaktadır?
+A) Rosalind Franklin
+B) Marie Curie
+C) Ada Lovelace
+D) Rachel Carson
+   Biliyor muydun?
+Rosalind Franklin'in elde ettiği "Fotoğraf 51" adlı X-ışını kırınım görüntüsü, DNA'nın çift 
+sarmal yapısının anlaşılmasında önemli rol oynadı. Bu görüntü, modern genetik 
+araştırmalarının gelişmesine katkı sağlayan en önemli bilimsel verilerden biri kabul 
+edilmektedir.
+10.
+Aşağıdaki gök cisimlerinden hangisi, kendi ışığını üretmez; Güneş'ten aldığı ışığı 
+yansıtarak görünür?
+A) Güneş
+B) Sirius Yıldızı
+C) Ay
+D) Kutup Yıldızı
+   Biliyor muydun?
+Ay'ın parlak görünmesinin nedeni kendi ışığını üretmesi değil, Güneş'ten gelen ışığı 
+yansıtmasıdır. Ay'ın evreleri ise Dünya, Ay ve Güneş'in birbirlerine göre konumlarının 
+değişmesi sonucu oluşur.
+Cevap Anahtarı (Test 14)
+1. B
+2. B
+3. D
+4. B
+5. C
+6. A
+7. B
+8. A
+9. A
+10. C
+
+TEST 15
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Günümüzde şehirlerde yaşayan insan sayısının hızla artması, ulaşım, enerji tüketimi ve çevre 
+kirliliği gibi sorunları da beraberinde getirmektedir. Bu nedenle birçok ülke, "akıllı şehir" 
+uygulamalarına yatırım yapmaktadır. Akıllı şehirlerde trafik yoğunluğu sensörlerle izlenebilir, 
+enerji tüketimi anlık olarak analiz edilebilir ve atık toplama sistemleri doluluk durumuna göre 
+otomatik olarak planlanabilir. Böylece hem doğal kaynakların daha verimli kullanılması hem 
+de yaşam kalitesinin artırılması hedeflenmektedir.
+Ancak uzmanlara göre bir şehrin yalnızca teknolojik sistemlerle donatılması onu akıllı şehir 
+yapmaya yetmez. Vatandaşların bu sistemleri bilinçli kullanması, kişisel verilerin 
+güvenliğinin sağlanması ve şehir yönetiminin elde edilen verileri doğru analiz ederek karar 
+vermesi de büyük önem taşımaktadır. Aksi hâlde en gelişmiş teknolojiler bile beklenen verimi 
+sağlayamayabilir.
+Bu nedenle günümüzde akıllı şehir projeleri hazırlanırken yalnızca mühendisler değil; şehir 
+plancıları, çevre bilimciler, yazılım uzmanları, hukukçular ve sosyologlar da birlikte 
+çalışmaktadır. Çünkü şehir yaşamını etkileyen sorunlar tek bir alanın bilgisiyle 
+çözülemeyecek kadar karmaşıktır. Başarılı projeler, teknolojiyi insan ihtiyaçlarıyla doğru 
+biçimde buluşturabilen uygulamalardır.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Akıllı şehirler yalnızca teknolojik cihazlardan oluşur.
+B) Akıllı şehirlerin başarılı olabilmesi için teknoloji ile insan odaklı planlamanın birlikte 
+yürütülmesi gerekir.
+C) Trafik sorununu çözmek için yalnızca sensör kullanılması yeterlidir.
+D) Şehir planlamasında sadece mühendisler görev almalıdır.
+2.
+Metne göre aşağıdakilerden hangisi akıllı şehir uygulamalarının başarılı olması için gerekli 
+unsurlardan biri değildir?
+A) Vatandaşların sistemleri bilinçli kullanması
+B) Verilerin doğru analiz edilmesi
+C) Kişisel verilerin korunması
+D) Bütün kararların yalnızca yapay zekâ tarafından verilmesi
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Akıllı şehir projelerinde farklı meslek grupları birlikte çalışmaktadır.
+B) Teknoloji tek başına bütün şehir sorunlarını çözmeye yeterlidir.
+C) Doğal kaynakların verimli kullanılması hedeflenmektedir.
+D) Şehir yaşamındaki sorunlar çok yönlüdür.
+4.
+Bir okulda düzenlenen STEM Proje Yarışması sonunda dört grubun aldığı puanlar aşağıdaki 
+tabloda verilmiştir.
+Grup Tasarım Bilimsellik Sunum Toplam
+A 27 35 28 90
+B 31 30 30 91
+C 29 34 25 88
+D 25 36 27 88
+Tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Bilimsellik puanı en yüksek olan grup yarışmayı kazanmıştır.
+B) Toplam puanı en yüksek olan grup aynı zamanda tasarım puanı en yüksek olan gruptur.
+C) Sunum puanı en yüksek olan grup toplam puanda da birincidir.
+D) Toplam puanı aynı olan grupların bütün puanları da aynıdır.
+5.
+Bir araştırmada dört farklı internet bağlantı türüne ait bazı özellikler aşağıdaki tabloda 
+verilmiştir.
+Bağlantı Türü Ortalama Hız Gecikme Süresi Hareket Hâlinde Kullanım
+Fiber Çok Yüksek Çok Düşük Hayır
+5G Yüksek Düşük Evet
+ADSL Orta Orta Hayır
+Uydu İnterneti Orta Yüksek Evet
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Fiber internet en düşük gecikme süresine sahiptir.
+B) Hareket hâlinde kullanılabilen bağlantı türlerinin gecikme süreleri aynıdır.
+C) ADSL'nin ortalama hızı fiber internetten düşüktür.
+D) Uydu internetinin gecikme süresi 5G'den yüksektir.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Yeşil Durak" Projesiyle Toplu Taşımada Yeni Dönem
+Bir büyükşehir belediyesi tarafından hayata geçirilen "Yeşil Durak" projesi kapsamında bazı 
+otobüs duraklarının çatısına güneş panelleri yerleştirildi. Bu paneller sayesinde durakların 
+aydınlatma sistemi ve yolcu bilgilendirme ekranlarının enerji ihtiyacı güneşten karşılanıyor. 
+Ayrıca duraklarda yağmur suyu depolama sistemi kullanılarak çevredeki yeşil alanların 
+sulanmasına katkı sağlanıyor. Belediye tarafından yayımlanan rapora göre uygulamanın ilk on 
+ayında elektrik tüketiminde %27, bakım giderlerinde ise %14 oranında azalma sağlandı. 
+Yetkililer, projenin yalnızca enerji tasarrufu sağlamayı değil; çevre bilincini artırmayı ve 
+yenilenebilir enerji kullanımını yaygınlaştırmayı da amaçladığını belirtti. Başarılı sonuçların 
+ardından uygulamanın şehir genelindeki tüm ana duraklarda uygulanması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Projenin tek amacı belediyenin elektrik giderlerini azaltmaktır.
+B) Duraklarda yenilenebilir enerji kaynaklarından yararlanılmaktadır.
+C) Yağmur suyu farklı bir amaç için değerlendirilmektedir.
+D) Projenin kapsamının ilerleyen dönemde genişletilmesi planlanmaktadır.
+7.
+Bir teknoloji fuarında altı stant soldan sağa doğru sıralanacaktır.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Yazılım (Z)
+• Siber Güvenlik (S)
+• Uzay Teknolojileri (U)
+Stantlarla ilgili aşağıdaki bilgiler verilmiştir.
+• Robotik standı, Yapay Zekâ standının hemen solundadır.
+• Siber Güvenlik standı, Yazılım standının hemen solundadır.
+• Astronomi standı ilk sırada değildir.
+• Uzay Teknolojileri standı, Robotik standının sağındadır.
+• Yapay Zekâ standı son sırada değildir.
+• Yazılım standı, Robotik standının solundadır.
+• Astronomi standı ile Uzay Teknolojileri standı arasında yalnızca bir stant
+bulunmaktadır.
+• Siber Güvenlik standı beşinci sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) S – Z – R – Y – A – U
+B) A – S – Z – R – Y – U
+C) S – Z – A – R – Y – U
+D) U – S – Z – R – Y – A
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okul başkanlığı seçiminde konuşacaktır.
+Konuşma sırasıyla ilgili bilgiler şöyledir:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında tam iki kişi bulunmaktadır.
+• Furkan, Buse'den önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan beşinci sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse dördüncü sırada konuşmuştur.
+9.
+Aşağıdaki ülkelerden hangisi, dünyanın en büyük sıcak çölü olan Sahra Çölü'nün en geniş 
+bölümüne ev sahipliği yapmaktadır?
+A) Cezayir
+B) Kenya
+C) Hindistan
+D) Arjantin
+   Biliyor muydun?
+Sahra Çölü yaklaşık 9 milyon km² yüzölçümüyle dünyanın en büyük sıcak çölüdür. Çölün en 
+büyük bölümü Cezayir sınırları içerisinde yer alır. Gündüz sıcaklıkları 50 °C'nin üzerine 
+çıkabilirken gece sıcaklıkları sıfır derecenin altına düşebilmektedir.
+10.
+Aşağıdaki bilim insanlarından hangisi, ilk pratik telefonun geliştirilmesiyle tanınmaktadır?
+A) Thomas Edison
+B) Alexander Graham Bell
+C) Nikola Tesla
+D) James Watt
+   Biliyor muydun?
+Alexander Graham Bell, 1876 yılında telefonun patentini aldı. İlk telefon görüşmesinde 
+yardımcısına söylediği "Bay Watson, buraya gelin; sizi görmek istiyorum." sözü, iletişim 
+teknolojileri tarihinin en bilinen ifadelerinden biri olarak kabul edilir.
+Cevap Anahtarı (Test 15)
+1. B
+2. D
+3. B
+4. C
+5. B
+6. A
+7. B
+8. A
+9. A
+10. B
+
+TEST 16
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+İnsanlar çoğu zaman bir problemi çözmeye çalışırken ilk akıllarına gelen yöntemi uygulamayı 
+tercih eder. Ancak bilim insanlarına göre karmaşık problemlerin çözümünde tek bir bakış 
+açısına bağlı kalmak doğru sonuçlara ulaşmayı zorlaştırabilir. Çünkü her problemin farklı 
+nedenleri, farklı etkileri ve farklı çözüm yolları olabilir. Bu nedenle araştırmacılar, bir sonuca 
+varmadan önce problemi oluşturan bütün etkenleri ayrı ayrı incelemeyi ve elde edilen verileri 
+birlikte değerlendirmeyi önerir.
+Örneğin bir şehirde hava kirliliğinin artması yalnızca araç sayısındaki artışla açıklanamaz. 
+Sanayi tesisleri, ısınma amaçlı kullanılan yakıtlar, meteorolojik koşullar ve şehir planlaması 
+gibi birçok unsur da hava kalitesini etkileyebilir. Bu nedenle yalnızca tek bir nedene 
+odaklanılarak geliştirilen çözümler beklenen sonucu vermeyebilir. Sorunun bütün yönleriyle 
+incelenmesi ise daha kalıcı ve etkili çözümler geliştirilmesini sağlar.
+Uzmanlar, bu yaklaşımın yalnızca bilimsel araştırmalarda değil; günlük yaşamda verilen 
+kararlarda da önemli olduğunu belirtmektedir. Çünkü olaylara farklı açılardan bakabilen 
+bireyler, acele karar vermek yerine kanıtları değerlendirerek daha doğru sonuçlara 
+ulaşabilmektedir. Böylece hem yanlış değerlendirme yapma olasılığı azalmakta hem de 
+karşılaşılan problemlere daha yaratıcı çözümler üretilebilmektedir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Problemlerin çözümünde yalnızca ilk akla gelen yöntem uygulanmalıdır.
+B) Karmaşık problemlerin çözümünde farklı etkenleri birlikte değerlendirmek gerekir.
+C) Hava kirliliğinin tek nedeni araç sayısındaki artıştır.
+D) Günlük yaşamda kanıtlara ihtiyaç yoktur.
+2.
+Metne göre aşağıdakilerden hangisi doğru bir problem çözme yaklaşımıdır?
+A) Problemin yalnızca tek nedenine odaklanmak
+B) Kanıtları incelemeden karar vermek
+C) Problemi etkileyen farklı unsurları birlikte değerlendirmek
+D) Her durumda aynı çözüm yöntemini uygulamak
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Günlük yaşamda da kanıtlara dayalı karar vermek önemlidir.
+B) Farklı bakış açıları daha etkili çözümler geliştirilmesini sağlayabilir.
+C) Karmaşık problemlerin tek bir nedeni vardır.
+D) Bilimsel araştırmalarda bütün etkenler birlikte değerlendirilmelidir.
+4.
+Bir okulun "Bilim, Sanat ve Teknoloji Festivali" sonunda dört takımın değerlendirme 
+sonuçları aşağıdaki tabloda verilmiştir.
+Takım Bilimsel İçerik Tasarım Sunum Toplam
+A 36 24 28 88
+B 31 32 29 92
+C 34 29 25 88
+D 30 34 26 90
+Bu tabloya göre aşağıdaki yorumlardan hangisi kesinlikle doğrudur?
+A) Bilimsel içerik puanı en yüksek olan takım yarışmayı kazanmıştır.
+B) Tasarım puanı en yüksek olan takımın toplam puanı da en yüksektir.
+C) Toplam puanı en yüksek olan takımın sunum puanı, diğer takımların tümünden yüksektir.
+D) Toplam puanı aynı olan takımların bütün ölçütlerde aldıkları puanlar aynıdır.
+5.
+Bir araştırmada dört farklı ulaşım aracının şehir içi kullanımına ilişkin veriler aşağıda 
+verilmiştir.
+Ulaşım Aracı Ortalama Hız (km/sa.) Karbon Salımı Yolcu Kapasitesi
+Metro 42 Çok Düşük 1.200
+Tramvay 26 Düşük 280
+Otobüs 24 Orta 110
+Otomobil 38 Yüksek 5
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) Metro, hem en yüksek yolcu kapasitesine hem de en düşük karbon salımına sahiptir.
+B) Otomobil, tramvaydan daha hızlı olmasına rağmen karbon salımı daha yüksektir.
+C) Yolcu kapasitesi arttıkça ortalama hız her zaman artmaktadır.
+D) Otobüsün yolcu kapasitesi otomobilden fazladır.
+(Devamında 6–10. sorular; haber analizi, iki zor mantık sorusu ve iki genel kültür 
+sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+"Akıllı Su Yönetim Sistemi" ile Kayıp-Kaçak Oranında Düşüş
+Bir büyükşehir belediyesi tarafından içme suyu şebekesinde uygulanmaya başlanan "Akıllı Su 
+Yönetim Sistemi", boru hatlarına yerleştirilen sensörler aracılığıyla basınç ve debi verilerini 
+anlık olarak izliyor. Sistem, olası su kaçaklarını kısa sürede tespit ederek ekiplerin müdahale 
+süresini azaltıyor. Belediye tarafından yayımlanan rapora göre uygulamanın ilk yılında içme 
+suyu şebekesindeki kayıp-kaçak oranı %19 azaldı, bakım maliyetlerinde ise %15 tasarruf 
+sağlandı. Yetkililer, projenin yalnızca ekonomik kazanç sağlamayı değil, su kaynaklarının 
+sürdürülebilir kullanımına katkıda bulunmayı da amaçladığını belirtti. Başarılı sonuçların 
+ardından uygulamanın tüm ilçelerde yaygınlaştırılması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Sistemin temel amacı yalnızca bakım giderlerini azaltmaktır.
+B) Sensörler sayesinde su şebekesi sürekli takip edilmektedir.
+C) Projenin çevresel sürdürülebilirliğe katkı sağlaması hedeflenmektedir.
+D) Uygulamanın ilerleyen dönemde daha geniş alanlarda kullanılmasına yönelik plan 
+yapılmıştır.
+7.
+Bir bilim merkezinde altı atölye yan yana sıralanacaktır.
+• Astronomi (A)
+• Robotik (R)
+• Yapay Zekâ (Y)
+• Yazılım (Z)
+• Siber Güvenlik (S)
+• Uzay Teknolojileri (U)
+Aşağıdaki bilgiler verilmiştir.
+• Robotik Atölyesi, Yapay Zekâ Atölyesi'nin hemen solundadır.
+• Siber Güvenlik Atölyesi, Yazılım Atölyesi'nin hemen solundadır.
+• Astronomi Atölyesi ilk sırada değildir.
+• Uzay Teknolojileri Atölyesi, Robotik Atölyesi'nin sağındadır.
+• Yapay Zekâ Atölyesi son sırada değildir.
+• Yazılım Atölyesi, Robotik Atölyesi'nin solundadır.
+• Astronomi Atölyesi ile Uzay Teknolojileri Atölyesi arasında tam iki atölye
+bulunmaktadır.
+• Siber Güvenlik Atölyesi dördüncü sırada değildir.
+Buna göre aşağıdaki sıralamalardan hangisi mümkün değildir?
+A) S – Z – R – Y – A – U
+B) A – S – Z – R – Y – U
+C) S – Z – A – R – Y – U
+D) U – S – Z – R – Y – A
+8.
+Altı öğrenci (Ali, Buse, Can, Deniz, Ece ve Furkan) okul münazarasında konuşacaktır.
+Bilinenler şunlardır:
+• Can, Deniz'den hemen sonra konuşacaktır.
+• Ali, Buse'den önce konuşacaktır.
+• Ece, Ali'den sonra fakat Buse'den önce konuşacaktır.
+• Furkan, Can'dan sonra konuşacaktır.
+• Deniz ilk sırada değildir.
+• Buse son sırada değildir.
+• Ali ile Ece arasında yalnızca bir öğrenci bulunmaktadır.
+• Furkan, Buse'den önce konuşacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Can, Deniz'den hemen sonra konuşacaktır.
+B) Furkan dördüncü sırada konuşmuştur.
+C) Ali ikinci sırada konuşmuştur.
+D) Buse beşinci sırada konuşmuştur.
+9.
+Aşağıdaki uygarlıklardan hangisi, çivi yazısını geliştirerek tarihte bilinen ilk yazılı hukuk 
+kurallarının ortaya çıkmasına zemin hazırlayan medeniyetlerden biridir?
+A) Sümerler
+B) Hititler
+C) Frigler
+D) Lidyalılar
+   Biliyor muydun?
+Sümerler tarafından geliştirilen çivi yazısı, insanlık tarihinin en eski yazı sistemlerinden 
+biridir. Yazının kullanılmaya başlanmasıyla tarih öncesi çağlar sona ermiş, insanlar ticaret, 
+hukuk ve devlet yönetimine ilişkin bilgileri yazılı olarak kaydetmeye başlamıştır.
+10.
+Aşağıdaki gezegenlerden hangisi, Güneş Sistemi'nde halkaları en belirgin olan gezegen
+olarak bilinir?
+A) Mars
+B) Jüpiter
+C) Satürn
+D) Uranüs
+   Biliyor muydun?
+Aslında Jüpiter, Uranüs ve Neptün'ün de halka sistemleri vardır. Ancak Satürn'ün halkaları, 
+buz ve kaya parçalarından oluştuğu ve çok daha parlak olduğu için teleskoplarla en kolay 
+gözlemlenebilen halka sistemidir.
+Cevap Anahtarı (Test 16)
+1. B
+2. C
+3. C
+4. C
+5. C
+6. A
+7. B
+8. A
+9. A
+10. C
+
+TEST 17
+1–3. soruları aşağıdaki metne göre cevaplayınız.
+Dünya nüfusunun hızla artması, doğal kaynakların daha dikkatli kullanılmasını zorunlu hâle 
+getirmiştir. Geçmişte uzun yıllar boyunca tükenmeyecekmiş gibi kullanılan su, enerji ve 
+maden kaynaklarının aslında sınırlı olduğu günümüzde çok daha iyi anlaşılmaktadır. Bu 
+nedenle ülkeler, hem ekonomik kalkınmayı sürdürmeye hem de gelecek kuşakların 
+ihtiyaçlarını gözetmeye yönelik politikalar geliştirmektedir. Bu anlayış, sürdürülebilir 
+kalkınma olarak adlandırılmaktadır.
+Sürdürülebilir kalkınma yalnızca çevrenin korunmasını ifade etmez. Aynı zamanda ekonomik 
+büyüme, sosyal adalet ve yaşam kalitesinin artırılması gibi hedefleri de kapsar. Örneğin enerji 
+üretiminde yenilenebilir kaynakların kullanılması çevreyi korurken yeni iş alanları 
+oluşturabilir. Benzer şekilde geri dönüşüm uygulamaları doğal kaynak tüketimini azaltırken 
+ekonomiye de katkı sağlayabilir. Bu nedenle sürdürülebilirlik, birbirinden bağımsız değil; 
+birbiriyle bağlantılı birçok unsurun birlikte değerlendirilmesini gerektirir.
+Uzmanlara göre sürdürülebilir bir gelecek yalnızca devletlerin uygulayacağı politikalarla 
+mümkün değildir. Bireylerin günlük yaşamda yapacağı küçük değişiklikler de önemli 
+sonuçlar doğurabilir. Gereksiz enerji tüketiminden kaçınmak, suyu tasarruflu kullanmak, 
+atıkları geri dönüşüme kazandırmak ve bilinçli tüketim alışkanlıkları geliştirmek bu sürecin 
+önemli parçalarıdır. Böylece hem doğal kaynakların korunmasına katkı sağlanabilir hem de 
+gelecek nesillere daha yaşanabilir bir dünya bırakılabilir.
+1.
+Bu metinde asıl anlatılmak istenen aşağıdakilerden hangisidir?
+A) Sürdürülebilir kalkınma yalnızca ekonomik büyümeyi amaçlar.
+B) Doğal kaynakların korunması yalnızca devletlerin görevidir.
+C) Sürdürülebilir kalkınma; çevresel, ekonomik ve sosyal unsurların birlikte 
+değerlendirilmesini gerektirir.
+D) Yenilenebilir enerji kaynaklarının hiçbir maliyeti yoktur.
+2.
+Metne göre aşağıdakilerden hangisi sürdürülebilir yaşam anlayışına uygun bir davranış 
+değildir?
+A) Geri dönüştürülebilir atıkları ayrıştırmak
+B) Gereksiz enerji tüketiminden kaçınmak
+C) Su kaynaklarını bilinçli kullanmak
+D) Kullanılabilir ürünleri kısa sürede yenileriyle değiştirmek
+3.
+Bu metinden aşağıdakilerden hangisine ulaşılamaz?
+A) Sürdürülebilir kalkınma yalnızca çevreyi korumaktan ibaret değildir.
+B) Bireysel davranışlar sürdürülebilir geleceğe katkı sağlayabilir.
+C) Yenilenebilir enerji kaynakları yeni iş alanları oluşturabilir.
+D) Ekonomik büyüme ile çevrenin korunması aynı anda gerçekleştirilemez.
+4.
+Bir belediyenin dört ilçede yürüttüğü geri dönüşüm çalışmasına ait veriler aşağıdaki tabloda 
+verilmiştir.
+İlçe Toplanan Geri Dönüşüm Atığı (ton) Nüfus (bin) Geri Dönüşüme Katılım Oranı
+A 420 84 %72
+B 390 60 %88
+C 510 102 %74
+D 360 45 %96
+Tablodaki verilere göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) En fazla atık toplanan ilçede katılım oranı da en yüksektir.
+B) Nüfusu en az olan ilçe, katılım oranı en yüksek olan ilçedir.
+C) Katılım oranı arttıkça toplanan atık miktarı da düzenli olarak artmaktadır.
+D) Nüfusu en fazla olan ilçe kişi başına en fazla geri dönüşüm atığı toplamıştır.
+5.
+Bir araştırmada dört farklı veri depolama teknolojisi karşılaştırılmıştır.
+Depolama Türü Okuma Hızı Darbeye Dayanıklılık Hareketli Parça
+SSD Çok Yüksek Yüksek Yok
+HDD Orta Düşük Var
+USB Bellek Yüksek Orta Yok
+DVD Düşük Orta Yok
+Bu tabloya göre aşağıdaki yorumlardan hangisi yanlıştır?
+A) SSD, HDD'ye göre daha hızlı veri okuyabilir.
+B) Hareketli parçaya sahip tek depolama birimi HDD'dir.
+C) Hareketli parçası olmayan bütün depolama birimleri aynı okuma hızına sahiptir.
+D) HDD'nin darbeye dayanıklılığı SSD'den düşüktür.
+(Devamında 6–10. sorular; haber analizi, iki çok koşullu mantık sorusu ve iki genel 
+kültür sorusu yer alacaktır.)
+6.
+Aşağıdaki haber metnini okuyunuz.
+Dron Destekli Tarım Uygulaması Verimi Artırıyor
+Tarım ve Orman Bakanlığı tarafından yürütülen bir pilot uygulamada, tarım arazileri dronlar 
+aracılığıyla düzenli olarak görüntüleniyor. Yapay zekâ destekli analiz sistemi sayesinde 
+bitkilerde hastalık belirtileri, su ihtiyacı ve gelişim farklılıkları erken dönemde 
+belirlenebiliyor. Pilot uygulamanın gerçekleştirildiği bölgelerde gereksiz ilaç kullanımının 
+%22, sulama amacıyla tüketilen su miktarının ise %18 azaldığı açıklandı. Yetkililer, bu 
+uygulamanın yalnızca üretim maliyetlerini düşürmeyi değil; doğal kaynakların korunmasını 
+ve sürdürülebilir tarımı desteklemeyi amaçladığını belirtti. Projenin gelecek yıl farklı ürün 
+gruplarında da uygulanması planlanıyor.
+Bu haber metnine göre aşağıdakilerden hangisi çıkarılamaz?
+A) Dronlar yalnızca ürünlerin fotoğrafını çekmek amacıyla kullanılmaktadır.
+B) Yapay zekâ sistemi, bitkilerin durumunu analiz etmektedir.
+C) Uygulama doğal kaynakların korunmasına katkı sağlamayı hedeflemektedir.
+D) Projenin farklı tarım alanlarına yaygınlaştırılması planlanmaktadır.
+7.
+Bir yayınevi, yeni çıkaracağı altı kitabı aynı rafa soldan sağa doğru yerleştirecektir.
+Kitaplar şunlardır:
+• Roman (R)
+• Şiir (Ş)
+• Bilim (B)
+• Tarih (T)
+• Biyografi (Y)
+• Çocuk Kitabı (Ç)
+Yerleştirme kuralları şöyledir:
+• Roman kitabı, Şiir kitabının hemen solundadır.
+• Tarih kitabı, Bilim kitabının hemen sağındadır.
+• Çocuk Kitabı ilk sırada değildir.
+• Biyografi kitabı, Şiir kitabının sağındadır.
+• Bilim kitabı, Roman kitabının solundadır.
+• Roman kitabı son iki sıradan birinde değildir.
+• Çocuk Kitabı ile Tarih kitabı arasında yalnızca bir kitap bulunmaktadır.
+• Bilim kitabı dördüncü sırada değildir.
+Buna göre aşağıdaki dizilişlerden hangisi mümkün değildir?
+A) B – T – R – Ş – Ç – Y
+B) Ç – B – T – R – Ş – Y
+C) B – T – Ç – R – Ş – Y
+D) Ç – R – Ş – B – T – Y
+8.
+Altı öğrenci (Aslı, Berk, Ceren, Doğa, Emre ve Fatih), okul konferansında sunum yapacaktır.
+Aşağıdaki bilgiler verilmiştir.
+• Berk, Ceren'den hemen sonra sunum yapacaktır.
+• Aslı, Emre'den önce sunum yapacaktır.
+• Doğa, Berk'ten sonra sunum yapacaktır.
+• Fatih, Aslı'dan hemen sonra sunum yapacaktır.
+• Emre ilk sırada değildir.
+• Ceren son sırada değildir.
+• Aslı ile Doğa arasında iki öğrenci bulunmaktadır.
+• Fatih, Berk'ten önce sunum yapacaktır.
+Buna göre aşağıdakilerden hangisi kesinlikle doğrudur?
+A) Berk, Ceren'den hemen sonra sunum yapacaktır.
+B) Fatih üçüncü sırada sunum yapmıştır.
+C) Aslı ikinci sırada sunum yapmıştır.
+D) Doğa son sırada sunum yapmıştır.
+9.
+Aşağıdaki keşiflerden hangisi, dünya çevresini dolaşan ilk deniz seferinin 
+tamamlanmasıyla coğrafya bilgisinin gelişmesine önemli katkı sağlamıştır?
+A) Kristof Kolomb'un Amerika'ya ulaşması
+B) Ferdinand Magellan'ın başlattığı ve Juan Sebastián Elcano'nun tamamladığı dünya çevresi 
+yolculuğu
+C) Vasco da Gama'nın Hindistan'a ulaşması
+D) Marco Polo'nun İpek Yolu seyahati
+   Biliyor muydun?
+1519 yılında başlayan bu seferde Ferdinand Magellan yolculuk sırasında hayatını 
+kaybetmiştir. Sefer, Juan Sebastián Elcano komutasındaki gemiyle 1522 yılında 
+tamamlanmış ve Dünya'nın deniz yoluyla çevresinin dolaşılabileceği kesin olarak 
+kanıtlanmıştır.
+10.
+Aşağıdaki elementlerden hangisi, elektrik iletkenliği en yüksek metallerden biri olduğu 
+için elektrik kablolarında yaygın olarak kullanılır?
+A) Demir
+B) Bakır
+C) Kurşun
+D) Çinko
+   Biliyor muydun?
+Bakır, yüksek elektrik iletkenliği ve kolay işlenebilmesi nedeniyle elektrik kablolarının yanı 
+sıra elektronik devrelerde ve elektrik motorlarında da yaygın olarak kullanılır. Gümüşün 
+iletkenliği daha yüksek olsa da maliyeti nedeniyle günlük kullanımda çoğunlukla bakır tercih 
+edilir.
+Cevap Anahtarı (Test 17)
+1. C
+2. D
+3. D
+4. B
+5. C
+6. A
+7. D
+8. A
+9. B
+10. B
+
