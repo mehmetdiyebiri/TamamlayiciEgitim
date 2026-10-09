@@ -1,0 +1,3606 @@
+{
+  "questions": [
+    {
+      "num": 1,
+      "text": "Metne göre uzay çöpü nedir?",
+      "options": {
+        "A": "Meteorlar",
+        "B": "Kullanım ömrü sona ermiş uzay araçları ve parçaları",
+        "C": "Ay yüzeyindeki taşlar",
+        "D": "Güneş'ten gelen parçacıklar"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_1_4"
+    },
+    {
+      "num": 2,
+      "text": "Uzay çöplerinin oluşturabileceği tehlike aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dünya'nın dönmesini durdurması",
+        "B": "Çalışan uydulara zarar verebilmesi",
+        "C": "Deniz seviyesini yükseltmesi",
+        "D": "Deprem oluşturması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_1_4"
+    },
+    {
+      "num": 3,
+      "text": "Bu metinden aşağıdakilerden hangisi çıkarılabilir?",
+      "options": {
+        "A": "Uzay çalışmaları uluslararası iş birliği gerektirebilir.",
+        "B": "Uzay çöpleri yalnızca Ay'ın çevresinde bulunur.",
+        "C": "Bütün uydular görev sonunda Dünya'ya döner.",
+        "D": "Uzay araştırmaları sona ermiştir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_1_4"
+    },
+    {
+      "num": 4,
+      "text": "Metindeki \"navigasyon\" sözcüğü bağlamına göre aşağıdakilerden hangisini ifade etmektedir?",
+      "options": {
+        "A": "Yol bulma ve konum belirleme sistemi",
+        "B": "Hava sıcaklığını ölçme",
+        "C": "Elektrik üretme",
+        "D": "Bitki yetiştirme"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_1_4"
+    },
+    {
+      "num": 5,
+      "text": "En fazla proje hangi alanda hazırlanmıştır?",
+      "options": {
+        "A": "Çevre",
+        "B": "Robotik",
+        "C": "Astronomi",
+        "D": "Yapay Zekâ"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_5_7"
+    },
+    {
+      "num": 6,
+      "text": "Toplam kaç proje hazırlanmıştır?",
+      "options": {
+        "A": "56",
+        "B": "58",
+        "C": "60",
+        "D": "62"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_5_7"
+    },
+    {
+      "num": 7,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Yapay zekâ projeleri, çevre projelerinden fazladır.",
+        "B": "Astronomi projeleri en fazladır.",
+        "C": "Robotik ve çevre projeleri eşittir.",
+        "D": "Çevre projeleri en az sayıdadır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_5_7"
+    },
+    {
+      "num": 8,
+      "text": "Bir belediye, şehirdeki bazı otobüs duraklarına güneş enerjisiyle çalışan telefon şarj üniteleri yerleştirdi. Yetkililer, sistemin elektrik tüketimini azaltacağını ve yenilenebilir enerji kullanımına dikkat çekeceğini açıkladı.\nHabere göre bu uygulamanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Elektrik tüketimini azaltmak ve çevre bilinci oluşturmak",
+        "B": "Otobüs sayısını artırmak",
+        "C": "Telefon satışlarını artırmak",
+        "D": "Durakların sayısını azaltmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 9,
+      "text": "Dört öğrenci farklı bilim insanları hakkında sunum hazırlamaktadır.\nAli, Albert Einstein hakkında sunum hazırlamaktadır.\nZeynep, Marie Curie hakkında sunum hazırlamamaktadır.\nMehmet, Ali ile aynı bilim insanını seçmemiştir.\nElif, Nikola Tesla hakkında sunum hazırlamaktadır.\n\n\n\n\nBuna göre aşağıdakilerden hangisi kesin olarak söylenebilir?",
+      "options": {
+        "A": "Mehmet, Albert Einstein hakkında sunum hazırlamaktadır.",
+        "B": "Zeynep, Nikola Tesla hakkında sunum hazırlamaktadır.",
+        "C": "Mehmet, Albert Einstein hakkında sunum hazırlamamaktadır.",
+        "D": "Elif, Marie Curie hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 10,
+      "text": "Aşağıdaki katmanlardan hangisi, Dünya'nın üzerinde yaşadığımız en dış katı tabakasıdır?",
+      "options": {
+        "A": "Çekirdek",
+        "B": "Manto",
+        "C": "Yer kabuğu",
+        "D": "Dış çekirdek"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 11,
+      "text": "Metne göre biyomimikri nedir?",
+      "options": {
+        "A": "Hayvanları taklit ederek resim yapmak",
+        "B": "Doğadaki canlılardan ilham alınarak teknoloji geliştirmek",
+        "C": "Bitkileri laboratuvarda yetiştirmek",
+        "D": "Sadece doğa belgeselleri hazırlamak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_11_14"
+    },
+    {
+      "num": 12,
+      "text": "Yalıçapkını kuşundan esinlenilerek geliştirilen yüksek hızlı trenlerde hangi amaç gerçekleştirilmiştir?",
+      "options": {
+        "A": "Trenlerin rengini değiştirmek",
+        "B": "Gürültüyü azaltmak ve enerji tasarrufu sağlamak",
+        "C": "Daha fazla yolcu taşımak",
+        "D": "Trenleri daha ağır hâle getirmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_11_14"
+    },
+    {
+      "num": 13,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Doğa, teknolojik gelişmeler için önemli bir ilham kaynağıdır.",
+        "B": "Bütün teknolojik ürünler yalnızca laboratuvarda geliştirilir.",
+        "C": "Doğadaki canlıların özellikleri değişmez.",
+        "D": "Biyomimikri yalnızca ulaşım alanında kullanılır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_11_14"
+    },
+    {
+      "num": 14,
+      "text": "Metindeki \"verimli\" sözcüğü aşağıdaki anlamlardan hangisinde kullanılmıştır?",
+      "options": {
+        "A": "Daha az kaynak kullanarak daha iyi sonuç veren",
+        "B": "Çok pahalı olan",
+        "C": "Eski teknoloji kullanan",
+        "D": "Rastgele çalışan"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_11_14"
+    },
+    {
+      "num": 15,
+      "text": "En fazla katılım hangi etkinliğe olmuştur?",
+      "options": {
+        "A": "Robot Tasarımı",
+        "B": "Kodlama Atölyesi",
+        "C": "Astronomi Gözlemi",
+        "D": "Fen Deneyleri"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_15_17"
+    },
+    {
+      "num": 16,
+      "text": "Etkinliklere toplam kaç öğrenci katılmıştır?",
+      "options": {
+        "A": "210",
+        "B": "215",
+        "C": "220",
+        "D": "225"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_15_17"
+    },
+    {
+      "num": 17,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Fen Deneyleri etkinliğine katılım, Robot Tasarımı etkinliğinden fazladır.",
+        "B": "Astronomi Gözlemi en fazla katılım alan etkinliktir.",
+        "C": "Robot Tasarımı ile Kodlama Atölyesi eşit katılım almıştır.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_15_17"
+    },
+    {
+      "num": 18,
+      "text": "Bir şehirde belediye, bisiklet kullanımını artırmak amacıyla yeni bisiklet yolları oluşturdu ve belirli noktalara ücretsiz bisiklet tamir istasyonları kurdu. Yetkililer, bu uygulamanın hem çevreyi koruyacağını hem de sağlıklı yaşamı destekleyeceğini belirtti.\nHabere göre uygulamanın iki temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Trafiği artırmak ve otomobil kullanımını yaygınlaştırmak",
+        "B": "Çevreyi korumak ve sağlıklı yaşamı teşvik etmek",
+        "C": "Bisiklet satışlarını artırmak ve yolları daraltmak",
+        "D": "Toplu taşımayı kaldırmak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 19,
+      "text": "Dört öğrenci farklı kulüplere üyedir: Satranç, Müzik, Tiyatro ve Robotik.\nEce, Robotik Kulübünde değildir.\nMert, Satranç Kulübündedir.\nDeniz, Müzik Kulübünde değildir.\nEce, Mert ile aynı kulüpte değildir.\n\n\n\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ece, Satranç Kulübündedir.",
+        "B": "Mert, Robotik Kulübündedir.",
+        "C": "Ece, Satranç Kulübünde değildir.",
+        "D": "Deniz, Tiyatro Kulübündedir."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 20,
+      "text": "Aşağıdaki doğal afetlerden hangisinin oluşumu, atmosfer olaylarından çok yer kabuğundaki hareketlerle ilgilidir?",
+      "options": {
+        "A": "Dolu",
+        "B": "Fırtına",
+        "C": "Deprem",
+        "D": "Sis"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 21,
+      "text": "Metne göre aşağıdakilerden hangisi ışık kirliliğinin nedenlerinden biridir?",
+      "options": {
+        "A": "Gereğinden fazla kullanılan aydınlatmalar",
+        "B": "Yağışların artması",
+        "C": "Ağaç sayısının çoğalması",
+        "D": "Rüzgârın şiddetlenmesi"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_21_24"
+    },
+    {
+      "num": 22,
+      "text": "Metne göre ışık kirliliğinin sonuçlarından biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deniz seviyesinin yükselmesi",
+        "B": "Gece yaşayan bazı canlıların olumsuz etkilenmesi",
+        "C": "Ormanların çoğalması",
+        "D": "Depremlerin artması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_21_24"
+    },
+    {
+      "num": 23,
+      "text": "Yazarın bu metni yazmadaki temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Işık kirliliğinin nedenleri ve sonuçları hakkında bilgi vermek",
+        "B": "Sokak lambalarının tarihini anlatmak",
+        "C": "Elektrik üretimini açıklamak",
+        "D": "Reklam panolarını tanıtmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_21_24"
+    },
+    {
+      "num": 24,
+      "text": "Metindeki \"gereksiz enerji tüketimi\" ifadesi aşağıdakilerden hangisini anlatmaktadır?",
+      "options": {
+        "A": "İhtiyaçtan fazla enerji kullanılması",
+        "B": "Yenilenebilir enerji kullanımı",
+        "C": "Enerji üretiminin durması",
+        "D": "Elektrik kesintisi yaşanması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_21_24"
+    },
+    {
+      "num": 25,
+      "text": "En fazla ödünç alınan kitap türü hangisidir?",
+      "options": {
+        "A": "Bilim",
+        "B": "Roman",
+        "C": "Tarih",
+        "D": "Biyografi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_25_27"
+    },
+    {
+      "num": 26,
+      "text": "Toplam kaç kitap ödünç alınmıştır?",
+      "options": {
+        "A": "190",
+        "B": "195",
+        "C": "200",
+        "D": "205"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_25_27"
+    },
+    {
+      "num": 27,
+      "text": "Tablodaki verilere göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Bilim kitapları, tarih kitaplarından daha fazla ödünç alınmıştır.",
+        "B": "Biyografi kitapları en fazla ödünç alınmıştır.",
+        "C": "Roman ve bilim kitapları eşit sayıda ödünç alınmıştır.",
+        "D": "Tarih kitapları, romanlardan daha fazla okunmuştur."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_25_27"
+    },
+    {
+      "num": 28,
+      "text": "Bir üniversite öğrencileri topluluğu, kullanılmayan bilgisayarları onarıp ihtiyaç sahibi okullara bağışladı. Böylece birçok öğrenci bilgisayar destekli eğitim imkânına kavuştu ve elektronik atıkların yeniden değerlendirilmesi sağlandı.\nBu haberde anlatılan çalışmanın iki önemli katkısı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eğitim olanaklarını artırmak ve elektronik atıkları değerlendirmek",
+        "B": "Yeni bilgisayar satışlarını artırmak ve enerji tüketimini yükseltmek",
+        "C": "Okul sayısını azaltmak ve ulaşımı kolaylaştırmak",
+        "D": "Ders sürelerini uzatmak ve internet kullanımını sınırlandırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 29,
+      "text": "Dört arkadaş farklı sporlarla ilgilenmektedir: Basketbol, yüzme, tenis ve voleybol.\nKerem tenis oynamamaktadır.\nDuru yüzme ile ilgilenmektedir.\nEce basketbol oynamamaktadır.\nKerem, Duru ile aynı sporu yapmamaktadır.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem yüzme yapmamaktadır.",
+        "B": "Ece tenis oynamaktadır.",
+        "C": "Kerem basketbol oynamaktadır.",
+        "D": "Duru voleybol oynamaktadır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 30,
+      "text": "Aşağıdaki bilim dallarından hangisi geçmişte yaşamış canlıların taşlaşmış kalıntılarını incelemektedir?",
+      "options": {
+        "A": "Paleontoloji",
+        "B": "Meteoroloji",
+        "C": "Astronomi",
+        "D": "Oşinografi"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 31,
+      "text": "Metne göre deniz çayırlarının aşağıdaki görevlerinden hangisi metinde yer almamaktadır?",
+      "options": {
+        "A": "Deniz canlılarına yaşam alanı oluşturmak",
+        "B": "Suyun temizlenmesine katkı sağlamak",
+        "C": "Kıyıların aşınmasını azaltmak",
+        "D": "Deniz suyunun tuzluluğunu artırmak"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": "ctx_6_31_34"
+    },
+    {
+      "num": 32,
+      "text": "Deniz çayırlarının azalmasının nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilinçsiz kıyı faaliyetleri",
+        "B": "Düzenli geri dönüşüm çalışmaları",
+        "C": "Yağış miktarının artması",
+        "D": "Balıkların çoğalması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_31_34"
+    },
+    {
+      "num": 33,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Deniz çayırları yalnızca bitkiler için önemlidir.",
+        "B": "Deniz çayırlarının korunması deniz yaşamının sürdürülebilirliği açısından önemlidir.",
+        "C": "Deniz çayırları yalnızca okyanuslarda bulunur.",
+        "D": "Deniz çayırlarının doğaya katkısı yoktur."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_31_34"
+    },
+    {
+      "num": 34,
+      "text": "Metindeki \"ekosistem\" kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "Bir bölgedeki canlılar ile çevrelerinin oluşturduğu doğal sistem",
+        "B": "Sadece deniz canlılarının listesi",
+        "C": "Okyanusların derinliği",
+        "D": "Hava sıcaklığının ölçülmesi"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_31_34"
+    },
+    {
+      "num": 35,
+      "text": "En fazla toplanan atık türü hangisidir?",
+      "options": {
+        "A": "Plastik",
+        "B": "Cam",
+        "C": "Kâğıt",
+        "D": "Metal"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_35_37"
+    },
+    {
+      "num": 36,
+      "text": "Toplam kaç kilogram geri dönüştürülebilir atık toplanmıştır?",
+      "options": {
+        "A": "280",
+        "B": "290",
+        "C": "300",
+        "D": "310"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_35_37"
+    },
+    {
+      "num": 37,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Cam atığı, plastik atığından fazladır.",
+        "B": "Metal atığı en az toplanan atık türüdür.",
+        "C": "Kâğıt ve plastik atıkları eşit miktardadır.",
+        "D": "Cam atığı en fazla toplanmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_35_37"
+    },
+    {
+      "num": 38,
+      "text": "Bir ildeki ortaokul öğrencileri, okul bahçesinde kurdukları yağmur suyu toplama sistemiyle biriktirdikleri suyu bahçe sulamasında kullanmaya başladı. Proje sayesinde hem içme suyu tasarrufu sağlandı hem de öğrenciler sürdürülebilir su yönetimi konusunda uygulamalı deneyim kazandı.\nHabere göre bu projenin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yağmur suyunu değerlendirmek ve su tasarrufu bilinci oluşturmak",
+        "B": "Bahçedeki bitkileri azaltmak",
+        "C": "Okulun su kullanımını artırmak",
+        "D": "Yeni bina yapmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 39,
+      "text": "Dört arkadaş farklı yabancı dilleri öğrenmektedir: İngilizce, Almanca, Fransızca ve İspanyolca.\nDeniz İngilizce öğrenmektedir.\nAyşe Almanca öğrenmemektedir.\nKerem, Deniz ile aynı dili öğrenmemektedir.\nElif Fransızca öğrenmektedir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem İngilizce öğrenmemektedir.",
+        "B": "Ayşe İspanyolca öğrenmektedir.",
+        "C": "Kerem Almanca öğrenmektedir.",
+        "D": "Elif İngilizce öğrenmektedir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 40,
+      "text": "Aşağıdaki doğal kaynaklardan hangisi yenilenebilir enerji kaynağıdır?",
+      "options": {
+        "A": "Kömür",
+        "B": "Petrol",
+        "C": "Rüzgâr",
+        "D": "Doğal gaz"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 41,
+      "text": "Metne göre arıların doğadaki en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toprağı kazmak",
+        "B": "Bitkilerin tozlaşmasına yardımcı olmak",
+        "C": "Yağmur oluşturmak",
+        "D": "Toprak sıcaklığını artırmak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_41_44"
+    },
+    {
+      "num": 42,
+      "text": "Aşağıdakilerden hangisi arı sayısının azalmasının nedenlerinden biri olarak metinde verilmiştir?",
+      "options": {
+        "A": "Ormanların çoğalması",
+        "B": "Bilinçsiz tarım ilacı kullanımı",
+        "C": "Yağışların artması",
+        "D": "Meyve üretiminin artması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_41_44"
+    },
+    {
+      "num": 43,
+      "text": "Bu metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Arılar yalnızca bal üretir.",
+        "B": "Arılar, doğa ve tarım için vazgeçilmez canlılardır.",
+        "C": "Bütün böcekler aynı görevi yapar.",
+        "D": "Tarım yalnızca makinelerle yapılır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_41_44"
+    },
+    {
+      "num": 44,
+      "text": "Metindeki \"tozlaşma\" kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": {
+        "A": "Bitkilerin çoğalmasına yardımcı olan doğal süreç",
+        "B": "Toprağın kuruması",
+        "C": "Çiçeklerin solması",
+        "D": "Meyvelerin toplanması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_41_44"
+    },
+    {
+      "num": 45,
+      "text": "Bilim fuarında toplam kaç stant açılmıştır?",
+      "options": {
+        "A": "50",
+        "B": "52",
+        "C": "55",
+        "D": "58"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_45_46"
+    },
+    {
+      "num": 46,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Robotik stantları çevre stantlarından fazladır.",
+        "B": "Sağlık stantları en fazla sayıdadır.",
+        "C": "Çevre stantları en fazla sayıdadır.",
+        "D": "Uzay ve sağlık stantları eşittir."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_45_46"
+    },
+    {
+      "num": 47,
+      "text": "Bir ilde belediye, kullanılmayan okul bahçelerini küçük meyve bahçelerine dönüştürdü. Öğrenciler yıl boyunca ağaçların bakımını yapıyor ve hasat edilen meyveler ihtiyaç sahibi ailelere ulaştırılıyor.\nBu projenin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Öğrencilere sorumluluk bilinci kazandırmak ve toplumsal dayanışmayı desteklemek",
+        "B": "Okul binalarını küçültmek",
+        "C": "Ders saatlerini azaltmak",
+        "D": "Meyve satışını artırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 48,
+      "text": "Dört arkadaş farklı müzik aletleri çalmaktadır: Piyano, Keman, Gitar ve Flüt.\nAslı gitar çalmamaktadır.\nBerk piyano çalmaktadır.\nCeren, Berk ile aynı müzik aletini çalmamaktadır.\nDeniz flüt çalmaktadır.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Aslı piyano çalmaktadır.",
+        "B": "Berk gitar çalmamaktadır.",
+        "C": "Ceren keman çalmaktadır.",
+        "D": "Deniz piyano çalmaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 49,
+      "text": "Aşağıdaki yapılardan hangisi, dünyanın en uzun süre ayakta kalmış antik yapılarından biri olup Mısır'da bulunmaktadır?",
+      "options": {
+        "A": "Eyfel Kulesi",
+        "B": "Gize Piramitleri",
+        "C": "Kolezyum",
+        "D": "Tac Mahal"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 50,
+      "text": "Aşağıdaki spor dallarından hangisinde bir takım sahada 6 oyuncuyla mücadele eder?",
+      "options": {
+        "A": "Futbol",
+        "B": "Basketbol",
+        "C": "Voleybol",
+        "D": "Hentbol"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 51,
+      "text": "Metne göre kütüphanelerin önemini korumasının nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece roman satmaları",
+        "B": "Güvenilir bilgi kaynakları sunmaları",
+        "C": "İnterneti yasaklamaları",
+        "D": "Sadece öğretmenlerin kullanabilmesi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_51_53"
+    },
+    {
+      "num": 52,
+      "text": "Metne göre günümüz kütüphanelerinde aşağıdakilerden hangisi bulunabilir?",
+      "options": {
+        "A": "Yalnızca gazete",
+        "B": "Dijital arşivler ve elektronik kitaplar",
+        "C": "Sadece ansiklopediler",
+        "D": "Yalnızca ders kitapları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_51_53"
+    },
+    {
+      "num": 53,
+      "text": "Bu metnin vermek istediği temel mesaj aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "İnternet varken kütüphanelere ihtiyaç yoktur.",
+        "B": "Kütüphaneler güvenilir bilgiye ulaşmada önemli kurumlardır.",
+        "C": "Kitap okumak gereksizdir.",
+        "D": "Dijital kaynaklar hiçbir zaman kullanılmamalıdır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_51_53"
+    },
+    {
+      "num": 54,
+      "text": "En fazla kitap hangi sınıf tarafından okunmuştur?",
+      "options": {
+        "A": "5. sınıf",
+        "B": "6. sınıf",
+        "C": "7. sınıf",
+        "D": "8. sınıf"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": "ctx_6_54_55"
+    },
+    {
+      "num": 55,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "7. sınıf öğrencileri, 6. sınıflardan daha fazla kitap okumuştur.",
+        "B": "6. sınıflar, 5. sınıflardan daha fazla kitap okumuştur.",
+        "C": "5. ve 8. sınıflar eşit sayıda kitap okumuştur.",
+        "D": "En az kitabı 7. sınıflar okumuştur."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_54_55"
+    },
+    {
+      "num": 56,
+      "text": "Bir belediye, tarihi çeşmeleri ve köprüleri tanıtmak amacıyla öğrenciler için rehberli kültür gezileri düzenlemeye başladı. Geziler sırasında uzmanlar, yapıların tarihî özelliklerini ve korunmasının önemini anlatıyor.\nBu uygulamanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî ve kültürel mirası tanıtmak",
+        "B": "Yeni yollar yapmak",
+        "C": "Şehir nüfusunu artırmak",
+        "D": "Ulaşımı ücretli hâle getirmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 57,
+      "text": "Dört arkadaş farklı meyveleri sevmektedir: Elma, Muz, Portakal ve Çilek.\nEce elmayı sevmemektedir.\nKerem muzu sevmektedir.\nAyşe, Kerem ile aynı meyveyi sevmemektedir.\nDeniz çileği sevmektedir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem portakalı sevmektedir.",
+        "B": "Ayşe muzu sevmemektedir.",
+        "C": "Ece çileği sevmektedir.",
+        "D": "Deniz elmayı sevmektedir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 58,
+      "text": "Türkiye'nin en uzun nehri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kızılırmak",
+        "B": "Sakarya Nehri",
+        "C": "Meriç Nehri",
+        "D": "Gediz Nehri"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 59,
+      "text": "Aşağıdaki bilim insanlarından hangisi, gezegenlerin Güneş etrafındaki hareketlerini açıklayan yasalarıyla tanınmaktadır?",
+      "options": {
+        "A": "Isaac Newton",
+        "B": "Johannes Kepler",
+        "C": "Thomas Edison",
+        "D": "Alexander Graham Bell"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 60,
+      "text": "Aşağıdaki eserlerden hangisi, Türk edebiyatının önemli halk ozanlarından Âşık Veysel ile ilişkilendirilir?",
+      "options": {
+        "A": "\"İstiklâl Marşı\"",
+        "B": "\"Uzun İnce Bir Yoldayım\"",
+        "C": "\"Nutuk\"",
+        "D": "\"Safahat\""
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 61,
+      "text": "Metne göre mercan resiflerinin temel özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece okyanusların en derin noktalarında bulunmaları",
+        "B": "Pek çok deniz canlısına yaşam alanı oluşturmaları",
+        "C": "Tatlı sularda yaşamaları",
+        "D": "Yalnızca kayalardan oluşmaları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_61_63"
+    },
+    {
+      "num": 62,
+      "text": "Aşağıdakilerden hangisi metne göre mercan resiflerini tehdit eden unsurlardan biridir?",
+      "options": {
+        "A": "Ağaçlandırma çalışmaları",
+        "B": "Denizlerin ısınması",
+        "C": "Yağmur miktarının artması",
+        "D": "Güneş tutulması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_61_63"
+    },
+    {
+      "num": 63,
+      "text": "Metinden çıkarılabilecek en doğru sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Mercan resiflerinin korunması yalnızca balıkçılar için önemlidir.",
+        "B": "Mercan resifleri hem doğa hem de insanlar için değerli ekosistemlerdir.",
+        "C": "Mercan resifleri yalnızca tropikal balıklara ev sahipliği yapar.",
+        "D": "Plastik atıkların mercan resiflerine etkisi yoktur."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_61_63"
+    },
+    {
+      "num": 64,
+      "text": "En fazla ilgi gören söyleşi hangisidir?",
+      "options": {
+        "A": "Uzay Araştırmaları",
+        "B": "Yapay Zekâ",
+        "C": "Çevre Bilimi",
+        "D": "Sağlıklı Beslenme"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_64_65"
+    },
+    {
+      "num": 65,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Sağlıklı Beslenme söyleşisine katılım, Uzay Araştırmaları söyleşisinden fazladır.",
+        "B": "Çevre Bilimi söyleşisine 118 öğrenci katılmıştır.",
+        "C": "Yapay Zekâ söyleşisine katılım en yüksektir.",
+        "D": "Tüm söyleşilere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_64_65"
+    },
+    {
+      "num": 66,
+      "text": "Bir şehirde öğrenciler, kullanılmayan bisikletleri tamir ederek ihtiyaç sahibi çocuklara ulaştırdı. Proje sayesinde hem atık miktarı azaldı hem de birçok çocuk bisiklet sahibi oldu.\nHabere göre bu projenin en önemli özelliği aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çevre bilinci ile toplumsal yardımlaşmayı bir araya getirmesi",
+        "B": "Bisiklet satışlarını artırmayı hedeflemesi",
+        "C": "Yeni yollar yapılmasını sağlaması",
+        "D": "Trafik kurallarını değiştirmesi"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 67,
+      "text": "Dört öğrenci farklı gezegenler hakkında sunum hazırlamaktadır: Mars, Venüs, Satürn ve Jüpiter.\nElif, Mars hakkında sunum hazırlamaktadır.\nMert, Satürn hakkında sunum hazırlamamaktadır.\nAyşe, Elif ile aynı gezegeni seçmemiştir.\nCan, Venüs hakkında sunum hazırlamaktadır.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ayşe Mars hakkında sunum hazırlamaktadır.",
+        "B": "Can Venüs hakkında sunum hazırlamaktadır.",
+        "C": "Mert Jüpiter hakkında sunum hazırlamaktadır.",
+        "D": "Elif Satürn hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 68,
+      "text": "Aşağıdaki yapılardan hangisi, İstanbul'un fethinden sonra uzun yıllar devlet yönetim merkezi olarak kullanılan saraydır?",
+      "options": {
+        "A": "Dolmabahçe Sarayı",
+        "B": "Topkapı Sarayı",
+        "C": "Beylerbeyi Sarayı",
+        "D": "Yıldız Sarayı"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 69,
+      "text": "Aşağıdaki ülkelerden hangisi hem Avrupa hem de Asya kıtalarında toprağa sahiptir?",
+      "options": {
+        "A": "İspanya",
+        "B": "Mısır",
+        "C": "Türkiye",
+        "D": "Japonya"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 70,
+      "text": "Aşağıdaki bilim insanlarından hangisi, geliştirdiği aşılarla milyonlarca insanın yaşamını etkileyen çalışmalarıyla tanınan bir Türk bilim insanıdır?",
+      "options": {
+        "A": "Aziz Sancar",
+        "B": "Uğur Şahin",
+        "C": "Cahit Arf",
+        "D": "Feza Gürsey"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 71,
+      "text": "Metne göre aşağıdakilerden hangisi yapay zekânın kullanım alanlarından biridir?",
+      "options": {
+        "A": "Yalnızca fabrika üretimi",
+        "B": "Sesli asistanlar ve çeviri uygulamaları",
+        "C": "Sadece uzay araştırmaları",
+        "D": "Yalnızca bilgisayar oyunları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_71_73"
+    },
+    {
+      "num": 72,
+      "text": "Metne göre dijital okuryazarlığın önemli özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Her bilgiyi sorgulamadan kabul etmek",
+        "B": "Kişisel bilgileri herkesle paylaşmak",
+        "C": "Bilgilerin doğruluğunu araştırmak",
+        "D": "Güçlü şifre kullanmamak"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_71_73"
+    },
+    {
+      "num": 73,
+      "text": "Bu metnin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yapay zekânın yalnızca zararlarını anlatmak",
+        "B": "Yapay zekânın kullanım alanları ve bilinçli teknoloji kullanımı hakkında bilgi vermek",
+        "C": "Bilgisayarların tarihini anlatmak",
+        "D": "İnterneti kullanmayı yasaklamak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_71_73"
+    },
+    {
+      "num": 74,
+      "text": "En fazla öğrenci hangi kulübe katılmıştır?",
+      "options": {
+        "A": "Robotik",
+        "B": "Resim",
+        "C": "Müzik",
+        "D": "Satranç"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": "ctx_6_74_75"
+    },
+    {
+      "num": 75,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Resim kulübüne katılım, robotik kulübünden fazladır.",
+        "B": "Satranç kulübüne katılım en yüksektir.",
+        "C": "Müzik ve satranç kulüplerine eşit sayıda öğrenci katılmıştır.",
+        "D": "Robotik kulübü en az öğrencinin katıldığı kulüptür."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_74_75"
+    },
+    {
+      "num": 76,
+      "text": "Bir ilde öğrenciler, yaşlı bireylere akıllı telefon kullanımı konusunda gönüllü eğitim verdi. Eğitimlerde güvenli internet kullanımı, görüntülü görüşme ve e-Devlet hizmetlerine erişim gibi konular anlatıldı.\nBu projenin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Teknolojiyi güvenli kullanmayı öğretmek ve dijital katılımı artırmak",
+        "B": "Telefon satışlarını artırmak",
+        "C": "İnternet kullanımını yasaklamak",
+        "D": "Yeni telefon üretmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 77,
+      "text": "Dört öğrenci farklı şehirleri araştırmaktadır: Ankara, İzmir, Bursa ve Antalya.\nAli, Ankara'yı araştırmaktadır.\nZeynep, Bursa'yı araştırmamaktadır.\nMehmet, Ali ile aynı şehri araştırmamaktadır.\nElif, Antalya'yı araştırmaktadır.\nAşağıdakilerden hangisi kesin olarak doğrudur?",
+      "options": {
+        "A": "Mehmet Ankara'yı araştırmaktadır.",
+        "B": "Zeynep Antalya'yı araştırmaktadır.",
+        "C": "Mehmet Ankara'yı araştırmamaktadır.",
+        "D": "Elif Bursa'yı araştırmaktadır."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 78,
+      "text": "Aşağıdaki denizlerden hangisinin Türkiye'ye kıyısı yoktur?",
+      "options": {
+        "A": "Karadeniz",
+        "B": "Akdeniz",
+        "C": "Ege Denizi",
+        "D": "Hazar Denizi"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 79,
+      "text": "Aşağıdaki müzik aletlerinden hangisi üflemeli çalgılar grubunda yer alır?",
+      "options": {
+        "A": "Keman",
+        "B": "Piyano",
+        "C": "Flüt",
+        "D": "Gitar"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 80,
+      "text": "Aşağıdaki uluslararası kuruluşlardan hangisinin temel amaçlarından biri çocukların sağlık, eğitim ve temel haklarını desteklemektir?",
+      "options": {
+        "A": "UNICEF",
+        "B": "UNESCO",
+        "C": "NATO",
+        "D": "INTERPOL"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 81,
+      "text": "Metne göre sulak alanların insanlara sağladığı yararlardan biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deprem oluşumunu engellemek",
+        "B": "Taşkın riskini azaltmaya yardımcı olmak",
+        "C": "Denizlerin tuzluluk oranını artırmak",
+        "D": "Hava sıcaklığını yükseltmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_81_83"
+    },
+    {
+      "num": 82,
+      "text": "Sulak alanların zarar görmesinin nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilinçsiz su kullanımı",
+        "B": "Ağaçlandırma çalışmaları",
+        "C": "Kuş göçleri",
+        "D": "Yağışların artması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_81_83"
+    },
+    {
+      "num": 83,
+      "text": "Bu metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sulak alanlar yalnızca kuşlar için önemlidir.",
+        "B": "Sulak alanların korunması hem insanlar hem de diğer canlılar için gereklidir.",
+        "C": "Bütün göller sulak alan değildir.",
+        "D": "Sulak alanlarda yalnızca balıklar yaşar."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_81_83"
+    },
+    {
+      "num": 84,
+      "text": "En fazla katılım hangi etkinliğe olmuştur?",
+      "options": {
+        "A": "Kitap Bağışı",
+        "B": "Fidan Dikimi",
+        "C": "Geri Dönüşüm Kampanyası",
+        "D": "Sokak Hayvanlarına Destek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_84_85"
+    },
+    {
+      "num": 85,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Geri Dönüşüm Kampanyası'na katılım, Kitap Bağışı'ndan fazladır.",
+        "B": "Sokak Hayvanlarına Destek etkinliği en fazla katılım almıştır.",
+        "C": "Kitap Bağışı ile Fidan Dikimi'ne eşit sayıda öğrenci katılmıştır.",
+        "D": "En az katılım Geri Dönüşüm Kampanyası'na olmuştur."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_84_85"
+    },
+    {
+      "num": 86,
+      "text": "Bir grup ortaokul öğrencisi, yaşadıkları ilçedeki tarihî çeşmelerin yerlerini harita üzerinde işaretleyerek dijital bir gezi rotası hazırladı. Hazırlanan çalışma, turistlerin ve vatandaşların ücretsiz kullanımına sunuldu.\nBu haberde öğrencilerin yaptığı çalışmanın en önemli katkısı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî mirası tanıtmak ve teknolojiden yararlanmak",
+        "B": "Yeni yollar yapmak",
+        "C": "Turist sayısını azaltmak",
+        "D": "Tarihî eserleri taşımak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 87,
+      "text": "Dört öğrenci farklı bilim dallarını seçmiştir: Astronomi, Biyoloji, Kimya ve Jeoloji.\nEfe, Astronomi ile ilgilenmektedir.\nDuru, Kimya ile ilgilenmemektedir.\nKerem, Efe ile aynı alanı seçmemiştir.\nZeynep, Jeoloji ile ilgilenmektedir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem Astronomi ile ilgilenmektedir.",
+        "B": "Zeynep Jeoloji ile ilgilenmektedir.",
+        "C": "Duru Biyoloji ile ilgilenmektedir.",
+        "D": "Efe Kimya ile ilgilenmektedir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 88,
+      "text": "Aşağıdaki şehirlerden hangisi Kapadokya bölgesiyle ünlüdür?",
+      "options": {
+        "A": "Konya",
+        "B": "Nevşehir",
+        "C": "Edirne",
+        "D": "Trabzon"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 89,
+      "text": "Aşağıdaki gezegenlerden hangisi Güneş Sistemi'ndeki en büyük gezegendir?",
+      "options": {
+        "A": "Mars",
+        "B": "Venüs",
+        "C": "Jüpiter",
+        "D": "Merkür"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 90,
+      "text": "Aşağıdaki Türk bilim insanlarından hangisi, 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır?",
+      "options": {
+        "A": "Aziz Sancar",
+        "B": "Uğur Şahin",
+        "C": "Cahit Arf",
+        "D": "Gazi Yaşargil"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 91,
+      "text": "Metne göre tohum bankalarının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Daha fazla meyve satmak",
+        "B": "Bitki türlerini ve biyolojik çeşitliliği korumak",
+        "C": "Yeni şehirler kurmak",
+        "D": "Ormanları kesmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_91_93"
+    },
+    {
+      "num": 92,
+      "text": "Aşağıdakilerden hangisi metinde tohum bankalarının kurulma nedenlerinden biri olarak verilmiştir?",
+      "options": {
+        "A": "İklim değişikliği",
+        "B": "Turizmi geliştirmek",
+        "C": "Yol yapımını hızlandırmak",
+        "D": "Deniz taşımacılığını artırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_91_93"
+    },
+    {
+      "num": 93,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Tohum bankaları yalnızca çiftçiler için önemlidir.",
+        "B": "Tohum bankaları gelecekte yaşanabilecek gıda sorunlarına karşı hazırlık yapılmasını sağlar.",
+        "C": "Tohumlar yalnızca bir yıl saklanabilir.",
+        "D": "Bütün ülkelerde aynı bitkiler yetişir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_91_93"
+    },
+    {
+      "num": 94,
+      "text": "En fazla katılım hangi etkinlikte gerçekleşmiştir?",
+      "options": {
+        "A": "Tiyatro",
+        "B": "Bilim Şenliği",
+        "C": "Kitap Fuarı",
+        "D": "Satranç Turnuvası"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_94_95"
+    },
+    {
+      "num": 95,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Satranç Turnuvası, Tiyatro etkinliğinden daha fazla katılım almıştır.",
+        "B": "Bilim Şenliği'ne katılım, Tiyatro etkinliğinden fazladır.",
+        "C": "Kitap Fuarı en az katılım alan etkinliktir.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_94_95"
+    },
+    {
+      "num": 96,
+      "text": "Bir okulda öğrenciler, kullanılmayan plastik kapakları toplayarak geri dönüşüme gönderdi. Elde edilen gelirle ihtiyaç sahibi öğrenciler için kırtasiye malzemeleri satın alındı.\nBu projeyle aşağıdaki amaçlardan hangisine birlikte ulaşılmıştır?",
+      "options": {
+        "A": "Çevreyi koruma ve sosyal dayanışma",
+        "B": "Trafiği azaltma ve enerji üretme",
+        "C": "Yeni okul yapma ve sporu geliştirme",
+        "D": "Turizmi canlandırma ve ihracatı artırma"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 97,
+      "text": "Dört öğrenci farklı spor dallarında yarışacaktır: Yüzme, Okçuluk, Atletizm ve Masa Tenisi.\nZeynep atletizmde yarışacaktır.\nEmre yüzmede yarışmayacaktır.\nMert, Zeynep ile aynı branşta değildir.\nElif okçulukta yarışacaktır.\n\n\n\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Elif okçulukta yarışacaktır.",
+        "B": "Emre atletizmdedir.",
+        "C": "Mert yüzmededir.",
+        "D": "Zeynep masa tenisindedir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 98,
+      "text": "Aşağıdaki millî parklardan hangisi, travertenleriyle ünlü Pamukkale yakınında yer alır?",
+      "options": {
+        "A": "Uludağ Millî Parkı",
+        "B": "Honaz Dağı Millî Parkı",
+        "C": "Yedigöller Millî Parkı",
+        "D": "Kuşcenneti Millî Parkı"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 99,
+      "text": "Aşağıdaki sanat dallarından hangisi boya kullanılarak yapılan görsel sanatlar arasında yer alır?",
+      "options": {
+        "A": "Heykel",
+        "B": "Tiyatro",
+        "C": "Resim",
+        "D": "Bale"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 100,
+      "text": "Modern Olimpiyat Oyunları dört yılda bir düzenlenmektedir. Olimpiyatların temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Ülkeler arasında spor yoluyla dostluğu ve barışı geliştirmek",
+        "B": "Yalnızca profesyonel futbolu geliştirmek",
+        "C": "Yeni spor dallarını yasaklamak",
+        "D": "Sporcuların sadece bireysel başarılarını ödüllendirmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 101,
+      "text": "Metne göre günümüz kütüphanelerinin en önemli özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece roman bulundurmaları",
+        "B": "Dijital kaynaklara da yer vermeleri",
+        "C": "Sadece öğretmenlerin kullanabilmesi",
+        "D": "Kitap satış merkezi olmaları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_101_103"
+    },
+    {
+      "num": 102,
+      "text": "Metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Kütüphaneler yalnızca geçmişte önemliydi.",
+        "B": "Kütüphaneler kültürel mirasın korunmasına katkı sağlar.",
+        "C": "Dijital kaynaklar kitapların yerini tamamen almıştır.",
+        "D": "Araştırmalar yalnızca internetten yapılmaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_101_103"
+    },
+    {
+      "num": 103,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Eski gazeteler okunmamalıdır.",
+        "B": "Kütüphaneler bilgiye ulaşmada ve kültürel mirası korumada önemli kurumlardır.",
+        "C": "Haritalar gereksiz bilgi kaynaklarıdır.",
+        "D": "Dijital kaynaklar kullanılmamalıdır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_101_103"
+    },
+    {
+      "num": 104,
+      "text": "En fazla katılım hangi etkinliktedir?",
+      "options": {
+        "A": "Gök Gözlemi",
+        "B": "Kodlama",
+        "C": "Deney Atölyesi",
+        "D": "Matematik Oyunları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_104_105"
+    },
+    {
+      "num": 105,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Deney Atölyesi'ne katılım, Matematik Oyunları'ndan fazladır.",
+        "B": "Gök Gözlemi en fazla katılım alan etkinliktir.",
+        "C": "Kodlama ile Deney Atölyesi eşit katılım almıştır.",
+        "D": "Matematik Oyunları en az katılım alan etkinliktir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_104_105"
+    },
+    {
+      "num": 106,
+      "text": "Bir grup öğrenci, yaşadıkları ilçedeki tarihî yapıların geçmişini araştırarak kısa tanıtım videoları hazırladı. Videolar, belediyenin internet sitesinde yayımlandı ve ziyaretçilerin kullanımına açıldı.\nBu çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî ve kültürel mirası tanıtmak",
+        "B": "Yeni binalar inşa etmek",
+        "C": "İnternet kullanımını azaltmak",
+        "D": "Turist girişini sınırlandırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 107,
+      "text": "Dört öğrenci farklı müzeleri ziyaret etmiştir: Arkeoloji, Bilim, Oyuncak, Resim.\nAyşe, Bilim Müzesi'ne gitmiştir.\nBerk, Arkeoloji Müzesi'ne gitmemiştir.\nCeren, Ayşe ile aynı müzeye gitmemiştir.\nDeniz, Oyuncak Müzesi'ni ziyaret etmiştir.\n\n\n\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Berk Bilim Müzesi'ne gitmiştir.",
+        "B": "Deniz Oyuncak Müzesi'ni ziyaret etmiştir.",
+        "C": "Ceren Resim Müzesi'ne gitmiştir.",
+        "D": "Ayşe Arkeoloji Müzesi'ne gitmiştir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 108,
+      "text": "Türkiye'de 23 Nisan günü hangi bayram kutlanır?",
+      "options": {
+        "A": "Zafer Bayramı",
+        "B": "Ulusal Egemenlik ve Çocuk Bayramı",
+        "C": "Cumhuriyet Bayramı",
+        "D": "Gençlik ve Spor Bayramı"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 109,
+      "text": "Aşağıdaki gezginlerden hangisi, Anadolu'yu ve birçok ülkeyi gezerek yazdığı seyahatnamesiyle tanınır?",
+      "options": {
+        "A": "Piri Reis",
+        "B": "Evliya Çelebi",
+        "C": "Mimar Sinan",
+        "D": "Katip Çelebi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 110,
+      "text": "Aşağıdaki elementlerden hangisi, canlıların solunum yapabilmesi için gerekli olan gazın yapısında bulunur?",
+      "options": {
+        "A": "Altın",
+        "B": "Demir",
+        "C": "Oksijen",
+        "D": "Gümüş"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 111,
+      "text": "Metne göre bambunun birçok alanda kullanılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çok pahalı olması",
+        "B": "Dayanıklı bir yapıya sahip olması",
+        "C": "Sadece Asya'da yetişmesi",
+        "D": "Meyve vermesi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_111_113"
+    },
+    {
+      "num": 112,
+      "text": "Metne göre bambunun çevre dostu kabul edilmesinin nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çok su tüketmesi",
+        "B": "Kesildikten sonra yeniden büyüyebilmesi",
+        "C": "Yavaş büyümesi",
+        "D": "Sadece ormanlarda bulunması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_111_113"
+    },
+    {
+      "num": 113,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Bambu yalnızca süs bitkisi olarak kullanılır.",
+        "B": "Bambu hem ekonomik hem de çevresel açıdan değerli bir bitkidir.",
+        "C": "Bambu bütün ülkelerde aynı miktarda yetişir.",
+        "D": "Bambu, diğer bitkilerin büyümesini engeller."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_111_113"
+    },
+    {
+      "num": 114,
+      "text": "En çok okunan kitap türü hangisidir?",
+      "options": {
+        "A": "Tarih",
+        "B": "Bilim",
+        "C": "Roman",
+        "D": "Biyografi"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_114_115"
+    },
+    {
+      "num": 115,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Biyografi kitapları, tarih kitaplarından daha fazla okunmuştur.",
+        "B": "Bilim kitapları, romanlardan daha fazla okunmuştur.",
+        "C": "Roman kitapları en fazla okunmuştur.",
+        "D": "Tarih ve biyografi kitapları eşit sayıda okunmuştur."
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_114_115"
+    },
+    {
+      "num": 116,
+      "text": "Bir ilde öğrenciler, kullanılmayan oyuncakları tamir ederek anaokullarına bağışladı. Proje sayesinde hem israfın önüne geçildi hem de birçok çocuk yeni oyuncaklara kavuştu.\nHabere göre bu projenin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Geri dönüşümü ve paylaşma kültürünü desteklemek",
+        "B": "Oyuncak satışlarını artırmak",
+        "C": "Yeni fabrika açmak",
+        "D": "Oyuncak üretimini durdurmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 117,
+      "text": "Dört öğrenci farklı sporcular hakkında sunum hazırlamaktadır: Bir atlet, bir yüzücü, bir tenisçi ve bir okçu.\nEce, yüzücü hakkında sunum hazırlamamaktadır.\nMert, atlet hakkında sunum hazırlamaktadır.\nDeniz, tenisçi hakkında sunum hazırlamaktadır.\nAyşe, Mert ile aynı sporcuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Mert atlet hakkında sunum hazırlamaktadır.",
+        "B": "Ayşe yüzücü hakkında sunum hazırlamaktadır.",
+        "C": "Ece okçu hakkında sunum hazırlamaktadır.",
+        "D": "Deniz atlet hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 118,
+      "text": "Aşağıdaki şehirlerden hangisi Anıtkabir'e ev sahipliği yapmaktadır?",
+      "options": {
+        "A": "İstanbul",
+        "B": "İzmir",
+        "C": "Ankara",
+        "D": "Bursa"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 119,
+      "text": "Aşağıdaki bilim insanlarından hangisi, Dünya'nın Güneş etrafında döndüğünü savunan görüşüyle tanınmaktadır?",
+      "options": {
+        "A": "Galileo Galilei",
+        "B": "Nikola Tesla",
+        "C": "Louis Pasteur",
+        "D": "Thomas Edison"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 120,
+      "text": "Aşağıdaki uluslararası organizasyonlardan hangisi, dört yılda bir düzenlenen ve farklı ülkelerden sporcuları bir araya getiren büyük spor organizasyonudur?",
+      "options": {
+        "A": "FIFA World Cup",
+        "B": "Olympic Games",
+        "C": "Tour de France",
+        "D": "Wimbledon Championships"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 121,
+      "text": "Metne göre rüzgâr enerjisinin en önemli özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kömür kullanılarak üretilmesi",
+        "B": "Yenilenebilir bir enerji kaynağı olması",
+        "C": "Yalnızca yaz aylarında kullanılabilmesi",
+        "D": "Petrol üretimini artırması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_121_123"
+    },
+    {
+      "num": 122,
+      "text": "Rüzgâr santralleri kurulurken aşağıdakilerden hangisine dikkat edilmesi gerektiği metinde belirtilmiştir?",
+      "options": {
+        "A": "Deniz suyunun sıcaklığına",
+        "B": "Kuş göç yollarına ve doğal yaşama",
+        "C": "Şehir nüfusunun artmasına",
+        "D": "Tarım ürünlerinin fiyatına"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_121_123"
+    },
+    {
+      "num": 123,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Rüzgâr enerjisi plansız kullanılmalıdır.",
+        "B": "Yenilenebilir enerji kaynakları doğru planlandığında çevreye önemli katkılar sağlar.",
+        "C": "Rüzgâr türbinleri yalnızca dağlarda kurulabilir.",
+        "D": "Enerji üretimi çevreyi etkilemez."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_121_123"
+    },
+    {
+      "num": 124,
+      "text": "En fazla proje hangi alanda hazırlanmıştır?",
+      "options": {
+        "A": "Sağlık",
+        "B": "Uzay",
+        "C": "Robotik",
+        "D": "Çevre"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_124_125"
+    },
+    {
+      "num": 125,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Uzay projeleri çevre projelerinden fazladır.",
+        "B": "Robotik alanında en fazla proje hazırlanmıştır.",
+        "C": "Sağlık projeleri en az sayıdadır.",
+        "D": "Çevre ve uzay projeleri eşittir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_124_125"
+    },
+    {
+      "num": 126,
+      "text": "Bir belediye, okul çevrelerine \"Kitap Durakları\" yerleştirdi. Öğrenciler bu dolaplardan ücretsiz kitap alabiliyor, okudukları kitapları tekrar yerine bırakabiliyor veya farklı kitaplarla değiştirebiliyor.\nBu uygulamanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kitap okuma alışkanlığını yaygınlaştırmak",
+        "B": "Kitap satışlarını artırmak",
+        "C": "Okul sayılarını artırmak",
+        "D": "Ders sürelerini uzatmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 127,
+      "text": "Dört arkadaş farklı kıtalar hakkında sunum hazırlamaktadır: Asya, Avrupa, Afrika, Güney Amerika.\nElif, Asya hakkında sunum hazırlamaktadır.\nBerk, Avrupa hakkında sunum hazırlamamaktadır.\nDeniz, Güney Amerika hakkında sunum hazırlamaktadır.\nAyşe, Elif ile aynı kıtayı seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Berk Asya hakkında sunum hazırlamaktadır.",
+        "B": "Ayşe Asya hakkında sunum hazırlamamaktadır.",
+        "C": "Deniz Afrika hakkında sunum hazırlamaktadır.",
+        "D": "Elif Avrupa hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 128,
+      "text": "Türkiye'nin yüzölçümü bakımından en büyük gölü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Beyşehir Gölü",
+        "B": "Van Gölü",
+        "C": "Tuz Gölü",
+        "D": "Eğirdir Gölü"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 129,
+      "text": "Aşağıdaki mucitlerden hangisi telefonu geliştiren kişi olarak tanınmaktadır?",
+      "options": {
+        "A": "Nikola Tesla",
+        "B": "Alexander Graham Bell",
+        "C": "Thomas Edison",
+        "D": "James Watt"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 130,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'nin başkentidir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "İzmir",
+        "C": "Ankara",
+        "D": "Bursa"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 131,
+      "text": "Metne göre deniz çayırlarının deniz canlıları için önemi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deniz suyunu tuzlu hâle getirmesi",
+        "B": "Canlılara yaşam ve korunma alanı sağlaması",
+        "C": "Gemilerin daha hızlı ilerlemesini sağlaması",
+        "D": "Balıkların göç etmesini engellemesi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_131_133"
+    },
+    {
+      "num": 132,
+      "text": "Deniz çayırlarının azalmasının nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilinçsiz kıyı kullanımı",
+        "B": "Yağmurun yağması",
+        "C": "Rüzgârın esmesi",
+        "D": "Gelgit olayları"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_131_133"
+    },
+    {
+      "num": 133,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deniz çayırları korunması gereken önemli doğal alanlardır.",
+        "B": "Deniz çayırları yalnızca balıkçılar için önemlidir.",
+        "C": "Deniz çayırlarının ekonomik değeri yoktur.",
+        "D": "Deniz çayırları yalnızca yaz aylarında gelişir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_131_133"
+    },
+    {
+      "num": 134,
+      "text": "En fazla katılım hangi etkinliğe olmuştur?",
+      "options": {
+        "A": "Robot Yarışması",
+        "B": "Kodlama Atölyesi",
+        "C": "Astronomi Söyleşisi",
+        "D": "3 Boyutlu Tasarım"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_134_135"
+    },
+    {
+      "num": 135,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Astronomi Söyleşisi en fazla katılım alan etkinliktir.",
+        "B": "3 Boyutlu Tasarım etkinliğine katılım, Robot Yarışması'ndan fazladır.",
+        "C": "Robot Yarışması en az katılım alan etkinliktir.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_134_135"
+    },
+    {
+      "num": 136,
+      "text": "Bir okulda öğrenciler, eski gazeteleri ve dergileri kullanarak geri dönüşümden sanat eserleri oluşturdu. Hazırlanan çalışmalar okul bahçesinde sergilendi ve elde edilen gelir bir kütüphaneye bağışlandı.\nBu projeyle aşağıdakilerden hangisi birlikte gerçekleştirilmiştir?",
+      "options": {
+        "A": "Çevre bilinci oluşturma ve sosyal dayanışmayı destekleme",
+        "B": "Gazete satışlarını artırma",
+        "C": "Kâğıt tüketimini artırma",
+        "D": "Okul ders saatlerini uzatma"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 137,
+      "text": "Dört arkadaş farklı tarihî yapıları araştırmaktadır: Kale, Köprü, Cami, Kervansaray.\nAhmet köprüyü araştırmamaktadır.\nElif kaleyi araştırmaktadır.\nMert camiyi araştırmaktadır.\nZeynep, Elif ile aynı yapıyı araştırmamaktadır.\nAşağıdakilerden hangisi kesin olarak doğrudur?",
+      "options": {
+        "A": "Ahmet köprüyü araştırmaktadır.",
+        "B": "Elif kaleyi araştırmaktadır.",
+        "C": "Zeynep kervansarayı araştırmaktadır.",
+        "D": "Mert köprüyü araştırmaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 138,
+      "text": "Aşağıdaki Türk denizcilerinden hangisi hazırladığı ayrıntılı dünya haritasıyla tanınmaktadır?",
+      "options": {
+        "A": "Barbaros Hayreddin Paşa",
+        "B": "Piri Reis",
+        "C": "Seydi Ali Reis",
+        "D": "Turgut Reis"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 139,
+      "text": "Aşağıdaki gezegenlerden hangisi \"Kızıl Gezegen\" olarak bilinir?",
+      "options": {
+        "A": "Venüs",
+        "B": "Mars",
+        "C": "Satürn",
+        "D": "Neptün"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 140,
+      "text": "Aşağıdaki yapılardan hangisi, dünyanın yedi harikasından biri olarak kabul edilen antik bir yapıdır?",
+      "options": {
+        "A": "Eyfel Kulesi",
+        "B": "Keops Piramidi",
+        "C": "Galata Kulesi",
+        "D": "Kız Kulesi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 141,
+      "text": "Metne göre arıların en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toprağın verimini artırmak",
+        "B": "Bitkilerin tozlaşmasına yardımcı olmak",
+        "C": "Yağış miktarını artırmak",
+        "D": "Orman yangınlarını önlemek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_141_143"
+    },
+    {
+      "num": 142,
+      "text": "Aşağıdakilerden hangisi metinde arıların azalmasının nedenlerinden biri olarak verilmiştir?",
+      "options": {
+        "A": "Bilinçsiz tarım ilacı kullanımı",
+        "B": "Meyve üretiminin artması",
+        "C": "Yağışların çoğalması",
+        "D": "Deniz seviyesinin yükselmesi"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_141_143"
+    },
+    {
+      "num": 143,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Arılar yalnızca bal üretmek için önemlidir.",
+        "B": "Arılar doğal yaşamın ve tarımsal üretimin devamı için vazgeçilmezdir.",
+        "C": "Arılar sadece ilkbaharda çalışır.",
+        "D": "Bütün böcekler aynı görevi yapar."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_141_143"
+    },
+    {
+      "num": 144,
+      "text": "En fazla öğrencinin katıldığı etkinlik hangisidir?",
+      "options": {
+        "A": "Robotik",
+        "B": "Satranç",
+        "C": "Astronomi",
+        "D": "Kodlama"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": "ctx_6_144_145"
+    },
+    {
+      "num": 145,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Astronomi etkinliğine katılım, Robotik etkinliğinden fazladır.",
+        "B": "Satranç en fazla katılım alan etkinliktir.",
+        "C": "Robotik ile Kodlama etkinliklerine eşit sayıda öğrenci katılmıştır.",
+        "D": "Astronomi en az katılım alan etkinliktir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_144_145"
+    },
+    {
+      "num": 146,
+      "text": "Bir ilçe belediyesi, vatandaşların tarihî eserler hakkında bilgi edinebilmesi için önemli yapıların önüne QR kodlu bilgilendirme panoları yerleştirdi. Telefonuyla kodu okutan ziyaretçiler, yapının tarihçesine ve görsellerine ulaşabiliyor.\nBu uygulamanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî eserleri teknoloji yardımıyla daha erişilebilir hâle getirmek",
+        "B": "Telefon satışlarını artırmak",
+        "C": "İnternet kullanımını azaltmak",
+        "D": "Yeni tarihî eserler inşa etmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 147,
+      "text": "Dört öğrenci farklı doğal afetler hakkında sunum hazırlamaktadır: Deprem, Sel, Heyelan, Çığ.\nEce deprem konusunda sunum hazırlamaktadır.\nAli sel konusunda sunum hazırlamamaktadır.\nDeniz çığ konusunda sunum hazırlamaktadır.\nZeynep, Ece ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ali deprem konusunda sunum hazırlamaktadır.",
+        "B": "Deniz çığ konusunda sunum hazırlamaktadır.",
+        "C": "Zeynep deprem konusunda sunum hazırlamaktadır.",
+        "D": "Ali heyelan konusunda sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 148,
+      "text": "Aşağıdaki yapılardan hangisi UNESCO Dünya Mirası Listesi'nde yer alan tarihî bir Türk yapısıdır?",
+      "options": {
+        "A": "Divriği Ulu Camii ve Darüşşifası",
+        "B": "Modern bir alışveriş merkezi",
+        "C": "Bir futbol stadyumu",
+        "D": "Bir otoyol köprüsü"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 149,
+      "text": "Aşağıdaki ülkelerden hangisinin başkenti Tokyo'dur?",
+      "options": {
+        "A": "Çin",
+        "B": "Japonya",
+        "C": "Güney Kore",
+        "D": "Tayland"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 150,
+      "text": "Aşağıdaki sporlardan hangisi bireysel bir spor dalıdır?",
+      "options": {
+        "A": "Futbol",
+        "B": "Voleybol",
+        "C": "Basketbol",
+        "D": "Yüzme"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 151,
+      "text": "Metne göre uzay teleskoplarının geliştirilme amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dünya'nın dönüş hızını artırmak",
+        "B": "Uzaydaki gök cisimlerini daha ayrıntılı incelemek",
+        "C": "Uçakların daha hızlı uçmasını sağlamak",
+        "D": "Denizlerin derinliğini ölçmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_151_153"
+    },
+    {
+      "num": 152,
+      "text": "Uzay teleskoplarının Dünya'daki teleskoplara göre önemli avantajı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Daha küçük olmaları",
+        "B": "Atmosferden etkilenmeden gözlem yapabilmeleri",
+        "C": "Elektrik kullanmamaları",
+        "D": "Yalnızca gündüz çalışmaları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_151_153"
+    },
+    {
+      "num": 153,
+      "text": "Metinden çıkarılabilecek en uygun sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Uzay araştırmaları bilimsel gelişmelere katkı sağlar.",
+        "B": "Dünya'daki teleskoplar artık kullanılmamaktadır.",
+        "C": "Uzay teleskopları yalnızca Ay'ı inceler.",
+        "D": "Uzay araştırmaları sona ermiştir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_151_153"
+    },
+    {
+      "num": 154,
+      "text": "En fazla katılım hangi etkinliğe olmuştur?",
+      "options": {
+        "A": "Kuş Gözlemi",
+        "B": "Fidan Dikimi",
+        "C": "Doğa Yürüyüşü",
+        "D": "Geri Dönüşüm Atölyesi"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_154_155"
+    },
+    {
+      "num": 155,
+      "text": "Tabloya göre aşağıdaki yorumlardan hangisi doğrudur?",
+      "options": {
+        "A": "Geri Dönüşüm Atölyesi'ne katılım, Fidan Dikimi'nden fazladır.",
+        "B": "Doğa Yürüyüşü en fazla katılım alan etkinliktir.",
+        "C": "Kuş Gözlemi'ne katılım en fazladır.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_154_155"
+    },
+    {
+      "num": 156,
+      "text": "Bir okulun öğrencileri, yaşadıkları bölgedeki yaşlı ağaçları kayıt altına alarak her ağacın türünü, yaklaşık yaşını ve bulunduğu konumu gösteren dijital bir harita hazırladı. Çalışma, çevre koruma kuruluşlarıyla da paylaşıldı.\nBu haberde öğrencilerin yaptığı çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğal varlıkları kayıt altına alıp korunmasına katkı sağlamak",
+        "B": "Yeni bina yapılacak alanları belirlemek",
+        "C": "Ağaç kesimini artırmak",
+        "D": "Şehir nüfusunu artırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 157,
+      "text": "Dört öğrenci farklı icatlar hakkında sunum hazırlıyor: Matbaa, Pusula, Tekerlek, Teleskop.\nZeynep teleskop hakkında sunum hazırlamaktadır.\nAli matbaa hakkında sunum hazırlamamaktadır.\nMerve pusula hakkında sunum hazırlamaktadır.\nEmre, Zeynep ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Emre teleskop hakkında sunum hazırlamaktadır.",
+        "B": "Merve pusula hakkında sunum hazırlamaktadır.",
+        "C": "Ali tekerlek hakkında sunum hazırlamaktadır.",
+        "D": "Zeynep matbaa hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 158,
+      "text": "Aşağıdaki Türk devletlerinden hangisi, Fatih Sultan Mehmet döneminde İstanbul'un Fethi ile yeni bir döneme girmiştir?",
+      "options": {
+        "A": "Osmanlı Devleti",
+        "B": "Büyük Selçuklu Devleti",
+        "C": "Türkiye Selçuklu Devleti",
+        "D": "Hun Devleti"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 159,
+      "text": "Aşağıdaki elementlerden hangisi, elektrik kablolarında yaygın olarak kullanılan iyi bir iletkendir?",
+      "options": {
+        "A": "Altın",
+        "B": "Bakır",
+        "C": "Kükürt",
+        "D": "Karbon"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 160,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'de fındık üretimiyle öne çıkmaktadır?",
+      "options": {
+        "A": "Ordu",
+        "B": "Konya",
+        "C": "Kars",
+        "D": "Edirne"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 161,
+      "text": "Metne göre yağmur suyu hasadının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deniz seviyesini yükseltmek",
+        "B": "Su kaynaklarını daha verimli kullanmak",
+        "C": "Yağış miktarını artırmak",
+        "D": "Elektrik üretmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_161_163"
+    },
+    {
+      "num": 162,
+      "text": "Metne göre toplanan yağmur suları aşağıdaki alanlardan hangisinde kullanılabilir?",
+      "options": {
+        "A": "Bahçe sulamada",
+        "B": "İçme suyu olarak doğrudan tüketimde",
+        "C": "Deniz taşımacılığında",
+        "D": "Uçak yakıtı üretiminde"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_161_163"
+    },
+    {
+      "num": 163,
+      "text": "Metinden çıkarılabilecek en doğru sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yağmur suyu hasadı bütün su sorunlarını tamamen çözer.",
+        "B": "Yağmur suyu hasadı, su tasarrufuna katkı sağlayan uygulamalardan biridir.",
+        "C": "Yağmur suyu yalnızca tarımda kullanılabilir.",
+        "D": "Bu sistem yalnızca köylerde uygulanabilir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_161_163"
+    },
+    {
+      "num": 164,
+      "text": "En fazla katılım hangi etkinliktedir?",
+      "options": {
+        "A": "Resim Sergisi",
+        "B": "Halk Oyunları",
+        "C": "Şiir Dinletisi",
+        "D": "Koro Konseri"
+      },
+      "correctAnswer": "D",
+      "didYouKnow": "",
+      "contextId": "ctx_6_164_165"
+    },
+    {
+      "num": 165,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Halk Oyunları en fazla katılım alan etkinliktir.",
+        "B": "Resim Sergisi'ne katılım, Şiir Dinletisi'nden fazladır.",
+        "C": "Şiir Dinletisi en az katılım alan etkinliktir.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_164_165"
+    },
+    {
+      "num": 166,
+      "text": "Bir grup ortaokul öğrencisi, okul bahçesindeki bitkileri tanıtmak amacıyla her bitkinin yanına üzerinde Türkçe ve Latince adının, özelliklerinin ve bakım bilgilerinin yer aldığı bilgilendirme kartları hazırladı.\nBu çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğa hakkında farkındalık oluşturmak ve öğrenmeyi desteklemek",
+        "B": "Bahçedeki bitkileri satmak",
+        "C": "Bahçeyi küçültmek",
+        "D": "Bitkilerin yerini değiştirmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 167,
+      "text": "Dört öğrenci farklı doğal afetler hakkında sunum hazırlamaktadır: Deprem, Sel, Heyelan, Çığ.\nEce deprem konusunda sunum hazırlamaktadır.\nAli sel konusunda sunum hazırlamamaktadır.\nDeniz çığ konusunda sunum hazırlamaktadır.\nZeynep, Ece ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ali deprem konusunda sunum hazırlamaktadır.",
+        "B": "Deniz çığ konusunda sunum hazırlamaktadır.",
+        "C": "Zeynep deprem konusunda sunum hazırlamaktadır.",
+        "D": "Ali heyelan konusunda sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 168,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'nin en batısında yer alan ilidir?",
+      "options": {
+        "A": "Edirne",
+        "B": "Çanakkale",
+        "C": "İzmir",
+        "D": "Muğla"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 169,
+      "text": "Aşağıdaki eserlerden hangisi Mimar Sinan'ın \"ustalık eserim\" dediği yapı olarak bilinir?",
+      "options": {
+        "A": "Sultanahmet Camii",
+        "B": "Selimiye Camii",
+        "C": "Süleymaniye Camii",
+        "D": "Ulu Cami"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 170,
+      "text": "Aşağıdaki doğal afetlerden hangisi, eğimli arazilerde toprak ve kaya kütlelerinin aşağı doğru hareket etmesiyle oluşur?",
+      "options": {
+        "A": "Deprem",
+        "B": "Sel",
+        "C": "Heyelan",
+        "D": "Hortum"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 171,
+      "text": "Metne göre kent ormanlarının aşağıdaki yararlarından hangisi belirtilmemiştir?",
+      "options": {
+        "A": "İnsanlara dinlenme alanı sunması",
+        "B": "Şehirlerin daha serin kalmasına katkı sağlaması",
+        "C": "Yeni yollar yapılmasını kolaylaştırması",
+        "D": "Canlılara yaşam alanı oluşturması"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_171_173"
+    },
+    {
+      "num": 172,
+      "text": "Metne göre kent ormanlarının eğitim açısından önemi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sadece spor yapılabilen alanlar olması",
+        "B": "Doğanın gözlemlenebileceği açık hava sınıfları olması",
+        "C": "Trafik eğitimlerinin verilmesi",
+        "D": "Fabrika kurulmasına uygun olması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_171_173"
+    },
+    {
+      "num": 173,
+      "text": "Bu metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kent ormanları şehir yaşamı ve doğal denge için önemli alanlardır.",
+        "B": "Kent ormanları yalnızca piknik yapmak için kullanılmalıdır.",
+        "C": "Şehirlerde ağaçlandırmaya gerek yoktur.",
+        "D": "Kent ormanları sadece yaz aylarında önemlidir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_171_173"
+    },
+    {
+      "num": 174,
+      "text": "En fazla katılım hangi geziye olmuştur?",
+      "options": {
+        "A": "Bilim Merkezi",
+        "B": "Doğa Müzesi",
+        "C": "Planetaryum",
+        "D": "Arkeoloji Müzesi"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_174_175"
+    },
+    {
+      "num": 175,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Arkeoloji Müzesi gezisine katılım, Bilim Merkezi gezisinden fazladır.",
+        "B": "Planetaryum gezisi en fazla katılım alan etkinliktir.",
+        "C": "Doğa Müzesi gezisine en fazla öğrenci katılmıştır.",
+        "D": "Tüm gezilere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_174_175"
+    },
+    {
+      "num": 176,
+      "text": "Bir grup öğrenci, yaşadıkları şehrin tarihî yapılarını tanıtan kısa videolar hazırlayarak sosyal medyada paylaştı. Videolar kısa sürede binlerce kişi tarafından izlendi ve birçok kişi bu yapıları ziyaret etmeye başladı.\nBu çalışmanın en önemli sonucu aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî ve kültürel değerlerin daha geniş kitlelere tanıtılması",
+        "B": "İnternet kullanımının azaltılması",
+        "C": "Tarihî yapıların taşınması",
+        "D": "Sosyal medyanın yasaklanması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 177,
+      "text": "Dört öğrenci farklı keşifler hakkında sunum hazırlamaktadır: Elektrik, Buhar Makinesi, Matbaa, Teleskop.\nElif teleskopu seçmiştir.\nBerk matbaayı seçmemiştir.\nMert buhar makinesini seçmiştir.\nAyşe, Elif ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Berk matbaayı seçmiştir.",
+        "B": "Mert buhar makinesini seçmiştir.",
+        "C": "Ayşe teleskopu seçmiştir.",
+        "D": "Elif elektriği seçmiştir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 178,
+      "text": "Aşağıdaki doğal oluşumlardan hangisi, sıcak su kaynaklarının oluşturduğu beyaz travertenleriyle ünlüdür?",
+      "options": {
+        "A": "Pamukkale",
+        "B": "Kapadokya",
+        "C": "Nemrut Dağı",
+        "D": "Uludağ"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 179,
+      "text": "Aşağıdaki bilim insanlarından hangisi, geliştirdiği radyoaktivite çalışmalarıyla iki farklı dalda Nobel Ödülü kazanmıştır?",
+      "options": {
+        "A": "Albert Einstein",
+        "B": "Marie Curie",
+        "C": "Isaac Newton",
+        "D": "Galileo Galilei"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 180,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'de çayın üretimiyle öne çıkmaktadır?",
+      "options": {
+        "A": "Rize",
+        "B": "Antalya",
+        "C": "Kayseri",
+        "D": "Gaziantep"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 181,
+      "text": "Metne göre tohum bankalarının kurulma amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Meyve satışını artırmak",
+        "B": "Bitki türlerini uzun yıllar korumak",
+        "C": "Tarım makineleri üretmek",
+        "D": "Gübre üretimini artırmak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_181_183"
+    },
+    {
+      "num": 182,
+      "text": "Metne göre aşağıdakilerden hangisi tohum bankalarının önemini artıran durumlardan biridir?",
+      "options": {
+        "A": "Doğal afetler ve iklim değişikliği",
+        "B": "Yaz tatilinin uzaması",
+        "C": "Şehir nüfusunun azalması",
+        "D": "Yeni yolların yapılması"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_181_183"
+    },
+    {
+      "num": 183,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Tohum bankaları yalnızca çiftçiler için gereklidir.",
+        "B": "Tohum bankaları biyolojik çeşitliliğin korunmasına katkı sağlar.",
+        "C": "Tohumlar açık havada saklanmalıdır.",
+        "D": "Tarım gelecekte önemini kaybedecektir."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_181_183"
+    },
+    {
+      "num": 184,
+      "text": "En fazla öğrencinin katıldığı proje hangisidir?",
+      "options": {
+        "A": "Kitap Bağışı",
+        "B": "Fidan Dikimi",
+        "C": "Geri Dönüşüm",
+        "D": "Sokak Hayvanlarına Destek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_184_185"
+    },
+    {
+      "num": 185,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Geri Dönüşüm projesine katılım, Kitap Bağışı projesinden fazladır.",
+        "B": "Sokak Hayvanlarına Destek en fazla katılım alan projedir.",
+        "C": "Kitap Bağışı en az katılım alan projedir.",
+        "D": "Fidan Dikimi en az katılım alan projedir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_184_185"
+    },
+    {
+      "num": 186,
+      "text": "Bir grup ortaokul öğrencisi, yaşadıkları ilçedeki tarihî çeşmeleri fotoğraflayarak konum bilgileriyle birlikte dijital bir harita oluşturdu. Hazırlanan çalışma sayesinde hem turistler hem de araştırmacılar bu yapılara daha kolay ulaşabiliyor.\nBu çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî mirası kayıt altına almak ve tanıtmak",
+        "B": "Yeni çeşmeler inşa etmek",
+        "C": "Turist sayısını azaltmak",
+        "D": "Harita kullanımını sona erdirmek"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 187,
+      "text": "Dört öğrenci farklı çevre projeleri hazırlıyor: Geri dönüşüm, Su tasarrufu, Enerji verimliliği, Ağaçlandırma.\nEce geri dönüşüm projesini hazırlıyor.\nAli enerji verimliliği projesini hazırlamıyor.\nMert su tasarrufu projesini hazırlıyor.\nZeynep, Ece ile aynı projeyi hazırlamıyor.\n\n\n\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ali enerji verimliliği projesini hazırlıyor.",
+        "B": "Mert su tasarrufu projesini hazırlıyor.",
+        "C": "Zeynep geri dönüşüm projesini hazırlıyor.",
+        "D": "Ece ağaçlandırma projesini hazırlıyor."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 188,
+      "text": "Aşağıdaki doğal oluşumlardan hangisi, peri bacalarıyla ünlüdür?",
+      "options": {
+        "A": "Pamukkale",
+        "B": "Kapadokya",
+        "C": "Uzungöl",
+        "D": "Abant Gölü"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 189,
+      "text": "Aşağıdaki mucitlerden hangisi, alternatif akım (AC) sisteminin geliştirilmesine yaptığı katkılarla tanınmaktadır?",
+      "options": {
+        "A": "Nikola Tesla",
+        "B": "Alexander Graham Bell",
+        "C": "James Watt",
+        "D": "Louis Pasteur"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 190,
+      "text": "Aşağıdaki kurumların hangisi, Türkiye'de hava tahminleri ve meteorolojik ölçümlerden sorumludur?",
+      "options": {
+        "A": "Türkiye İstatistik Kurumu",
+        "B": "Meteoroloji Genel Müdürlüğü",
+        "C": "Devlet Su İşleri",
+        "D": "Türk Kızılay"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 191,
+      "text": "Metne göre mercan resiflerine \"denizlerin yağmur ormanları\" denmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Çok yüksek olmaları",
+        "B": "Çok sayıda canlıya yaşam alanı sağlamaları",
+        "C": "Sürekli yağış almaları",
+        "D": "Yalnızca tropikal bölgelerde bulunmaları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_191_193"
+    },
+    {
+      "num": 192,
+      "text": "Metne göre aşağıdakilerden hangisi mercan resiflerine zarar veren etkenlerden biridir?",
+      "options": {
+        "A": "Plastik kirliliği",
+        "B": "Ağaçlandırma çalışmaları",
+        "C": "Yağmur suyu hasadı",
+        "D": "Güneş enerjisi kullanımı"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_191_193"
+    },
+    {
+      "num": 193,
+      "text": "Bu metinden aşağıdaki sonuçlardan hangisi çıkarılabilir?",
+      "options": {
+        "A": "Mercan resiflerinin korunması hem doğa hem de ekonomi açısından önemlidir.",
+        "B": "Mercan resifleri yalnızca balıkçılar için önemlidir.",
+        "C": "Denizlerde canlı yaşamı resiflere bağlı değildir.",
+        "D": "Mercan resifleri yalnızca okyanusların derin bölgelerinde bulunur."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_191_193"
+    },
+    {
+      "num": 194,
+      "text": "En fazla öğrencinin katıldığı seminer hangisidir?",
+      "options": {
+        "A": "Robotik",
+        "B": "Uzay Bilimleri",
+        "C": "Yapay Zekâ",
+        "D": "Yenilenebilir Enerji"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_194_195"
+    },
+    {
+      "num": 195,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Robotik seminerine katılım, Uzay Bilimleri seminerinden fazladır.",
+        "B": "Yenilenebilir Enerji en fazla katılım alan seminerdir.",
+        "C": "Yapay Zekâ ile Robotik seminerlerine eşit sayıda öğrenci katılmıştır.",
+        "D": "Uzay Bilimleri en az katılım alan seminerdir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_194_195"
+    },
+    {
+      "num": 196,
+      "text": "Bir grup öğrenci, okul bahçesindeki kuş türlerini belirlemek amacıyla gözlem yaptı. Türlerin fotoğraflarını çekerek dijital bir rehber hazırlayan öğrenciler, bu rehberi okulun internet sitesinde yayımladı.\nBu çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğadaki canlı çeşitliliğini tanıtmak ve koruma bilinci oluşturmak",
+        "B": "Kuşların göç etmesini engellemek",
+        "C": "İnternet kullanımını azaltmak",
+        "D": "Yeni okul binaları yapmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 197,
+      "text": "Dört öğrenci farklı spor dalları hakkında araştırma yapmaktadır: Okçuluk, Atletizm, Yüzme, Bisiklet.\nElif yüzme hakkında araştırma yapmaktadır.\nBerk atletizm hakkında araştırma yapmamaktadır.\nMert okçuluk hakkında araştırma yapmaktadır.\nDeniz, Elif ile aynı sporu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Berk atletizm hakkında araştırma yapmaktadır.",
+        "B": "Mert okçuluk hakkında araştırma yapmaktadır.",
+        "C": "Deniz yüzme hakkında araştırma yapmaktadır.",
+        "D": "Elif bisiklet hakkında araştırma yapmaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 198,
+      "text": "Aşağıdaki bilim insanlarından hangisi, geliştirdiği hareket ve çekim yasalarıyla modern fiziğin temellerini atan isimlerden biridir?",
+      "options": {
+        "A": "Isaac Newton",
+        "B": "Charles Darwin",
+        "C": "Gregor Mendel",
+        "D": "Louis Pasteur"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 199,
+      "text": "Aşağıdaki şehirlerden hangisi, Mevlânâ Müzesi ile tanınmaktadır?",
+      "options": {
+        "A": "Bursa",
+        "B": "Konya",
+        "C": "Sivas",
+        "D": "Erzurum"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 200,
+      "text": "Aşağıdaki gezegenlerden hangisi Güneş Sistemi'nin en büyük gezegenidir?",
+      "options": {
+        "A": "Mars",
+        "B": "Jüpiter",
+        "C": "Venüs",
+        "D": "Dünya"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 201,
+      "text": "Metne göre sulak alanların aşağıdaki görevlerinden hangisi belirtilmiştir?",
+      "options": {
+        "A": "Deprem riskini azaltmak",
+        "B": "Fazla yağmur sularını depolamak",
+        "C": "Elektrik üretmek",
+        "D": "Maden çıkarmak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_201_203"
+    },
+    {
+      "num": 202,
+      "text": "Metne göre sulak alanların küçülmesinin nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Bilinçli çevre çalışmaları",
+        "B": "Plansız yapılaşma",
+        "C": "Ağaç dikme kampanyaları",
+        "D": "Geri dönüşüm faaliyetleri"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_201_203"
+    },
+    {
+      "num": 203,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sulak alanlar korunması gereken önemli doğal alanlardır.",
+        "B": "Sulak alanlar yalnızca balıkçılar için önemlidir.",
+        "C": "Sulak alanların ekonomik değeri yoktur.",
+        "D": "Sulak alanlar sadece yaz aylarında önemlidir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_201_203"
+    },
+    {
+      "num": 204,
+      "text": "En fazla katılım hangi etkinliğe olmuştur?",
+      "options": {
+        "A": "Kimya Deneyleri",
+        "B": "Uzay Gözlemi",
+        "C": "Kodlama Yarışması",
+        "D": "Matematik Oyunları"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_204_205"
+    },
+    {
+      "num": 205,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Kodlama Yarışması'na katılım, Matematik Oyunları'ndan fazladır.",
+        "B": "Kimya Deneyleri en fazla katılım alan etkinliktir.",
+        "C": "Matematik Oyunları en az katılım alan etkinliktir.",
+        "D": "Tüm etkinliklere eşit sayıda öğrenci katılmıştır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_204_205"
+    },
+    {
+      "num": 206,
+      "text": "Bir grup öğrenci, yaşadıkları ilin unutulmaya yüz tutmuş geleneksel çocuk oyunlarını araştırdı. Oyunların kurallarını yazıya dökerek videolar hazırladı ve okulun dijital arşivinde yayımladı.\nBu projenin temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kültürel mirası korumak ve gelecek kuşaklara aktarmak",
+        "B": "Bilgisayar oyunlarını yasaklamak",
+        "C": "Ders saatlerini azaltmak",
+        "D": "Spor salonlarını kapatmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 207,
+      "text": "Dört öğrenci farklı doğa olayları hakkında sunum hazırlıyor: Gökkuşağı, Kuzey Işıkları, Güneş Tutulması, Ay Tutulması.\nElif, Güneş Tutulması hakkında sunum hazırlamaktadır.\nBerk, Ay Tutulması hakkında sunum hazırlamamaktadır.\nMert, Kuzey Işıkları hakkında sunum hazırlamaktadır.\nDeniz, Elif ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Berk Ay Tutulması hakkında sunum hazırlamaktadır.",
+        "B": "Mert Kuzey Işıkları hakkında sunum hazırlamaktadır.",
+        "C": "Deniz Güneş Tutulması hakkında sunum hazırlamaktadır.",
+        "D": "Elif Gökkuşağı hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 208,
+      "text": "Aşağıdaki Türk bilim insanlarından hangisi, DNA onarımı konusundaki çalışmalarıyla Nobel Kimya Ödülü kazanmıştır?",
+      "options": {
+        "A": "Aziz Sancar",
+        "B": "Cahit Arf",
+        "C": "Gazi Yaşargil",
+        "D": "Fuat Sezgin"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 209,
+      "text": "Aşağıdaki şehirlerden hangisi, Göbeklitepe ile tanınmaktadır?",
+      "options": {
+        "A": "Konya",
+        "B": "Şanlıurfa",
+        "C": "Mardin",
+        "D": "Gaziantep"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 210,
+      "text": "Aşağıdaki enerji kaynaklarından hangisi yenilenebilir enerji kaynakları arasında yer alır?",
+      "options": {
+        "A": "Kömür",
+        "B": "Petrol",
+        "C": "Güneş enerjisi",
+        "D": "Doğal gaz"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 211,
+      "text": "Metne göre dijital müzelerin en önemli avantajı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Tarihî eserlerin satılmasını sağlaması",
+        "B": "Müzelere internet üzerinden erişim imkânı sunması",
+        "C": "Müzelerin kapatılmasına neden olması",
+        "D": "Tarihî eserlerin sayısını artırması"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_211_213"
+    },
+    {
+      "num": 212,
+      "text": "Metne göre uzmanların dijital müzeler hakkındaki görüşü aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Gerçek müzelerin artık gereksiz olduğu",
+        "B": "Öğrenmeyi desteklediği ancak gerçek deneyimin yerini tamamen tutmadığı",
+        "C": "Sadece çocuklar için hazırlandığı",
+        "D": "İnternet kullanılmadan gezilebildiği"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_211_213"
+    },
+    {
+      "num": 213,
+      "text": "Metnin ana düşüncesi aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dijital müzeler öğrenmeyi kolaylaştıran önemli araçlardır.",
+        "B": "Müzeler yalnızca internetten gezilmelidir.",
+        "C": "Tarihî eserlerin korunmasına gerek yoktur.",
+        "D": "Teknoloji kültürel mirasa zarar vermektedir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_211_213"
+    },
+    {
+      "num": 214,
+      "text": "En çok okunan kitap türü hangisidir?",
+      "options": {
+        "A": "Bilim",
+        "B": "Roman",
+        "C": "Tarih",
+        "D": "Biyografi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_214_215"
+    },
+    {
+      "num": 215,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Biyografi kitapları, tarih kitaplarından daha fazla okunmuştur.",
+        "B": "Tarih kitapları en fazla okunmuştur.",
+        "C": "Bilim kitapları romanlardan daha fazla okunmuştur.",
+        "D": "Roman ve bilim kitapları eşit sayıda okunmuştur."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_214_215"
+    },
+    {
+      "num": 216,
+      "text": "Bir okulun öğrencileri, kullanılmayan elektronik cihazları toplayarak geri dönüşüm merkezine teslim etti. Elde edilen gelirle ihtiyaç sahibi öğrenciler için kitap satın alındı.\nBu projeyle aşağıdaki amaçlardan hangisine birlikte ulaşılmıştır?",
+      "options": {
+        "A": "Çevreyi korumak ve eğitime destek olmak",
+        "B": "Elektronik eşya satışını artırmak",
+        "C": "Okul tatilini uzatmak",
+        "D": "Elektrik tüketimini artırmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 217,
+      "text": "Dört öğrenci farklı Türk bilim insanları hakkında sunum hazırlıyor: Cahit Arf, Aziz Sancar, Fuat Sezgin, Gazi Yaşargil.\nAyşe, Aziz Sancar hakkında sunum hazırlıyor.\nKerem, Cahit Arf hakkında sunum hazırlamıyor.\nElif, Fuat Sezgin hakkında sunum hazırlıyor.\nMert, Ayşe ile aynı kişiyi seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem Cahit Arf hakkında sunum hazırlıyor.",
+        "B": "Elif Fuat Sezgin hakkında sunum hazırlıyor.",
+        "C": "Mert Aziz Sancar hakkında sunum hazırlıyor.",
+        "D": "Ayşe Gazi Yaşargil hakkında sunum hazırlıyor."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 218,
+      "text": "Aşağıdaki doğal oluşumlardan hangisi, volkanik tüflerin aşınmasıyla oluşan peri bacalarıyla ünlüdür?",
+      "options": {
+        "A": "Kapadokya",
+        "B": "Pamukkale",
+        "C": "Uludağ",
+        "D": "Abant Gölü"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 219,
+      "text": "Aşağıdaki sanat dallarından hangisinde nota kullanılarak eserler oluşturulur?",
+      "options": {
+        "A": "Heykel",
+        "B": "Resim",
+        "C": "Müzik",
+        "D": "Mimarlık"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 220,
+      "text": "Aşağıdaki ülkelerden hangisi, piramitleriyle tanınmaktadır?",
+      "options": {
+        "A": "İtalya",
+        "B": "Mısır",
+        "C": "Hindistan",
+        "D": "Brezilya"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 221,
+      "text": "Metne göre yapay mercan resiflerinin oluşturulmasının temel nedeni aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Deniz ulaşımını hızlandırmak",
+        "B": "Zarar gören deniz yaşamını desteklemek",
+        "C": "Yeni limanlar oluşturmak",
+        "D": "Balık avcılığını yasaklamak"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_221_223"
+    },
+    {
+      "num": 222,
+      "text": "Metne göre uzmanların özellikle vurguladığı düşünce aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Yapay resifler doğal resiflerden daha iyidir.",
+        "B": "Doğal mercan resiflerinin korunması önceliklidir.",
+        "C": "Yapay resifler yalnızca turizm için yapılmaktadır.",
+        "D": "Deniz canlıları yapay resiflerde yaşayamaz."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_221_223"
+    },
+    {
+      "num": 223,
+      "text": "Bu metinden çıkarılabilecek en uygun sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Teknolojik çözümler önemlidir ancak doğayı korumanın yerini tutmaz.",
+        "B": "Denizlerde artık mercan kalmamıştır.",
+        "C": "Yapay resifler yalnızca balıkçılar içindir.",
+        "D": "Deniz kirliliği mercanları etkilemez."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_221_223"
+    },
+    {
+      "num": 224,
+      "text": "En çok ziyaret edilen stant hangisidir?",
+      "options": {
+        "A": "Astronomi",
+        "B": "Sağlıklı Yaşam",
+        "C": "Robotik",
+        "D": "Geri Dönüşüm"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_224_225"
+    },
+    {
+      "num": 225,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Sağlıklı Yaşam standı, Geri Dönüşüm standından daha fazla ziyaret edilmiştir.",
+        "B": "Astronomi standı en az ziyaret edilmiştir.",
+        "C": "Robotik ve Astronomi stantları eşit sayıda ziyaret edilmiştir.",
+        "D": "Geri Dönüşüm en fazla ziyaret edilen stanttır."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_224_225"
+    },
+    {
+      "num": 226,
+      "text": "Bir grup öğrenci, yaşadıkları bölgede kullanılan eski meslek araçlarını toplayarak küçük bir okul müzesi oluşturdu. Her eşyanın kullanım amacı ve tarihçesi hakkında bilgilendirici etiketler hazırladı.\nBu çalışmanın temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Kültürel mirası korumak ve tanıtmak",
+        "B": "Yeni iş makineleri üretmek",
+        "C": "Eski eşyaları satmak",
+        "D": "Teknolojiyi kullanmayı bırakmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 227,
+      "text": "Dört öğrenci farklı gezegenler hakkında sunum hazırlıyor: Mars, Venüs, Satürn, Jüpiter.\nEce, Mars hakkında sunum hazırlıyor.\nKerem, Jüpiter hakkında sunum hazırlamıyor.\nElif, Venüs hakkında sunum hazırlıyor.\nDeniz, Ece ile aynı gezegeni seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem Jüpiter hakkında sunum hazırlıyor.",
+        "B": "Elif Venüs hakkında sunum hazırlıyor.",
+        "C": "Deniz Mars hakkında sunum hazırlıyor.",
+        "D": "Ece Satürn hakkında sunum hazırlıyor."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 228,
+      "text": "Aşağıdaki denizlerden hangisi Türkiye'nin kuzeyinde yer alır?",
+      "options": {
+        "A": "Akdeniz",
+        "B": "Ege Denizi",
+        "C": "Karadeniz",
+        "D": "Marmara Denizi"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 229,
+      "text": "Aşağıdaki bilim dallarından hangisi, geçmişte yaşamış canlıları fosiller aracılığıyla inceler?",
+      "options": {
+        "A": "Astronomi",
+        "B": "Jeoloji",
+        "C": "Paleontoloji",
+        "D": "Meteoroloji"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 230,
+      "text": "Aşağıdaki Türk devletlerinden hangisi, Orta Asya'da kurulan ilk Türk devleti olarak kabul edilir?",
+      "options": {
+        "A": "Osmanlı Devleti",
+        "B": "Göktürk Devleti",
+        "C": "Büyük Hun Devleti",
+        "D": "Karahanlı Devleti"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 231,
+      "text": "Metne göre yeşil çatıların aşağıdaki faydalarından hangisi belirtilmemiştir?",
+      "options": {
+        "A": "Yağmur suyunun tutulmasına yardımcı olması",
+        "B": "Binaların ısı dengesine katkı sağlaması",
+        "C": "Şehirlerdeki trafik sorununu çözmesi",
+        "D": "Canlılara yaşam alanı oluşturması"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_231_233"
+    },
+    {
+      "num": 232,
+      "text": "Yeşil çatı uygulamalarının yaygınlaşmasının temel amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Şehirlerde çevre koşullarını iyileştirmek",
+        "B": "Daha yüksek binalar yapmak",
+        "C": "Elektrik tüketimini artırmak",
+        "D": "Çatıları depo olarak kullanmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_231_233"
+    },
+    {
+      "num": 233,
+      "text": "Metinden çıkarılabilecek en uygun sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Doğa dostu şehir uygulamaları yaşam kalitesini artırabilir.",
+        "B": "Çatılara bitki dikmek yasaktır.",
+        "C": "Yeşil çatılar sadece kırsal alanlarda kullanılabilir.",
+        "D": "Beton yapılar çevreyi etkilemez."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_231_233"
+    },
+    {
+      "num": 234,
+      "text": "En fazla okunan kitap türü hangisidir?",
+      "options": {
+        "A": "Bilim Kurgu",
+        "B": "Macera",
+        "C": "Tarih",
+        "D": "Biyografi"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_234_235"
+    },
+    {
+      "num": 235,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Biyografi kitapları, Bilim Kurgu kitaplarından daha fazla okunmuştur.",
+        "B": "Tarih kitapları en fazla okunmuştur.",
+        "C": "Bilim Kurgu ile Macera kitapları eşit sayıda okunmuştur.",
+        "D": "Macera kitapları en az okunmuştur."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_234_235"
+    },
+    {
+      "num": 236,
+      "text": "Bir grup öğrenci, yaşadıkları ilçedeki tarihi yapıların hikâyelerini yaşlılarla röportaj yaparak kayıt altına aldı. Hazırlanan ses kayıtları ve fotoğraflar dijital arşivde yayımlandı.\nBu çalışmanın en önemli amacı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Sözlü tarih çalışmalarına katkı sağlamak ve kültürel mirası korumak",
+        "B": "Yeni binalar inşa etmek",
+        "C": "Turist sayısını azaltmak",
+        "D": "Tarihi yapıları taşımak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 237,
+      "text": "Dört öğrenci farklı doğa sporları hakkında sunum hazırlamaktadır: Dağcılık, Kano, Bisiklet, Yamaç Paraşütü.\nAyşe dağcılık hakkında sunum hazırlamaktadır.\nKerem kano hakkında sunum hazırlamamaktadır.\nElif bisiklet hakkında sunum hazırlamaktadır.\nMert, Ayşe ile aynı konuyu seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Kerem kano hakkında sunum hazırlamaktadır.",
+        "B": "Elif bisiklet hakkında sunum hazırlamaktadır.",
+        "C": "Mert dağcılık hakkında sunum hazırlamaktadır.",
+        "D": "Ayşe yamaç paraşütü hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 238,
+      "text": "Aşağıdaki eserlerden hangisi Yunus Emre'ye aittir?",
+      "options": {
+        "A": "Divanü Lügati't-Türk",
+        "B": "Mesnevi",
+        "C": "Risaletü'n-Nushiyye",
+        "D": "Kutadgu Bilig"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 239,
+      "text": "Aşağıdaki gezegenlerden hangisi, halkalarıyla en çok tanınır?",
+      "options": {
+        "A": "Mars",
+        "B": "Satürn",
+        "C": "Venüs",
+        "D": "Merkür"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 240,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'nin başkentidir?",
+      "options": {
+        "A": "İstanbul",
+        "B": "İzmir",
+        "C": "Ankara",
+        "D": "Bursa"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 241,
+      "text": "Metne göre arıların doğadaki en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Toprağı kazmak",
+        "B": "Bitkilerin tozlaşmasını sağlamak",
+        "C": "Yağmur oluşturmak",
+        "D": "Tohum üretmek"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_241_243"
+    },
+    {
+      "num": 242,
+      "text": "Metne göre arıların sayısının azalmasının nedenlerinden biri aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Geri dönüşüm çalışmaları",
+        "B": "Tarım ilaçlarının bilinçsiz kullanımı",
+        "C": "Ağaçlandırma faaliyetleri",
+        "D": "Yağmur suyu hasadı"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_241_243"
+    },
+    {
+      "num": 243,
+      "text": "Metinden çıkarılabilecek en doğru sonuç aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Arılar yalnızca bal üretimi için önemlidir.",
+        "B": "Arıların korunması, tarımsal üretim ve doğal denge açısından önemlidir.",
+        "C": "Bitkiler arılar olmadan çoğalabilir.",
+        "D": "Arılar sadece kırsal alanlarda yaşar."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": "ctx_6_241_243"
+    },
+    {
+      "num": 244,
+      "text": "En fazla öğrencinin katıldığı atölye hangisidir?",
+      "options": {
+        "A": "Astronomi",
+        "B": "Fen Deneyleri",
+        "C": "Robotik Kodlama",
+        "D": "Matematik Oyunları"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": "ctx_6_244_245"
+    },
+    {
+      "num": 245,
+      "text": "Tabloya göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": {
+        "A": "Astronomi atölyesine katılım, Matematik Oyunları atölyesinden fazladır.",
+        "B": "Fen Deneyleri en fazla katılım alan atölyedir.",
+        "C": "Robotik Kodlama ile Astronomi atölyelerine eşit sayıda öğrenci katılmıştır.",
+        "D": "Matematik Oyunları en az katılım alan atölyedir."
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": "ctx_6_244_245"
+    },
+    {
+      "num": 246,
+      "text": "Bir grup öğrenci, mahallelerindeki yaşlı vatandaşlara akıllı telefon kullanımı konusunda ücretsiz eğitim verdi. Eğitim sonunda katılımcılar görüntülü konuşma yapmayı, güvenli internet kullanmayı ve e-Devlet hizmetlerine erişmeyi öğrendi.\nBu projenin en önemli katkısı aşağıdakilerden hangisidir?",
+      "options": {
+        "A": "Dijital okuryazarlığı artırmak ve toplumsal dayanışmayı güçlendirmek",
+        "B": "Telefon satışlarını artırmak",
+        "C": "İnternet kullanımını yasaklamak",
+        "D": "Okul derslerini azaltmak"
+      },
+      "correctAnswer": "A",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 247,
+      "text": "Dört öğrenci farklı tarihî yapılar hakkında sunum hazırlıyor: Galata Kulesi, Efes Antik Kenti, Anıtkabir, Sümela Manastırı.\nZeynep, Anıtkabir hakkında sunum hazırlamaktadır.\nAli, Galata Kulesi hakkında sunum hazırlamamaktadır.\nMerve, Efes Antik Kenti hakkında sunum hazırlamaktadır.\nEmre, Zeynep ile aynı yapıyı seçmemiştir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+      "options": {
+        "A": "Ali Galata Kulesi hakkında sunum hazırlamaktadır.",
+        "B": "Merve Efes Antik Kenti hakkında sunum hazırlamaktadır.",
+        "C": "Emre Anıtkabir hakkında sunum hazırlamaktadır.",
+        "D": "Zeynep Sümela Manastırı hakkında sunum hazırlamaktadır."
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 248,
+      "text": "Aşağıdaki icatlardan hangisi, bilgilerin hızlı ve yaygın biçimde çoğaltılmasını sağlayarak bilimsel ve kültürel gelişime büyük katkı sağlamıştır?",
+      "options": {
+        "A": "Pusula",
+        "B": "Matbaa",
+        "C": "Tekerlek",
+        "D": "Barut"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 249,
+      "text": "Aşağıdaki şehirlerden hangisi, Türkiye'de kayısı üretimiyle öne çıkmaktadır?",
+      "options": {
+        "A": "Adana",
+        "B": "Malatya",
+        "C": "Erzurum",
+        "D": "Tekirdağ"
+      },
+      "correctAnswer": "B",
+      "didYouKnow": "",
+      "contextId": null
+    },
+    {
+      "num": 250,
+      "text": "Aşağıdaki gezegenlerden hangisi, Güneş'e en yakın gezegendir?",
+      "options": {
+        "A": "Dünya",
+        "B": "Venüs",
+        "C": "Merkür",
+        "D": "Mars"
+      },
+      "correctAnswer": "C",
+      "didYouKnow": "",
+      "contextId": null
+    }
+  ],
+  "contexts": [
+    {
+      "id": "ctx_6_1_4",
+      "type": "text",
+      "content": "Uzaydaki Çöp Sorunu\nİnsanlar uzaya binlerce uydu ve araştırma aracı göndermektedir. Görevini tamamlayan bazı uydular ve roket parçaları ise uzayda kalmaya devam eder. Bu kullanılmayan parçalar uzay çöpü olarak adlandırılır.\nUzay çöpleri çok yüksek hızlarda hareket ettikleri için çalışan uydulara çarpabilir ve büyük hasarlara neden olabilir. Bu durum iletişim, hava tahmini, navigasyon ve bilimsel araştırmalar gibi birçok alanı etkileyebilir. Günümüzde birçok ülke, uzay çöplerini azaltacak teknolojiler geliştirmek için ortak çalışmalar yürütmektedir.",
+      "start": 1,
+      "end": 4
+    },
+    {
+      "id": "ctx_6_5_7",
+      "type": "table",
+      "content": "Bir okulun bilim kulübünde gerçekleştirilen proje sayıları:\nRobotik 18\nÇevre 14\nAstronomi 12\nYapay Zekâ 16",
+      "start": 5,
+      "end": 7
+    },
+    {
+      "id": "ctx_6_11_14",
+      "type": "text",
+      "content": "Biyomimikri: Doğadan İlham Alan Teknoloji\nİnsanlar, karşılaştıkları problemlere çözüm bulurken bazen doğayı dikkatle gözlemler. Doğadaki canlıların milyonlarca yıl boyunca geliştirdiği özelliklerden yararlanılarak üretilen teknolojilere biyomimikri adı verilir.\nÖrneğin, yalıçapkını kuşunun uzun ve sivri gagası incelenerek yüksek hızlı trenlerin burun kısmı yeniden tasarlanmıştır. Böylece trenler tünele girerken oluşan gürültü azaltılmış, aynı zamanda daha az enerji harcanması sağlanmıştır. Benzer şekilde, kertenkelenin ayak yapısından esinlenerek güçlü yapıştırıcılar geliştirilmekte, lotus bitkisinin yapraklarından ilham alınarak kendi kendini temizleyebilen yüzeyler üretilmektedir.",
+      "start": 11,
+      "end": 14
+    },
+    {
+      "id": "ctx_6_15_17",
+      "type": "table",
+      "content": "Robot Tasarımı 52\nKodlama Atölyesi 68\nAstronomi Gözlemi 41\nFen Deneyleri 59",
+      "start": 15,
+      "end": 17
+    },
+    {
+      "id": "ctx_6_21_24",
+      "type": "text",
+      "content": "Sessiz Tehlike: Işık Kirliliği\nGece olduğunda gökyüzünde yıldızları görebilmemiz için yalnızca havanın açık olması yeterli değildir. Şehirlerde gereğinden fazla kullanılan sokak lambaları, reklam panoları ve bina aydınlatmaları gökyüzünün parlak görünmesine neden olur. Bu duruma ışık kirliliği denir.\nIşık kirliliği yalnızca gökyüzünü gözlemlemeyi zorlaştırmaz. Gece aktif olan birçok hayvanın yön bulmasını ve beslenmesini de olumsuz etkileyebilir. Ayrıca gereksiz enerji tüketimine yol açarak ekonomik kayıplara neden olur.",
+      "start": 21,
+      "end": 24
+    },
+    {
+      "id": "ctx_6_25_27",
+      "type": "table",
+      "content": "Roman 84\nBilim 56\nTarih 39\nBiyografi 21",
+      "start": 25,
+      "end": 27
+    },
+    {
+      "id": "ctx_6_31_34",
+      "type": "text",
+      "content": "Deniz Çayırları: Suyun Altındaki Gizli Ormanlar\nDeniz çayırları, deniz tabanında yaşayan çiçekli bitkilerdir. İlk bakışta yosunlarla karıştırılsalar da kök, gövde ve yaprak gibi bölümlere sahiptirler. Balıklar, deniz kaplumbağaları ve birçok küçük deniz canlısı için güvenli bir yaşam alanı oluştururlar.\nDeniz çayırları yalnızca canlılara barınak sağlamakla kalmaz; suyun temizlenmesine katkıda bulunur, kıyıların dalgalarla aşınmasını azaltır ve atmosferdeki karbondioksitin bir bölümünü depolayarak iklimin korunmasına yardımcı olur.",
+      "start": 31,
+      "end": 34
+    },
+    {
+      "id": "ctx_6_35_37",
+      "type": "graphic",
+      "content": "Kâğıt 120\nPlastik 85\nCam 60\nMetal 35",
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": "ctx_6_41_44",
+      "type": "text",
+      "content": "Arılar Neden Bu Kadar Önemlidir?\nArılar yalnızca bal üreten canlılar değildir. Çiçeklerden topladıkları nektar sırasında bitkilerin tozlaşmasına yardımcı olurlar. Tozlaşma sayesinde birçok meyve, sebze ve tarım ürünü yetişebilir.",
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": "ctx_6_45_46",
+      "type": "table",
+      "content": "Uzay 12\nÇevre 18\nRobotik 15\nSağlık 10",
+      "start": 45,
+      "end": 46
+    },
+    {
+      "id": "ctx_6_51_53",
+      "type": "text",
+      "content": "Kütüphaneler Neden Hâlâ Önemli?\nTeknolojinin gelişmesiyle birlikte bilgiye ulaşmak kolaylaşmıştır. Ancak kütüphaneler yalnızca kitapların bulunduğu yerler değildir. Sessiz çalışma ortamları, güvenilir bilgi kaynakları ve düzenli araştırma yapma imkânı sunmaları nedeniyle öğrenciler ve araştırmacılar için önemini korumaktadır.",
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": "ctx_6_54_55",
+      "type": "table",
+      "content": "<div class=\"overflow-x-auto my-4\"><table class=\"min-w-full divide-y divide-gray-200 border rounded-lg\">\n<thead class=\"bg-gray-50\"><tr>\n<th class=\"px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider\" colspan=\"3\">5. sınıf 180</th>\n</tr></thead>\n<tbody class=\"bg-white divide-y divide-gray-200\">\n<tr>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">6.</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">sınıf</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">210</td>\n</tr>\n<tr>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">7.</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">sınıf</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">195</td>\n</tr>\n<tr>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">8.</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">sınıf</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">215</td>\n</tr>\n</tbody></table></div>\n",
+      "start": 54,
+      "end": 55
+    },
+    {
+      "id": "ctx_6_61_63",
+      "type": "text",
+      "content": "Okyanusların Görünmeyen Bahçeleri: Mercan Resifleri\nMercan resifleri, denizlerde yaşayan küçük canlıların oluşturduğu büyük yapılardır. Dünyadaki okyanus tabanının çok küçük bir bölümünü kaplamalarına rağmen binlerce balık, deniz kaplumbağası ve omurgasız canlı için yaşam alanı oluştururlar.",
+      "start": 61,
+      "end": 63
+    },
+    {
+      "id": "ctx_6_64_65",
+      "type": "table",
+      "content": "Uzay Araştırmaları 96\nYapay Zekâ 118\nÇevre Bilimi 104\nSağlıklı Beslenme 82",
+      "start": 64,
+      "end": 65
+    },
+    {
+      "id": "ctx_6_71_73",
+      "type": "text",
+      "content": "Yapay Zekâ Günlük Hayatımızda\nYapay zekâ, bilgisayarların ve diğer elektronik sistemlerin bazı görevleri insan benzeri yöntemlerle yerine getirebilmesini sağlayan teknolojilerin genel adıdır. Günümüzde telefonlardaki sesli asistanlar, yabancı diller arasında çeviri yapan uygulamalar, çevrim içi alışveriş önerileri ve bazı sağlık sistemleri yapay zekâdan yararlanmaktadır.",
+      "start": 71,
+      "end": 73
+    },
+    {
+      "id": "ctx_6_74_75",
+      "type": "table",
+      "content": "Robotik 42\nResim 36\nMüzik 48\nSatranç 54",
+      "start": 74,
+      "end": 75
+    },
+    {
+      "id": "ctx_6_81_83",
+      "type": "text",
+      "content": "Sessiz Kahramanlar: Sulak Alanlar\nSulak alanlar; göller, sazlıklar, bataklıklar ve deltalar gibi suyla kaplı ya da yılın belirli dönemlerinde su altında kalan doğal alanlardır. Bu bölgeler, yüzlerce kuş türüne, balıklara, kurbağalara ve birçok canlıya yaşam ortamı sağlar.",
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": "ctx_6_84_85",
+      "type": "table",
+      "content": "Kitap Bağışı 92\nFidan Dikimi 115\nSokak Hayvanlarına Destek 88\nGeri Dönüşüm Kampanyası 105",
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": "ctx_6_91_93",
+      "type": "text",
+      "content": "Tohum Bankaları: Geleceğe Bırakılan Miras\nDünyanın farklı bölgelerinde yetişen bitkilerin tohumları, özel koşullarda saklanarak gelecek nesiller için korunmaktadır. Bu merkezlere tohum bankası adı verilir.",
+      "start": 91,
+      "end": 93
+    },
+    {
+      "id": "ctx_6_94_95",
+      "type": "table",
+      "content": "Tiyatro 150\nKitap Fuarı 185\nBilim Şenliği 170\nSatranç Turnuvası 120",
+      "start": 94,
+      "end": 95
+    },
+    {
+      "id": "ctx_6_101_103",
+      "type": "text",
+      "content": "Dünyanın En Büyük Kütüphaneleri\nGeçmişte insanlar bilgiye ulaşmak için yalnızca kitaplardan yararlanıyordu. Günümüzde ise kitapların yanında dijital kaynaklar da büyük önem taşımaktadır. Dünyanın birçok büyük kütüphanesi, milyonlarca basılı kitabın yanı sıra el yazmaları, haritalar, eski gazeteler ve dijital arşivler de bulundurmaktadır.",
+      "start": 101,
+      "end": 103
+    },
+    {
+      "id": "ctx_6_104_105",
+      "type": "table",
+      "content": "Gök Gözlemi 48\nKodlama 63\nDeney Atölyesi 57\nMatematik Oyunları 52",
+      "start": 104,
+      "end": 105
+    },
+    {
+      "id": "ctx_6_111_113",
+      "type": "text",
+      "content": "Bambu: Hızlı Büyüyen Doğa Harikası\nBambu, dünyanın en hızlı büyüyen bitkilerinden biridir. Bazı bambu türleri uygun koşullarda bir günde yaklaşık bir metre uzayabilir. Dayanıklı yapısı sayesinde ev yapımından mobilyaya, kâğıt üretiminden bisiklet iskeletlerine kadar birçok alanda kullanılmaktadır.",
+      "start": 111,
+      "end": 113
+    },
+    {
+      "id": "ctx_6_114_115",
+      "type": "table",
+      "content": "Roman 72\nBilim 58\nTarih 41\nBiyografi 29",
+      "start": 114,
+      "end": 115
+    },
+    {
+      "id": "ctx_6_121_123",
+      "type": "text",
+      "content": "Rüzgâr Enerjisi Neden Önemlidir?\nRüzgâr enerjisi, hareket eden havanın gücünden yararlanılarak elektrik üretilmesini sağlayan yenilenebilir bir enerji kaynağıdır. Rüzgâr türbinleri sayesinde fosil yakıt kullanılmadan enerji elde edilir. Böylece hem hava kirliliği azalır hem de doğal kaynaklar daha verimli kullanılmış olur.",
+      "start": 121,
+      "end": 123
+    },
+    {
+      "id": "ctx_6_124_125",
+      "type": "table",
+      "content": "Çevre 18\nRobotik 26\nSağlık 21\nUzay 15",
+      "start": 124,
+      "end": 125
+    },
+    {
+      "id": "ctx_6_131_133",
+      "type": "text",
+      "content": "Deniz Çayırları: Suyun Altındaki Gizli Kahramanlar\nDeniz çayırları, deniz tabanında yaşayan çiçekli bitkilerdir. İlk bakışta sıradan bitkiler gibi görünseler de deniz yaşamı için büyük önem taşırlar. Birçok balık türü yumurtalarını bu bitkilerin arasına bırakır ve küçük deniz canlıları burada korunur.",
+      "start": 131,
+      "end": 133
+    },
+    {
+      "id": "ctx_6_134_135",
+      "type": "table",
+      "content": "Robot Yarışması 84\nKodlama Atölyesi 96\n<div class=\"overflow-x-auto my-4\"><table class=\"min-w-full divide-y divide-gray-200 border rounded-lg\">\n<thead class=\"bg-gray-50\"><tr>\n<th class=\"px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider\" colspan=\"4\">Astronomi Söyleşisi 72</th>\n</tr></thead>\n<tbody class=\"bg-white divide-y divide-gray-200\">\n<tr>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">3</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">Boyutlu</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">Tasarım</td>\n<td class=\"px-6 py-4 whitespace-nowrap text-sm text-gray-500\">88</td>\n</tr>\n</tbody></table></div>\n",
+      "start": 134,
+      "end": 135
+    },
+    {
+      "id": "ctx_6_141_143",
+      "type": "text",
+      "content": "Arılar ve Doğadaki Görevleri\nArılar yalnızca bal üreten canlılar değildir. Çiçeklerden topladıkları polenleri başka çiçeklere taşıyarak bitkilerin çoğalmasına yardımcı olurlar. Bu olaya tozlaşma denir. Dünyada yetiştirilen birçok meyve ve sebze, arıların gerçekleştirdiği tozlaşma sayesinde ürün verir.\nSon yıllarda iklim değişikliği, tarım ilaçlarının bilinçsiz kullanımı ve doğal yaşam alanlarının azalması nedeniyle arı popülasyonlarında düşüş gözlenmektedir.",
+      "start": 141,
+      "end": 143
+    },
+    {
+      "id": "ctx_6_144_145",
+      "type": "table",
+      "content": "Robotik 60\nSatranç 52\nAstronomi 68\nKodlama 74",
+      "start": 144,
+      "end": 145
+    },
+    {
+      "id": "ctx_6_151_153",
+      "type": "text",
+      "content": "Gökyüzünü İnceleyen Dev Aynalar: Uzay Teleskopları\nBilim insanları, uzaydaki yıldızları, gezegenleri ve galaksileri daha ayrıntılı inceleyebilmek için uzay teleskopları geliştirmiştir. Dünya'daki teleskoplar atmosfer nedeniyle bazı görüntüleri net göremezken uzaydaki teleskoplar çok daha ayrıntılı gözlemler yapabilir.",
+      "start": 151,
+      "end": 153
+    },
+    {
+      "id": "ctx_6_154_155",
+      "type": "table",
+      "content": "Kuş Gözlemi 36\nFidan Dikimi 58\nDoğa Yürüyüşü 64\nGeri Dönüşüm Atölyesi 49",
+      "start": 154,
+      "end": 155
+    },
+    {
+      "id": "ctx_6_161_163",
+      "type": "text",
+      "content": "Yağmur Suyu Hasadı\nDünyanın birçok bölgesinde temiz su kaynakları giderek azalmaktadır. Bu nedenle bazı şehirlerde binaların çatılarına kurulan sistemlerle yağmur suları depolanmaktadır. Toplanan sular; bahçe sulama, temizlik ve bazı sanayi alanlarında kullanılmaktadır. Böylece içme suyu gerektirmeyen işlerde temiz su yerine yağmur suyu kullanılarak tasarruf sağlanmaktadır.",
+      "start": 161,
+      "end": 163
+    },
+    {
+      "id": "ctx_6_164_165",
+      "type": "table",
+      "content": "Resim Sergisi 95\nHalk Oyunları 72\nŞiir Dinletisi 84\nKoro Konseri 101",
+      "start": 164,
+      "end": 165
+    },
+    {
+      "id": "ctx_6_171_173",
+      "type": "text",
+      "content": "Kent Ormanları Neden Gereklidir?\nKent ormanları; şehirlerin içinde veya yakın çevresinde bulunan, insanların dinlenebildiği ve doğayla vakit geçirebildiği yeşil alanlardır. Bu alanlar yalnızca yürüyüş yapmak veya spor yapmak için değil, aynı zamanda birçok kuş ve küçük memeliye yaşam alanı sağlamak için de önemlidir.",
+      "start": 171,
+      "end": 173
+    },
+    {
+      "id": "ctx_6_174_175",
+      "type": "table",
+      "content": "Bilim Merkezi 82\nDoğa Müzesi 69\nPlanetaryum 95\nArkeoloji Müzesi 74",
+      "start": 174,
+      "end": 175
+    },
+    {
+      "id": "ctx_6_181_183",
+      "type": "text",
+      "content": "Tohum Bankaları: Geleceğin Güvencesi\nDünyanın farklı ülkelerinde kurulan tohum bankaları, çeşitli bitki türlerine ait tohumları uzun yıllar saklamak amacıyla oluşturulmuştur. Bu merkezlerde tohumlar düşük sıcaklık ve uygun nem koşullarında korunur. Amaç; doğal afet, iklim değişikliği, savaş veya hastalık gibi nedenlerle zarar görebilecek bitki türlerini geleceğe taşımaktır.",
+      "start": 181,
+      "end": 183
+    },
+    {
+      "id": "ctx_6_184_185",
+      "type": "table",
+      "content": "Kitap Bağışı 88\nFidan Dikimi 96\nSokak Hayvanlarına Destek 74\nGeri Dönüşüm 91",
+      "start": 184,
+      "end": 185
+    },
+    {
+      "id": "ctx_6_191_193",
+      "type": "text",
+      "content": "Mercan Resifleri: Denizlerin Yağmur Ormanları\nMercan resifleri, okyanus ve denizlerde yaşayan çok küçük canlıların oluşturduğu büyük yapılardır. Bu resifler, binlerce balık ve deniz canlısı için barınma, beslenme ve üreme alanı sağlar. Bu nedenle bilim insanları mercan resiflerini \"denizlerin yağmur ormanları\" olarak adlandırmaktadır.",
+      "start": 191,
+      "end": 193
+    },
+    {
+      "id": "ctx_6_194_195",
+      "type": "table",
+      "content": "Yapay Zekâ 118\nUzay Bilimleri 102\nYenilenebilir Enerji 95\nRobotik 110",
+      "start": 194,
+      "end": 195
+    },
+    {
+      "id": "ctx_6_201_203",
+      "type": "text",
+      "content": "Sessiz Kahramanlar: Sulak Alanlar\nSulak alanlar; göller, sazlıklar, bataklıklar ve deltalar gibi suyun yılın büyük bölümünde bulunduğu doğal alanlardır. Bu bölgeler birçok kuş, balık, kurbağa ve bitki türüne yaşam alanı sağlar. Ayrıca yağışlı dönemlerde fazla suyu depolayarak taşkın riskini azaltır ve yer altı sularının beslenmesine katkıda bulunur.\nSon yıllarda iklim değişikliği, plansız yapılaşma ve çevre kirliliği nedeniyle birçok sulak alan küçülmektedir.",
+      "start": 201,
+      "end": 203
+    },
+    {
+      "id": "ctx_6_204_205",
+      "type": "table",
+      "content": "Kimya Deneyleri 78\nUzay Gözlemi 112\nKodlama Yarışması 105\nMatematik Oyunları 91",
+      "start": 204,
+      "end": 205
+    },
+    {
+      "id": "ctx_6_211_213",
+      "type": "text",
+      "content": "Dijital Müzeler: Tarihe Bir Tık Uzaklıkta\nTeknolojinin gelişmesiyle birlikte birçok müze eserlerini dijital ortama taşımaya başladı. Artık insanlar dünyanın farklı ülkelerindeki müzeleri internet üzerinden gezebiliyor, eserlerin yüksek çözünürlüklü görüntülerini inceleyebiliyor ve ayrıntılı bilgilere ulaşabiliyor.",
+      "start": 211,
+      "end": 213
+    },
+    {
+      "id": "ctx_6_214_215",
+      "type": "table",
+      "content": "Roman 132\nBilim 97\nBiyografi 88\nTarih 74",
+      "start": 214,
+      "end": 215
+    },
+    {
+      "id": "ctx_6_221_223",
+      "type": "text",
+      "content": "Yapay Mercan Resifleri\nBazı kıyı bölgelerinde zamanla mercan resifleri zarar gördüğü için bilim insanları \"yapay mercan resifleri\" oluşturmayı denemektedir. Çevreye zarar vermeyen özel beton bloklar veya geri dönüştürülebilen malzemeler deniz tabanına yerleştirilmektedir. Bir süre sonra bu yapıların üzerine mercanlar ve diğer deniz canlıları yerleşmeye başlamaktadır.",
+      "start": 221,
+      "end": 223
+    },
+    {
+      "id": "ctx_6_224_225",
+      "type": "table",
+      "content": "Robotik 210\nAstronomi 195\nGeri Dönüşüm 148\nSağlıklı Yaşam 172",
+      "start": 224,
+      "end": 225
+    },
+    {
+      "id": "ctx_6_231_233",
+      "type": "text",
+      "content": "Yeşil Çatılar: Şehirlerin Doğayla Buluşması\nBüyük şehirlerde beton yapıların artması, yaz aylarında sıcaklığın yükselmesine ve yağmur sularının toprağa ulaşmasının zorlaşmasına neden olmaktadır. Bu soruna çözüm olarak birçok ülkede binaların çatılarına bitkiler dikilerek \"yeşil çatı\" uygulamaları yaygınlaştırılmaktadır.",
+      "start": 231,
+      "end": 233
+    },
+    {
+      "id": "ctx_6_234_235",
+      "type": "table",
+      "content": "Bilim Kurgu 64\nMacera 82\nTarih 55\nBiyografi 71",
+      "start": 234,
+      "end": 235
+    },
+    {
+      "id": "ctx_6_241_243",
+      "type": "text",
+      "content": "Arılar ve Doğadaki Görevleri\nArılar yalnızca bal üreten canlılar değildir. Çiçekten çiçeğe dolaşırken bitkilerin tozlaşmasını sağlarlar. Bu sayede birçok meyve, sebze ve tarım ürünü yetişebilir. Bilim insanları, dünya üzerindeki besin üretiminin önemli bir bölümünün arılar gibi tozlayıcı canlılara bağlı olduğunu belirtmektedir.",
+      "start": 241,
+      "end": 243
+    },
+    {
+      "id": "ctx_6_244_245",
+      "type": "table",
+      "content": "Robotik Kodlama 124\nFen Deneyleri 97\nMatematik Oyunları 105\nAstronomi 116",
+      "start": 244,
+      "end": 245
+    }
+  ]
+}
